@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            qgustavor.tk
+locale:           pt_BR
+url:              https://qgustavor.tk
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Gustavo
+  avatar: https://secure.gravatar.com/avatar/4039a864f60bdb71f6b8ad64f0b94f87
+  bio: "A random guy from the internet."
   email:
   disqus-shortname:
   twitter: #username

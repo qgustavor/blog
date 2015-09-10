@@ -1,0 +1,38 @@
+---
+layout: post
+tags: [1animepordia]
+title: Kamisama no Inai Nichiyoubi
+modified: 2015-04-11
+excerpt: "NO COMEÇO, quando Deus criou os céus e a terra […]<br><i>Gênesis 1</i>¹<br>"
+---
+
+Kamisama no Inai Nichiyoubi
+===========================
+
+> NO COMEÇO, quando Deus criou os céus e a terra \[…\]\
+> *Gênesis 1*¹\
+
+E assim foi o início do mundo, só que nessa história uma reviravolta
+ocorre uma semana depois: “Kamisama no Inai Nichiyoubi” é “Domingo sem
+Deus”.
+
+Em termos práticos isso seria o “inferno na terra” (tem um filme com
+esse nome?). No anime o resultado é outro: as pessoas simplesmente
+deixam de morrer (estranho, né?).
+
+Se nessa história as pessoas não morrem o que acontece? Sofrimento
+eterno ou vida eterna? Depende, mas o caso mais comum é o primeiro. As
+pessoas não morrem, mas sofrem danos, logo o sofrimento. Se chegam em um
+estado que não dá para manter o corpo simplesmente reaparecem.
+
+Minha opinião a curto prazo (só ver o arquivo do blog) foi bem
+influenciada por que eu tinha assistido o final do anime antes do
+início. Agora ela está pior: por que tantas regras diferentes? De onde
+vem os poderes de alguns? No final tudo virou uma mistureira total…
+
+<!-- more -->
+
+¹ O site é meu, a versão é a Bíblia Viva e a referência do anime mesmo,
+aparece logo no início.\
+
+
