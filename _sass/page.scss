@@ -50,7 +50,15 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
+	margin-top: -3.5em;
+	.top-navigation .navtoggle {
+		float: right;
+	}
 	@media #{$small} {
+		.top-navigation .navtoggle {
+			float: none;
+		}
+		margin-top: 0;
 		@include grid(12,9);
 		@include prefix(12,0);
 		@include suffix(12,0);
