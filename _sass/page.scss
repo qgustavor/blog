@@ -730,3 +730,23 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+
+
+/*
+   Home specific styles
+   ========================================================================== */
+   
+.home .top-navigation > nav {
+	@extend .site-name;
+	text-align: right;
+}
+  
+.home .navigation-wrapper a {
+	color: $white;
+}
+
+.home .image-wrap {
+	top: -5.5em;
+	z-index: -1;
+	margin-bottom: -5.5em;
+}
