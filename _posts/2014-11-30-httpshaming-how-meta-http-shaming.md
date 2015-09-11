@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: httpshaming:
-modified: 2014-11-30 11:13:01 +0000
+date: 2014-11-30 11:13:01 +0000
 redirect_from: /post/103971733169/httpshaming-how-meta-http-shaming/,/post/103971733169/
 excerpt: "How meta: HTTP shaming on Tumblr for not having a wildcard SSL certificate on*.tumblr.com. For reals, people blog privately and read things that might be quite personal on Tumblr. SSL please!"
 ---

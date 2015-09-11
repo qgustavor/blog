@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Koe de Oshigoto!
-modified: 2015-04-18 00:00:44 +0000
+date: 2015-04-18 00:00:44 +0000
 redirect_from: /post/116681928462/koe-de-oshigoto/,/post/116681928462/
 excerpt: "Essa história é só um OVA de dois episódios, ou seja, serei breve. No ramo dos jogos <i>H</i> existem os que fazem a história, desenham os personagens, fazem a música, e por último, não por menos importante, os que trabalham usando a própria voz."
 ---

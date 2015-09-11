@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: Witch Craft Works: há uma bruxa ao seu lado
-modified: 2014-08-07 03:30:17 +0000
+date: 2014-08-07 03:30:17 +0000
 redirect_from: /post/94031544713/witch-craft-works-há-uma-bruxa-ao-seu-lado/,/post/94031544713/
 excerpt: "<img src=\"http://38.media.tumblr.com/7fe39d673b3638717ccc88172f9b8933/tumblr_inline_n9we7iFRcc1qju32f.jpg\">"
 ---

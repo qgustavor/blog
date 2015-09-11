@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: Ponto final nas resenhas:
-modified: 2014-08-30 21:26:00 +0000
+date: 2014-08-30 21:26:00 +0000
 redirect_from: /post/96202299684/ponto-final-nas-resenhas/,/post/96202299684/
 excerpt: "Como a maioria das resenhas que eu fazia são de baixa qualidade a partir de hoje não postarei mais resenhas para cada anime que terminar aqui no blog."
 ---

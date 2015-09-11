@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Toaru Kagaku no Railgun
-modified: 2015-06-02 00:00:35 +0000
+date: 2015-06-02 00:00:35 +0000
 redirect_from: /post/120482335233/toaru-kagaku-no-railgun/,/post/120482335233/
 excerpt: "Em uma cidade a maioria dos que nela habitam são estudantes, assim ela é considerada uma cidade escola. Isso é possível porque sendo bastante modernizada vários dos serviços são robotizados e alguns, como patrulhamento e segurança, é realizado pelos próprios estudantes, ainda que em parte e supervisionados."
 ---

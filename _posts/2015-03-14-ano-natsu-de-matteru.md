@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Ano Natsu de Matteru
-modified: 2015-03-15 00:00:43 +0000
+date: 2015-03-15 00:00:43 +0000
 redirect_from: /post/113641237387/ano-natsu-de-matteru/,/post/113641237387/
 excerpt: "Não é fácil confessar o amor, aliás, quase tudo relacionado a isso parece ser difícil: você gosta de alguém, que talvez já goste de outra pessoa, e assim vai."
 ---

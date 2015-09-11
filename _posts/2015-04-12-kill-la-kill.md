@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Kill la Kill
-modified: 2015-04-13 00:00:40 +0000
+date: 2015-04-13 00:00:40 +0000
 redirect_from: /post/116250025737/kill-la-kill/,/post/116250025737/
 excerpt: "Em Kill la Kill 1+1 dá mais que 3. Em Kill la Kill o Kazuma e o Ryuuho são mais que meros ex-inimigos com um objetivo em comum. Kill la Kill é tão rápido que um resumo não dura mais do que dois minutos. Afinal, Kill la Kill é Kill la Kill."
 ---

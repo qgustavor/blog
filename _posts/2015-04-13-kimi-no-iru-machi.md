@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Kimi no Iru Machi
-modified: 2015-04-14 00:00:42 +0000
+date: 2015-04-14 00:00:42 +0000
 redirect_from: /post/116337442763/kimi-no-iru-machi/,/post/116337442763/
 excerpt: "Aviso: vou escrever aqui o que eu me lembro, o que é pouco, então me desculpem. Um casal se conheceu quando criança, ele se muda com a família para a capital e deixa a namorada no interior. Anos depois ele descobre que ela largou dela e está namorando com outro cara."
 ---

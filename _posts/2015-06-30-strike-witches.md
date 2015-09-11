@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Strike Witches
-modified: 2015-07-01 00:00:43 +0000
+date: 2015-07-01 00:00:43 +0000
 redirect_from: /post/122894975190/strike-witches/,/post/122894975190/
 excerpt: "O mundo se vê sendo atacado por seres desconhecidos capazes de voar e atirar lasers. Eles regulamente atacam cidades e já dominaram o que normalmente conhecemos como a Europa. Para resolver essa questão criou-se, usando magia e tecnologia, armas que possibilitam que garotas voem e acabem com eles."
 ---

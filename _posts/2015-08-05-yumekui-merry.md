@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Yumekui Merry
-modified: 2015-08-05 10:22:26 +0000
+date: 2015-08-05 10:22:26 +0000
 redirect_from: /post/125919642854/yumekui-merry/,/post/125919642854/
 excerpt: "Um garoto tem o poder de ver os sonhos de outras pessoas e uma garota veio do mundo dos sonhos. Ela quer voltar para o seu mundo, ele decide e insiste em ajudá-la. Ambos vão juntos em uma história de dois mundos, a realidade e o mundo dos sonhos, lutando até conseguir resolver o problema dela."
 ---

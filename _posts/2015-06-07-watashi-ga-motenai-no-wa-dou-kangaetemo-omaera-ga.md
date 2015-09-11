@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-modified: 2015-06-08 00:00:49 +0000
+date: 2015-06-08 00:00:49 +0000
 redirect_from: /post/120976735021/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga/,/post/120976735021/
 excerpt: "O que você pensaria de uma garota que diz que “o problema não é meu que não sou popular” e tal, ela deve ter no mínimo um probleminha, não? Para uma garota que tem recordes de tempo jogado em jogos de relacionamento é até impressionante como que ela não consegue resolver a vida dela."
 ---

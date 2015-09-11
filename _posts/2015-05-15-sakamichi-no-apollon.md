@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Sakamichi no Apollon
-modified: 2015-05-16 00:00:25 +0000
+date: 2015-05-16 00:00:25 +0000
 redirect_from: /post/119064351538/sakamichi-no-apollon/,/post/119064351538/
 excerpt: "A época retratada nesse anime é 1966: A Noviça Rebelde tinha acabado de sair do cinema e o jazz ainda era forte mas estava perdendo espaço para o rock. Mesmo com esses pontos não estamos na América, é Japão mesmo. Já os personagens já são os de sempre: jovens no ensino médio."
 ---

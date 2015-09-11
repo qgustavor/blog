@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Michiko to Hatchin
-modified: 2015-07-07 00:00:37 +0000
+date: 2015-07-07 00:00:37 +0000
 redirect_from: /post/123412596676/michiko-to-hatchin/,/post/123412596676/
 excerpt: "Uma mistura de tudo que não é japonês acompanhado de samba e carnaval, MPB e amazônia, touradas e sertanejo, favelas e funk. História de mulheres guerreiras que vivem no conflito e lutam sem precisar de seus príncipes encantados."
 ---

@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Angel Beats!
-modified: 2015-03-13 00:02:28 +0000
+date: 2015-03-13 00:02:28 +0000
 redirect_from: /post/113467965019/angel-beats/,/post/113467965019/
 excerpt: "Como é morrer? Se morresse você lutaria contra a situação ou viveria uma nova vida normalmente?"
 ---

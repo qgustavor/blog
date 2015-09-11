@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Panty & Stocking with Garterbelt
-modified: 2015-05-10 00:00:45 +0000
+date: 2015-05-10 00:00:45 +0000
 redirect_from: /post/118563487217/panty-stocking-with-garterbelt/,/post/118563487217/
 excerpt: "As meninas super poderosas cresceram! Nessa animação japonesa (i.e. anime) com estilo de animação americana (i.e. cartoon) é mostrado duas garotas ( e um cachorro ) que combatem o mal usando, respectivamente, suas calcinhas e meias-calças, acompanhadas de um padre que pratica <i>bondage¹ </i>e usa afro."
 ---

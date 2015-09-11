@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Romantica Clock
-modified: 2015-06-30 00:00:48 +0000
+date: 2015-06-30 00:00:48 +0000
 redirect_from: /post/122804810842/romantica-clock/,/post/122804810842/
 excerpt: "Esse é um especial de três episódios que juntos dá uns quatro minutos, tão curto que prefiro assistir de novo antes de postar isso."
 ---

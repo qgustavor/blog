@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Ore no Imouto ga Konnani Kawaii Wake ga Nai
-modified: 2015-05-08 00:01:01 +0000
+date: 2015-05-08 00:01:01 +0000
 redirect_from: /post/118401610853/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai/,/post/118401610853/
 excerpt: "Minha irmã não pode ser assim tão linda ( vá tirando os olhos dela… <i>brincadeira</i> ). O que teria em uma história com esse nome? Irmãos apaixonados, para começar, bagunça na família, claro, e também diversas cenas engraçadas."
 ---

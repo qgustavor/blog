@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Kotonoha no Niwa
-modified: 2015-04-19 00:00:41 +0000
+date: 2015-04-19 00:00:41 +0000
 redirect_from: /post/116769559979/kotonoha-no-niwa/,/post/116769559979/
 excerpt: "Esse filme conta a história de um casal que se encontrou em um parque, conversaram timidamente. Foram se relacionando a ponto de sempre irem aquele parque para encontrar um a outro e falar sobre as coisas que gostavam."
 ---

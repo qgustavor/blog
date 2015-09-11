@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Zero no Tsukaima
-modified: 2015-06-14 00:00:35 +0000
+date: 2015-06-14 00:00:35 +0000
 redirect_from: /post/121463131117/zero-no-tsukaima/,/post/121463131117/
 excerpt: "Um mundo paralelo onde há duas luas, a mágica é ensinada nas escolas, e ainda é um tanto medieval, onde nobreza tem orgulho disso até não poder mais. Nesse mundo uma garota não conseguia fazer magia nenhuma, por isso ganhou o apelido de Zero, situação que piorou no dia de invocação dos familiares quando ela invocou um garoto do outro mundo sem poder nenhum."
 ---

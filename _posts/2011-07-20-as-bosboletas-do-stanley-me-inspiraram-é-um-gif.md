@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: As bosboletas do Stanley me inspiraram.
-modified: 2011-07-21 00:41:45 +0000
+date: 2011-07-21 00:41:45 +0000
 redirect_from: /post/7864839138/as-bosboletas-do-stanley-me-inspiraram-é-um-gif/,/post/7864839138/
 excerpt: "É um gif, será que vai funcionar?"
 ---

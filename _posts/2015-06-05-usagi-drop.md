@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Usagi Drop
-modified: 2015-06-06 00:00:34 +0000
+date: 2015-06-06 00:00:34 +0000
 redirect_from: /post/120812564511/usagi-drop/,/post/120812564511/
 excerpt: "Após a morte de um avô muito querido, enquanto a família está no enterro, uma pessoa se destaca: a filha mais nova dele, de uns seis anos, resultado de um amor que ele teve na velhice e não foi bem visto. A mãe dessa garota ela só consta nos documentos, e assim não sobrou ninguém que cuide dela."
 ---

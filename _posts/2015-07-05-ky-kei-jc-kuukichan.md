@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: KY Kei JC Kuukichan
-modified: 2015-07-06 00:00:52 +0000
+date: 2015-07-06 00:00:52 +0000
 redirect_from: /post/123322684901/ky-kei-jc-kuukichan/,/post/123322684901/
 excerpt: "Não assista esse anime, é horrível. Pode ser até proposital, mas é horrível. Também não se preocupe de achar que está ficando de fora: exceto uns esquisitos ninguém assistiu também."
 ---

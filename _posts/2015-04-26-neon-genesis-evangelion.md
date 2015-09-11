@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Neon Genesis Evangelion
-modified: 2015-04-27 00:00:39 +0000
+date: 2015-04-27 00:00:39 +0000
 redirect_from: /post/117471229760/neon-genesis-evangelion/,/post/117471229760/
 excerpt: "Um garoto quase completamente rejeitado pelo pai, um cientista famoso que só vive trabalhando, é chamado por ele para participar de uma pesquisa dele. Sua pesquisa são robôs gigantes que são usados para defender o país de seres que atacam as cidades e dizimam centenas de vidas."
 ---

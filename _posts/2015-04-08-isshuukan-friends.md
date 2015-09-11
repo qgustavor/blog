@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Isshuukan Friends
-modified: 2015-04-09 00:00:41 +0000
+date: 2015-04-09 00:00:41 +0000
 redirect_from: /post/115893831787/isshuukan-friends/,/post/115893831787/
 excerpt: "Você seria amigo de alguém mesmo que se durasse uma semana? Uma garota tem um problema de memória: esquece tudo o que ela passou de bom toda segunda. Um garoto, curioso, decide ser amigo. Ela diz que não pode, porém ele insiste, e continua insistindo, toda semana."
 ---

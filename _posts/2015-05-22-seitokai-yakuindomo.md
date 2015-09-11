@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Seitokai Yakuindomo
-modified: 2015-05-23 00:00:36 +0000
+date: 2015-05-23 00:00:36 +0000
 redirect_from: /post/119638373441/seitokai-yakuindomo/,/post/119638373441/
 excerpt: "Um colégio feminino abriu as portas para garotos, dessa forma no primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há garotas. Para melhorar esse relacionamento das turmas um garoto foi convocado a participar do conselho estudantil, que no momento era composto de duas garotas com crises sexuais e uma com crise de altura. Com esse cenário é possível imaginar qualquer tipo de piadinha sexual, constrangimento e qualquer outra coisa engraçada.<br>"
 ---

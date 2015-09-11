@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Suzumiya Haruhi no Yuuutsu
-modified: 2015-05-30 00:00:42 +0000
+date: 2015-05-30 00:00:42 +0000
 redirect_from: /post/120224168003/suzumiya-haruhi-no-yuuutsu/,/post/120224168003/
 excerpt: "Vamos falar da Haruhi, para quem não sabe é a toda poderosa dos animes e não falem o contrário por que se ela se irritar, ficar com tédio ou qualquer coisa do tipo você vai sofrer, e muito."
 ---

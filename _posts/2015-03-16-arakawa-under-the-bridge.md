@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Arakawa Under the Bridge
-modified: 2015-03-17 00:00:25 +0000
+date: 2015-03-17 00:00:25 +0000
 redirect_from: /post/113827916990/arakawa-under-the-bridge/,/post/113827916990/
 excerpt: "Que dia corrido esse não? Um monte de coisas para fazer, diversas responsabilidades, não é bom ficar dependendo de outros… só não leve isso tão a sério quanto foi nessa história."
 ---

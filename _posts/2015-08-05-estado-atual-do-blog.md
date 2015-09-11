@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: Estado atual do blog
-modified: 2015-08-05 10:46:01 +0000
+date: 2015-08-05 10:46:01 +0000
 redirect_from: /post/125920468444/estado-atual-do-blog/,/post/125920468444/
 excerpt: "Gosto do Tumblr pela simplicidade e praticidade, porém acabo tendo que aguentar diversos problemas, desde a falta de HTTPS, não poder editar postagens no celular e bugs no sistema de agendamento."
 ---
