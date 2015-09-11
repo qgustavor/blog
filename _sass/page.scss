@@ -51,11 +51,11 @@ body {
 	float: none;
 	display: block;
 	margin-top: -3.5em;
-	.top-navigation .navtoggle {
+	.navtoggle {
 		float: right;
 	}
 	@media #{$small} {
-		.top-navigation .navtoggle {
+		.navtoggle {
 			float: none;
 		}
 		margin-top: 0;
