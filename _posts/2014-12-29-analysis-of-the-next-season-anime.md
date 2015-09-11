@@ -8,8 +8,5 @@ modified: 2014-12-29 13:15:29 +0000
 redirect_from: /post/106507702344/analysis-of-the-next-season-anime/,/post/106507702344/
 ---
 
-Analysis of the Next Season Anime
-=================================
-
 <http://pastebin.com/8qHHHPdC>
 

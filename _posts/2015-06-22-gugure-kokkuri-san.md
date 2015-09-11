@@ -7,9 +7,6 @@ redirect_from: /post/122206992430/gugure-kokkuri-san/,/post/122206992430/
 excerpt: "Estava vasculhando os canais naquele programa de <i>streaming</i> péssimo e encontrei esse desenho passando. Fui pesquisar para descobrir que ninguém tinha traduzido ele mas já tinha sido atingido pela fofura daquela boneca sem coração. Depois dei um jeito e acabei assistindo.<br>"
 ---
 
-Gugure! Kokkuri-san
-===================
-
 Estava vasculhando os canais naquele programa de *streaming* péssimo e
 encontrei esse desenho passando. Fui pesquisar para descobrir que
 ninguém tinha traduzido ele mas já tinha sido atingido pela fofura

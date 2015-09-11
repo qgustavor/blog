@@ -7,9 +7,6 @@ redirect_from: /post/63203689971/animes-assistidos-e-mangás-de-2013/,/post/6320
 excerpt: "Terminado:"
 ---
 
-Animes assistidos e mangás de 2013
-==================================
-
 Terminado:
 
 -   Lucky Star

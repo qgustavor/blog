@@ -7,9 +7,6 @@ redirect_from: /post/118401610853/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai/,/
 excerpt: "Minha irmã não pode ser assim tão linda ( vá tirando os olhos dela… <i>brincadeira</i> ). O que teria em uma história com esse nome? Irmãos apaixonados, para começar, bagunça na família, claro, e também diversas cenas engraçadas."
 ---
 
-Ore no Imouto ga Konnani Kawaii Wake ga Nai
-===========================================
-
 Minha irmã não pode ser assim tão linda ( vá tirando os olhos dela…
 *brincadeira* ). O que teria em uma história com esse nome? Irmãos
 apaixonados, para começar, bagunça na família, claro, e também diversas

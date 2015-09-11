@@ -7,9 +7,6 @@ redirect_from: /post/116155748101/kamisama-no-memochou/,/post/116155748101/
 excerpt: "Quais segredos estão no <i>Bloco de Anotações de Deus</i>? (não sei se isso se aplica na IRL, mas parece que há uma referência, que fique assim)"
 ---
 
-Kamisama no Memochou
-====================
-
 Quais segredos estão no *Bloco de Anotações de Deus*? (não sei se isso
 se aplica na IRL, mas parece que há uma referência, que fique assim)
 

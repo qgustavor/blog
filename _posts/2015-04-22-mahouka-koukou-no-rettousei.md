@@ -7,9 +7,6 @@ redirect_from: /post/117124601936/mahouka-koukou-no-rettousei/,/post/11712460193
 excerpt: "Um mundo onde a tecnologia avançou a ponto de dominar um fator antes visto como sobrenatural, a magia, tratada como uma ciência exata porém com capacidades nunca antes experimentadas.<br>"
 ---
 
-Mahouka Koukou no Rettousei
-===========================
-
 Um mundo onde a tecnologia avançou a ponto de dominar um fator antes
 visto como sobrenatural, a magia, tratada como uma ciência exata porém
 com capacidades nunca antes experimentadas.

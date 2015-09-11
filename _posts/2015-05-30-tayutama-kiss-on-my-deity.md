@@ -7,9 +7,6 @@ redirect_from: /post/120306397833/tayutama-kiss-on-my-deity/,/post/120306397833/
 excerpt: "Antes quero contar que não foi fácil lembrar desse anime: sem consultar qualquer fonte eu tinha confundido ele com Akane-iro ni Somaru Saka. De cara posso falar que ele não marcou…"
 ---
 
-Tayutama: Kiss on My Deity
-==========================
-
 Antes quero contar que não foi fácil lembrar desse anime: sem consultar
 qualquer fonte eu tinha confundido ele com Akane-iro ni Somaru Saka. De
 cara posso falar que ele não marcou…

@@ -7,11 +7,8 @@ redirect_from: /post/75610829372/animes-e-mangás-de-2014/,/post/75610829372/
 excerpt: "Animes e mangás de 2014"
 ---
 
-Animes e mangás de 2014
-=======================
-
 Anos anteriores:
-[2013](https://qgustavor.tk/animes-assistidos-e-mangas-de-2013)
+[2013](https://qgustavor.tk/animes-assistidos-e-mangás-de-2013)
 
 Terminados:
 

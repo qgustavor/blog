@@ -7,9 +7,6 @@ redirect_from: /post/117039649446/mahou-shoujo-madoka-magica/,/post/117039649446
 excerpt: "Mais do que mais outro anime de Mahou Shoujo, aprenda sobre a história e  arquitetura mundial, encontre referências a todo o tipo de conteúdo possível, aprenda lições de vida, e o mais forte, viva a emoção do puro amor entre amigas."
 ---
 
-Mahou Shoujo Madoka★Magica
-==========================
-
 Mais do que mais outro anime de Mahou Shoujo, aprenda sobre a história
 e  arquitetura mundial, encontre referências a todo o tipo de conteúdo
 possível, aprenda lições de vida, e o mais forte, viva a emoção do puro

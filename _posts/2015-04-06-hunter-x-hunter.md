@@ -7,9 +7,6 @@ redirect_from: /post/115712538316/hunter-x-hunter/,/post/115712538316/
 excerpt: "Um garoto foi criado pela tia, a sua mãe ele não conhece e seu pai nunca aparece. Morando na ilha baleia se aventura por todo o tipo de canto e é um garoto, desde a sua infância, muito forte. Um dia, isso quando ele ainda era uma criança de por volta de uns sete anos, decide sair da ilha e prestar um exame para se tornar um Hunter, assim como o seu pai."
 ---
 
-Hunter x Hunter
-===============
-
 Um garoto foi criado pela tia, a sua mãe ele não conhece e seu pai nunca
 aparece. Morando na ilha baleia se aventura por todo o tipo de canto e é
 um garoto, desde a sua infância, muito forte. Um dia, isso quando ele

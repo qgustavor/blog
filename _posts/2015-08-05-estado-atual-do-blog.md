@@ -7,9 +7,6 @@ redirect_from: /post/125920468444/estado-atual-do-blog/,/post/125920468444/
 excerpt: "Gosto do Tumblr pela simplicidade e praticidade, porém acabo tendo que aguentar diversos problemas, desde a falta de HTTPS, não poder editar postagens no celular e bugs no sistema de agendamento."
 ---
 
-Estado atual do blog
-====================
-
 Gosto do Tumblr pela simplicidade e praticidade, porém acabo tendo que
 aguentar diversos problemas, desde a falta de HTTPS, não poder editar
 postagens no celular e bugs no sistema de agendamento.

@@ -7,9 +7,6 @@ redirect_from: /post/122629881046/ongaku-shoujo/,/post/122629881046/
 excerpt: "O que posso falar dele? Não muita coisa: é um filme do tamanho de um episódio de um anime normal. Mesmo assim é legal então vamos lá:"
 ---
 
-Ongaku Shoujo
-=============
-
 O que posso falar dele? Não muita coisa: é um filme do tamanho de um
 episódio de um anime normal. Mesmo assim é legal então vamos lá:
 

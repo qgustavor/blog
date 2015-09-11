@@ -7,9 +7,6 @@ redirect_from: /post/118563487217/panty-stocking-with-garterbelt/,/post/11856348
 excerpt: "As meninas super poderosas cresceram! Nessa animação japonesa (i.e. anime) com estilo de animação americana (i.e. cartoon) é mostrado duas garotas ( e um cachorro ) que combatem o mal usando, respectivamente, suas calcinhas e meias-calças, acompanhadas de um padre que pratica <i>bondage¹ </i>e usa afro."
 ---
 
-Panty & Stocking with Garterbelt
-================================
-
 As meninas super poderosas cresceram! Nessa animação japonesa (i.e.
 anime) com estilo de animação americana (i.e. cartoon) é mostrado duas
 garotas ( e um cachorro ) que combatem o mal usando, respectivamente,

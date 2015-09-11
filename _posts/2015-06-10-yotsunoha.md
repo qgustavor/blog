@@ -7,9 +7,6 @@ redirect_from: /post/121227895338/yotsunoha/,/post/121227895338/
 excerpt: "Um grupo de amigos enterrou uma cápsula do tempo na escola enquanto ainda estava estudavam lá. Anos depois se reuniram e voltaram para abrir ela. Mal foram chegando os primeiros já perceberam: não tinha nada nela."
 ---
 
-Yotsunoha
-=========
-
 Um grupo de amigos enterrou uma cápsula do tempo na escola enquanto
 ainda estava estudavam lá. Anos depois se reuniram e voltaram para abrir
 ela. Mal foram chegando os primeiros já perceberam: não tinha nada nela.

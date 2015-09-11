@@ -7,9 +7,6 @@ redirect_from: /post/116068334697/kamisama-no-inai-nichiyoubi/,/post/11606833469
 excerpt: "'NO COMEÇO, quando Deus criou os céus e a terra […]' só que nessa história uma reviravolta ocorre..."
 ---
 
-Kamisama no Inai Nichiyoubi
-===========================
-
 > NO COMEÇO, quando Deus criou os céus e a terra \[…\]
 > *Gênesis 1*
 

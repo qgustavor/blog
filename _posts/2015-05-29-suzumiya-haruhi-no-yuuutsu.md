@@ -7,9 +7,6 @@ redirect_from: /post/120224168003/suzumiya-haruhi-no-yuuutsu/,/post/120224168003
 excerpt: "Vamos falar da Haruhi, para quem não sabe é a toda poderosa dos animes e não falem o contrário por que se ela se irritar, ficar com tédio ou qualquer coisa do tipo você vai sofrer, e muito."
 ---
 
-Suzumiya Haruhi no Yuuutsu
-==========================
-
 Notem que pulei Sukitte Ii na yo. por que o que eu iria postar é a mesma
 coisa do [ano passado](http://qgustavor.tk/post/94215687342/sukitte-ii-na-yo). Além do
 que como é outro anime shoujo, onde é quase sempre a mesma coisa, vivo

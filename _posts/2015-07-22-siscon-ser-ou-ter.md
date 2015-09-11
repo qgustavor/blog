@@ -7,9 +7,6 @@ redirect_from: /post/124743769851/siscon-ser-ou-ter/,/post/124743769851/
 excerpt: "Uma das coisas que me intrigam é como que o tão famoso “complexo por irmãs” é colocado em uma frase. Se pensarmos de forma mais correta gramaticalmente o correto seria “você tem siscon”, ou seja, “você tem o complexo”, só que é muito comum de se encontrar “você é siscon”."
 ---
 
-Siscon: ser ou ter?
-===================
-
 Uma das coisas que me intrigam é como que o tão famoso “complexo por
 irmãs” é colocado em uma frase. Se pensarmos de forma mais correta
 gramaticalmente o correto seria “você tem siscon”, ou seja, “você tem o

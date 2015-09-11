@@ -7,9 +7,6 @@ redirect_from: /post/123502093085/mikakunin-de-shinkoukei/,/post/123502093085/
 excerpt: "No ensino médio uma garota recebe uma visita especial em casa: o noivo dela. Isso mesmo, a família tinha arrumado noivado e ela nem sabia. O cara não é lá o galã de novela e é bem desligado. Fazer o quê? Ele vai morar na casa dela e de bônus a cunhada também, a irmãzinha dele."
 ---
 
-Mikakunin de Shinkoukei
-=======================
-
 No ensino médio uma garota recebe uma visita especial em casa: o noivo
 dela. Isso mesmo, a família tinha arrumado noivado e ela nem sabia. O
 cara não é lá o galã de novela e é bem desligado. Fazer o quê? Ele vai

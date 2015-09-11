@@ -7,9 +7,6 @@ redirect_from: /post/96202299684/ponto-final-nas-resenhas/,/post/96202299684/
 excerpt: "Como a maioria das resenhas que eu fazia são de baixa qualidade a partir de hoje não postarei mais resenhas para cada anime que terminar aqui no blog."
 ---
 
-Ponto final nas resenhas:
-=========================
-
 Como a maioria das resenhas que eu fazia são de baixa qualidade a partir
 de hoje não postarei mais resenhas para cada anime que terminar aqui no
 blog.

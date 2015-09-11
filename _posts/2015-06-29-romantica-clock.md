@@ -7,9 +7,6 @@ redirect_from: /post/122804810842/romantica-clock/,/post/122804810842/
 excerpt: "Esse é um especial de três episódios que juntos dá uns quatro minutos, tão curto que prefiro assistir de novo antes de postar isso."
 ---
 
-Romantica Clock
-===============
-
 Esse é um especial de três episódios que juntos dá uns quatro minutos,
 tão curto que prefiro assistir de novo antes de postar isso.
 

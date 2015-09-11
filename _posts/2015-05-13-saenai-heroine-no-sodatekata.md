@@ -7,9 +7,6 @@ redirect_from: /post/118901999651/saenai-heroine-no-sodatekata/,/post/1189019996
 excerpt: "Um garoto, um otaku de carteirinha, encontra uma garota no meio da rua, uma cena digna de ganhar um filme… não, afinal de contas sendo um otaku achou melhor digna de virar um jogo."
 ---
 
-Saenai Heroine no Sodatekata
-============================
-
 Um garoto, um otaku de carteirinha, encontra uma garota no meio da rua,
 uma cena digna de ganhar um filme… não, afinal de contas sendo um otaku
 achou melhor digna de virar um jogo.

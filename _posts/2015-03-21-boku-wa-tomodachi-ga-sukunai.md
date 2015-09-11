@@ -7,9 +7,6 @@ redirect_from: /post/114262042920/boku-wa-tomodachi-ga-sukunai/,/post/1142620429
 excerpt: "Ultimamente parece que todo mundo é cheio de amigos, porém nessa história encontramos dois que não tem nenhum, isso é, dizem não ter nenhum. De fato, como o nome diz, não eles tem muitos amigos.<br>"
 ---
 
-Boku wa Tomodachi ga Sukunai
-============================
-
 Ultimamente parece que todo mundo é cheio de amigos, porém nessa
 história encontramos dois que não tem nenhum, isso é, dizem não ter
 nenhum. De fato, como o nome diz, não eles tem muitos amigos.

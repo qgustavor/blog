@@ -7,9 +7,6 @@ redirect_from: /post/118239473535/ookami-shoujo-to-kuro-ouji/,/post/118239473535
 excerpt: "Uma garota quer impressionar as amigas que vivem falando de seus namorados arrumando um, no desespero encontra o cara mais popular da escola que aceita a posição, não sabendo ela que ele é na verdade um sádico compulsivo."
 ---
 
-Ookami Shoujo to Kuro Ouji
-==========================
-
 Uma garota quer impressionar as amigas que vivem falando de seus
 namorados arrumando um, no desespero encontra o cara mais popular da
 escola que aceita a posição, não sabendo ela que ele é na verdade um

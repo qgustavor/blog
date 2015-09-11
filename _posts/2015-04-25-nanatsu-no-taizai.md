@@ -7,9 +7,6 @@ redirect_from: /post/117378074715/nanatsu-no-taizai/,/post/117378074715/
 excerpt: "Em um mundo onde os reinos são a principal forma de poder e onde a magia é como esse poder é sustentado sete traidores do reino são procurados por tentar assumir o poder, os sete pecados mortais, Porém, devido a problemas não tão bem esclarecidos na realeza a filha do rei vai em busca desses para que sua família seja liberta. Sendo da realeza é muito inocente, porém é sortuda: acaba parando em um bar e arrumando conversa com o dono, um garoto loirinho com cara de forte."
 ---
 
-Nanatsu no Taizai
-=================
-
 Em um mundo onde os reinos são a principal forma de poder e onde a magia
 é como esse poder é sustentado sete traidores do reino são procurados
 por tentar assumir o poder, os sete pecados mortais, Porém, devido a

@@ -7,9 +7,6 @@ redirect_from: /post/122717500177/papa-no-iukoto-wo-kikinasai/,/post/12271750017
 excerpt: "Você está no ensino médio, aproveitando as férias para trabalhar em meio período e morando em um apartamento para estudantes. A sua irmã te chama para cuidar das três filhas dela por uma noite. Você lembra o quão bem ela cuidou de você quando eram crianças e aceita."
 ---
 
-Papa no Iukoto wo Kikinasai!
-============================
-
 Você está no ensino médio, aproveitando as férias para trabalhar em meio
 período e morando em um apartamento para estudantes. A sua irmã te chama
 para cuidar das três filhas dela por uma noite. Você lembra o quão bem

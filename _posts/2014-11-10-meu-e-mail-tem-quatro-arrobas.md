@@ -7,9 +7,6 @@ redirect_from: /post/102296633534/meu-e-mail-tem-quatro-arrobas/,/post/102296633
 excerpt: "No desafio de tentar quebrar as regras não existentes de e-mail criei um que tem quatro arrobas:"
 ---
 
-Meu e-mail tem quatro arrobas
-=============================
-
 No desafio de tentar quebrar as regras não existentes de e-mail criei
 um que tem quatro arrobas:
 

@@ -7,9 +7,6 @@ redirect_from: /post/120976735021/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera
 excerpt: "O que você pensaria de uma garota que diz que “o problema não é meu que não sou popular” e tal, ela deve ter no mínimo um probleminha, não? Para uma garota que tem recordes de tempo jogado em jogos de relacionamento é até impressionante como que ela não consegue resolver a vida dela."
 ---
 
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-========================================================
-
 O que você pensaria de uma garota que diz que “o problema não é meu que
 não sou popular” e tal, ela deve ter no mínimo um probleminha, não? Para
 uma garota que tem recordes de tempo jogado em jogos de relacionamento é

@@ -7,9 +7,6 @@ redirect_from: /post/124364013193/phi-brain-kami-no-puzzle/,/post/124364013193/
 excerpt: "Um garoto nasceu e cresceu para os puzzles, não é um que ele não solucione. E com puzzle vale qualquer puzzle, desde o quebra cabeça, sodoku, jogo de palavras, puzzles mortais, qualquer um."
 ---
 
-Phi Brain: Kami no Puzzle
-=========================
-
 Um garoto nasceu e cresceu para os puzzles, não é um que ele não
 solucione. E com puzzle vale qualquer puzzle, desde o quebra cabeça,
 sodoku, jogo de palavras, puzzles mortais, qualquer um.

@@ -7,9 +7,6 @@ redirect_from: /post/121061805378/witch-craft-works/,/post/121061805378/
 excerpt: "Um garoto vivia sua vida de ensino médio, um adolescente normal, que pega ônibus, reclamava que vivia lotado e tudo mais. Não sabia ele que isso tudo tinha um sentido oculto."
 ---
 
-Witch Craft Works
-=================
-
 Esse é outro anime [que já falei dele](https://qgustavor.tk/witch-craft-works-ha-uma-bruxa-ao-seu-lado)
 antes, também se me perguntarem do nada não me lembro bem dele, ou seja
 não marcou, mas, mesmo assim, vamos lá de novo:

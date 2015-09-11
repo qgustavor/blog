@@ -7,9 +7,6 @@ redirect_from: /post/124112878320/kyoudai-no-kanata/,/post/124112878320/
 excerpt: "Há dois tipos de seres: um deles são bem variados e podem ter formas desde frutas, pessoas ou monstros gigantes; o outro ser são aqueles que controlam esses primeiros, os caçam, vendem, é a profissão deles."
 ---
 
-Kyoudai no Kanata
-=================
-
 Há dois tipos de seres: um deles são bem variados e podem ter formas
 desde frutas, pessoas ou monstros gigantes; o outro ser são aqueles que
 controlam esses primeiros, os caçam, vendem, é a profissão deles.

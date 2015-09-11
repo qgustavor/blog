@@ -7,9 +7,6 @@ redirect_from: /post/119234197011/sakura-trick/,/post/119234197011/
 excerpt: "Duas amigas em plena juventude se aventuram nos intervalos das aulas e juntas descobrem algo novo para as duas: sozinhas em uma sala de aula vazia decidem uma beijar a outra para ver como que é isso e desde aquele momento nunca pararam mais."
 ---
 
-Sakura Trick
-============
-
 Duas amigas em plena juventude se aventuram nos intervalos das aulas e
 juntas descobrem algo novo para as duas: sozinhas em uma sala de aula
 vazia decidem uma beijar a outra para ver como que é isso e desde aquele

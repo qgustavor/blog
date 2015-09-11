@@ -7,9 +7,6 @@ redirect_from: /post/123592157342/plastic-memories/,/post/123592157342/
 excerpt: "O que você faria se você já soubesse o quanto de vida você teria pela frente, ou seja, quando você morreria? Qual seria a sua reação se encontrasse alguém com esse destino? Como reagir a cada uma dessas situações?"
 ---
 
-Plastic Memories
-================
-
 O que você faria se você já soubesse o quanto de vida você teria pela
 frente, ou seja, quando você morreria? Qual seria a sua reação se
 encontrasse alguém com esse destino? Como reagir a cada uma dessas

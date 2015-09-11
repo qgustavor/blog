@@ -7,9 +7,6 @@ redirect_from: /post/118104929094/onee-chan-ga-kita/,/post/118104929094/
 excerpt: "Seu pai se casa de novo, a nova mulher dele já tem uma filha, resultado: você ganhou uma irmã mais velha. Agora descubra que sua nova irmã estava animadíssima para te conhecer, já te pesquisou em todas as redes sociais, fez uma pesquisa inteira sobre sua vida e está te amando como o melhor irmãozinho do mundo."
 ---
 
-Onee-chan ga Kita
-=================
-
 Seu pai se casa de novo, a nova mulher dele já tem uma filha, resultado:
 você ganhou uma irmã mais velha. Agora descubra que sua nova irmã estava
 animadíssima para te conhecer, já te pesquisou em todas as redes

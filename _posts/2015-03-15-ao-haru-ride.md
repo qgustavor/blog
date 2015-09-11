@@ -7,9 +7,6 @@ redirect_from: /post/113738103081/ao-haru-ride/,/post/113738103081/
 excerpt: "A juventude, as amizades e os amores, que ótima época da vida. Por outro lado uma linda menina queria que parassem que pensassem dessa maneira e abandonar seu passado de menina bonita e invejada, ainda por cima odiando os homens que só se preocupavam com segundas intenções."
 ---
 
-Ao Haru Ride
-============
-
 A juventude, as amizades e os amores, que ótima época da vida. Por outro
 lado uma linda menina queria que parassem que pensassem dessa maneira e
 abandonar seu passado de menina bonita e invejada, ainda por cima

@@ -7,9 +7,6 @@ redirect_from: /post/115804183358/ichigo-mashimaro/,/post/115804183358/
 excerpt: "<i>Kawaii</i> não é uma palavra que representa bem o que <i>kawaii </i>é. Talvez essas garotas que mostrem o que é ser <i>kawaii</i>. Veja a vida diária de um grupo de meninas do primário ( e uma jovem na faculdade ) e reflita sobre o que é ser <i>kawaii</i>."
 ---
 
-Ichigo Mashimaro
-================
-
 *Kawaii* não é uma palavra que representa bem o que *kawaii* é. Talvez
 essas garotas que mostrem o que é ser *kawaii*. Veja a vida diária de um
 grupo de meninas do primário ( e uma jovem na faculdade ) e reflita

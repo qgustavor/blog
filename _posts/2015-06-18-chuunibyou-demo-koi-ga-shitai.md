@@ -7,9 +7,6 @@ redirect_from: /post/121876607446/chuunibyou-demo-koi-ga-shitai/,/post/121876607
 excerpt: "Chuunibyou, ou a doença do segundo ano da segunda fase do fundamental (atualmente chamado de oitavo ano¹), é caracterizada por um comportamento característico típico de crianças: viver integralmente em um mundo de fantasia."
 ---
 
-Chuunibyou demo Koi ga Shitai!
-==============================
-
 Chuunibyou, ou a doença do segundo ano da segunda fase do fundamental
 (atualmente chamado de oitavo ano¹), é caracterizada por um
 comportamento característico típico de crianças: viver integralmente em

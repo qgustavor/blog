@@ -7,10 +7,7 @@ redirect_from: /post/106793471684/animes-e-mangás-de-2015/,/post/106793471684/
 excerpt: "Animes e mangás de 2015"
 ---
 
-Animes e mangás de 2015
-=======================
-
-[Lista do ano passado](https://qgustavor.tk/animes-assistidos-e-mangas-de-2014)
+[Lista do ano passado](https://qgustavor.tk/animes-assistidos-e-mangás-de-2014)
 
 **Terminados**:
 

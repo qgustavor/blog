@@ -7,9 +7,6 @@ redirect_from: /post/123155895011/byousoku-5-centimeter/,/post/123155895011/
 excerpt: "Cinco centímetros por segundo, a velocidade que caem as folhas de uma cerejeira. Estavam prestando atenção a esse fato duas crianças, um casal que prometera ver mais uma vez tal cena."
 ---
 
-Byousoku 5 Centimeter
-=====================
-
 Cinco centímetros por segundo, a velocidade que caem as folhas de uma
 cerejeira. Estavam prestando atenção a esse fato duas crianças, um casal
 que prometera ver mais uma vez tal cena.

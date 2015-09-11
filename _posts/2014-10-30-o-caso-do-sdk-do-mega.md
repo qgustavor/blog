@@ -7,9 +7,6 @@ redirect_from: /post/101359699084/o-caso-do-sdk-do-mega/,/post/101359699084/
 excerpt: "Pelo <a href=\"https://xkcd.com/1205/\" title=\"Is It Worth the Time?\">XKCD 1025</a> eu poderia ter gasto no máximo 12~24 horas para resolver um problema que gasto 30~60 segundos para fazer uma vez por dia."
 ---
 
-O caso do SDK do MEGA
-=====================
-
 Pelo [XKCD 1025](https://xkcd.com/1205/ "Is It Worth the Time?") eu
 poderia ter gasto no máximo 12\~24 horas para resolver um problema que
 gasto 30\~60 segundos para fazer uma vez por dia.

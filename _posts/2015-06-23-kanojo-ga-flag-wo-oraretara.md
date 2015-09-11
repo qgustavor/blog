@@ -7,9 +7,6 @@ redirect_from: /post/122292298495/kanojo-ga-flag-wo-oraretara/,/post/12229229849
 excerpt: "Um garoto tem o poder de ver poderes sobre as cabeças das pessoas, elas mostram algo sobre a pessoa, como se ela terá sorte em algo, ou não. Além desse poder ele tem outra habilidade especial: quebrar tais bandeiras, impedindo que aconteçam."
 ---
 
-Kanojo ga Flag wo Oraretara
-===========================
-
 Um garoto tem o poder de ver poderes sobre as cabeças das pessoas, elas
 mostram algo sobre a pessoa, como se ela terá sorte em algo, ou não.
 Além desse poder ele tem outra habilidade especial: quebrar tais

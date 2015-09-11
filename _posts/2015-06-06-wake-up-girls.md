@@ -7,9 +7,6 @@ redirect_from: /post/120892030196/wake-up-girls/,/post/120892030196/
 excerpt: "Um grupo idol de cinco garotas, luta para conseguir alcançar o sucesso. Estrearam em um show na pequena cidade delas com uma música tão marcante que praticamente decorei a letra."
 ---
 
-Wake Up, Girls!
-===============
-
 Um grupo *idol* de cinco garotas, luta para conseguir alcançar
 o sucesso. Estrearam em um show na pequena cidade delas com uma música
 tão marcante que ficou passando tanto na rádio ( de música de anime )

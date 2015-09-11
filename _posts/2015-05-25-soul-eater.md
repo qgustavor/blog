@@ -7,9 +7,6 @@ redirect_from: /post/119892356324/soul-eater/,/post/119892356324/
 excerpt: "Uma escola técnica americana recebe estudantes do mundo inteiro tanto aqueles que são naturalmente capazes de se transformar em armas quanto aqueles que desejarem manejá-las. O chefe dessa escola não é ninguém menos do que a própria morte."
 ---
 
-Soul Eater
-==========
-
 Uma escola técnica americana recebe estudantes do mundo inteiro tanto
 aqueles que são naturalmente capazes de se transformar em armas quanto
 aqueles que desejarem manejá-las. O chefe dessa escola não é ninguém

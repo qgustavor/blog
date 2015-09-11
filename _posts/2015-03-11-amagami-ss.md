@@ -7,9 +7,6 @@ redirect_from: /post/113382476494/amagami-ss/,/post/113382476494/
 excerpt: "Um garoto que teve seu coração partido no natal e seis garotas, cada uma com seu diferente jeito de ser..."
 ---
 
-Amagami SS
-==========
-
 Um garoto que teve seu coração partido no natal e seis garotas, cada uma
 com seu diferente jeito de ser. Mais que uma história essas seis mostram
 diferentes formas em que podem surgir e desenvolver um romance, cada um

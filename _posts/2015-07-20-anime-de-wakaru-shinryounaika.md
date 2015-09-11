@@ -7,9 +7,6 @@ redirect_from: /post/124615435764/anime-de-wakaru-shinryounaika/,/post/124615435
 excerpt: "Um anime de comédia falando sobre psicologia, no que poderia dar? Em algo bem divertido, claro, para quem gosta do assunto. Esse anime de episódios curtos mostra o dia a dia de uma clínica bem fora do padrão, onde só há um certinho desprezado que sabe a matéria."
 ---
 
-Anime de Wakaru Shinryounaika
-=============================
-
 Um anime de comédia falando sobre psicologia, no que poderia dar? Em
 algo bem divertido, claro, para quem gosta do assunto. Esse anime de
 episódios curtos mostra o dia a dia de uma clínica bem fora do padrão,

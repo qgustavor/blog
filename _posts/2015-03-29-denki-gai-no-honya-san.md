@@ -7,9 +7,6 @@ redirect_from: /post/114981870174/denki-gai-no-honya-san/,/post/114981870174/
 excerpt: "Entre no mundo de uma das principais literaturas japonesas acompanhando o pessoal de uma livraria na cidade elétrica. Conheça as diversas categorias de mangás, a paixão, o romance (principalmente o BL, que tem uma que ama) e todo o tipo de entretenimento que poderia ter."
 ---
 
-Denki-gai no Honya-san
-======================
-
 Entre no mundo de uma das principais literaturas japonesas acompanhando
 o pessoal de uma livraria na cidade elétrica. Conheça as diversas
 categorias de mangás, a paixão, o romance (principalmente o BL, que tem

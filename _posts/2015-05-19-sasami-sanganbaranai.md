@@ -7,9 +7,6 @@ redirect_from: /post/119399653631/sasami-sanganbaranai/,/post/119399653631/
 excerpt: "Vamos falar da história de uma garota chamada Sasami, que se pronuncia <i>sassami</i> e com mais respeito ela é a Sasami-san. De princípio ela parece ser uma garota normal, que não vai a aula por ser extremamente preguiçosa e ter como lema não se esforçar por nada. A vida dela é viver na internet ou na cama e sempre de pijama."
 ---
 
-Sasami-san@Ganbaranai
-=====================
-
 Vamos falar da história de uma garota chamada Sasami, que se pronuncia
 *sassami* e com mais respeito ela é a Sasami-san. De princípio ela
 parece ser uma garota normal, que não vai a aula por ser extremamente

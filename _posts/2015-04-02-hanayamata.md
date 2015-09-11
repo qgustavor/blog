@@ -7,9 +7,6 @@ redirect_from: /post/115339377464/hanayamata/,/post/115339377464/
 excerpt: "Uma garota da Inglaterra que quando criança visitou o Japão ficou encantada com uma dança que viu em um festival. Quando voltou, inspirada, decidiu aprender tudo sobre essa dança."
 ---
 
-Hanayamata
-==========
-
 Uma garota da Inglaterra que quando criança visitou o Japão ficou
 encantada com uma dança que viu em um festival. Quando voltou,
 inspirada, decidiu aprender tudo sobre essa dança. Juntou amigas

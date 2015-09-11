@@ -7,9 +7,6 @@ redirect_from: /post/114358997969/bokura-wa-minna-kawaisou/,/post/114358997969/
 excerpt: "A vida na pensão Kawai não é algo que todo mundo queria ter na vida, claro que é modesta, há separação (desigual) de garotos e garotas, gente e comida boa, mas no fundo mesmo eles são (um pouco) coitados mesmo."
 ---
 
-Bokura wa Minna Kawaisou
-========================
-
 A vida na pensão Kawai não é algo que todo mundo queria ter na vida,
 claro que é modesta, há separação (desigual) de garotos e garotas, gente
 e comida boa, mas no fundo mesmo eles são (um pouco) coitados mesmo.

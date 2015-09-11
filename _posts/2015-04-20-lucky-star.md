@@ -7,9 +7,6 @@ redirect_from: /post/116953123547/lucky-star/,/post/116953123547/
 excerpt: "Veja a vida diária de um grupo de meninas bem divertido: uma otaku, uma estudiosa tímida e fofa, duas irmãs que tem uns conflitos mas se dão bem uma com a outra (assim como todas as irmãs)."
 ---
 
-Lucky☆Star
-==========
-
 Veja a vida diária de um grupo de meninas bem divertido: uma otaku, uma
 estudiosa tímida e fofa, duas irmãs que tem uns conflitos mas se dão bem
 uma com a outra (assim como todas as irmãs).

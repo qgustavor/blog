@@ -7,9 +7,6 @@ redirect_from: /post/38395673788/projetos-aleatórios-para-um-futuro/,/post/3839
 excerpt: "Um dia, no Twitter, estava conversando com o amigo Konther e ele me deu uma ideia. Bem, ela inicia a lista de projetos aleatórios para um dia serem feitos."
 ---
 
-Projetos Aleatórios para um futuro
-==================================
-
 Um dia, no Twitter, estava conversando com o amigo Konther e ele me deu
 uma ideia. Bem, ela inicia a lista de projetos aleatórios para um dia
 serem feitos.

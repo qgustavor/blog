@@ -7,9 +7,6 @@ redirect_from: /post/116597633173/kodomo-no-jikan/,/post/116597633173/
 excerpt: "É a hora da criançada fazer a festa, essa história é bem dedicada a elas. De fato, é horrível o que os adultos ( e não as mulheres ) fazem com elas, porém isso não significa que elas são um tanto <i>custosas</i>."
 ---
 
-Kodomo no Jikan
-===============
-
 É a hora da criançada fazer a festa, essa história é bem dedicada a
 elas. De fato, é horrível o que os adultos ( e não as mulheres ) fazem
 com elas, porém isso não significa que elas são um tanto *custosas*.

@@ -7,9 +7,6 @@ redirect_from: /post/115981981189/joshiraku/,/post/115981981189/
 excerpt: "Acompanhe cinco garotas artistas de rakugo (um tipo de teatro de comédia) em sua vida diária, discussões femininas e outras conversas aleatórias."
 ---
 
-Joshiraku
-=========
-
 Acompanhe cinco garotas artistas de rakugo (um tipo de teatro de
 comédia) em sua vida diária, discussões femininas e outras conversas
 aleatórias.

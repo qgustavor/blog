@@ -7,9 +7,6 @@ redirect_from: /post/126545453869/non-non-biyori/,/post/126545453869/
 excerpt: "Em uma pequena vila se forma um grupo de amigas que estudam na única classe da única escola que há por lá. Por causa dos pais uma garota de Tóquio vai morar nesse lugar, o que se torna uma experiência nova e bem divertida."
 ---
 
-Non Non Biyori
-==============
-
 Em uma pequena vila se forma um grupo de amigas que estudam na única 
 classe da única escola que há por lá. Por causa dos pais uma garota de 
 Tóquio vai morar nesse lugar, o que se torna uma experiência nova e bem 

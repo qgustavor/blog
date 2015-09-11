@@ -7,9 +7,6 @@ redirect_from: /post/118984198218/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga
 excerpt: "Geralmente todas as irmãs tem um fator mínimo que as tornam um pouco estranhas, só que nessa história o fator é um pouco mais alto. Já viu uma irmã que se tranca no banheiro por umas duas horas depois de uma situação estranha contigo? Ou que do nada gosta de você, um minuto depois te odeia, depois te ama logo depois?"
 ---
 
-Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
-================================================
-
 Geralmente todas as irmãs tem um fator mínimo que as tornam um pouco
 estranhas, só que nessa história o fator é um pouco mais alto. Já viu
 uma irmã que se tranca no banheiro por umas duas horas depois de uma

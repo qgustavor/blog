@@ -7,9 +7,6 @@ redirect_from: /post/92011213724/joshiraku-uma-comédia-bem-japonesa/,/post/9201
 excerpt: "<img src=\"http://31.media.tumblr.com/9036f6ac4266078279f263011b4c0f9a/tumblr_inline_n8u5yuOYma1qju32f.png\">"
 ---
 
-Joshiraku: uma comédia bem japonesa
-===================================
-
 ![](http://31.media.tumblr.com/9036f6ac4266078279f263011b4c0f9a/tumblr_inline_n8u5yuOYma1qju32f.png)
 
 Como assistir esse anime em três passos simples:

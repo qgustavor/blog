@@ -7,9 +7,6 @@ redirect_from: /post/124875077955/haiyore-nyaruko-san/,/post/124875077955/
 excerpt: "Essa é uma história bem divertida, cheia de referências e paródias. Um garoto é atacado por uns monstros e para salvá-lo apareceu do nada uma garota do espaço que no final resolveu morar com ele."
 ---
 
-Haiyore! Nyaruko-san
-====================
-
 Essa é uma história bem divertida, cheia de referências e paródias. Um
 garoto é atacado por uns monstros e para salvá-lo apareceu do nada uma
 garota do espaço que no final resolveu morar com ele.

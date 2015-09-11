@@ -7,9 +7,6 @@ redirect_from: /post/114796383189/danshi-koukousei-no-nichijou/,/post/1147963831
 excerpt: "A rotina dos garotos de ensino médio é, obviamente, cheia de ação e aventura, garotas ao seu redor, bravura derrotando monstros e uma vida boêmia. Claro que (tirando por esse último ponto) não é nada assim."
 ---
 
-Danshi Koukousei no Nichijou
-============================
-
 A rotina dos garotos de ensino médio é, obviamente, cheia de ação e
 aventura, garotas ao seu redor, bravura derrotando monstros e uma vida
 boêmia. Claro que (tirando por esse último ponto) não é nada assim.

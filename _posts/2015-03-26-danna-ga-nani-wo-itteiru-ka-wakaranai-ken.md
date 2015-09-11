@@ -7,9 +7,6 @@ redirect_from: /post/114710973097/danna-ga-nani-wo-itteiru-ka-wakaranai-ken/,/po
 excerpt: "Ela sempre quis usar aquele vestido, ele gostava dela, mesmo que não pudesse garantir que ela fosse feliz. Ele, um otaku, ela, uma garota normal."
 ---
 
-Danna ga Nani wo Itteiru ka Wakaranai Ken
-=========================================
-
 Ela sempre quis usar aquele vestido, ele gostava dela, mesmo que não
 pudesse garantir que ela fosse feliz. Ele, um otaku, ela, uma garota
 normal.

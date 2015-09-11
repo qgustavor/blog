@@ -7,9 +7,6 @@ redirect_from: /post/117810706544/no-game-no-life/,/post/117810706544/
 excerpt: "Dois irmãos vivem ganhando todo o tipo de jogo, fazem uma dupla imbatível e não há nada que eles não ganhem, de velha a xadrez. Por outro lado na vida real eles são dois que não saem do quarto, não vão estudar e consideram a vida em si uma coisa chata e monótoma."
 ---
 
-No Game No Life
-===============
-
 Dois irmãos vivem ganhando todo o tipo de jogo, fazem uma dupla
 imbatível e não há nada que eles não ganhem, de velha a xadrez. Por
 outro lado na vida real eles são dois que não saem do quarto, não vão

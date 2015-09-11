@@ -7,9 +7,6 @@ redirect_from: /post/113827916990/arakawa-under-the-bridge/,/post/113827916990/
 excerpt: "Que dia corrido esse não? Um monte de coisas para fazer, diversas responsabilidades, não é bom ficar dependendo de outros… só não leve isso tão a sério quanto foi nessa história."
 ---
 
-Arakawa Under the Bridge
-========================
-
 Que dia corrido esse não? Um monte de coisas para fazer, diversas
 responsabilidades, não é bom ficar dependendo de outros… só não leve
 isso tão a sério quanto foi nessa história.

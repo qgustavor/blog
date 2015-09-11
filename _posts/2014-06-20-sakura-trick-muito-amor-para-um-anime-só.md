@@ -7,9 +7,6 @@ redirect_from: /post/89399255584/sakura-trick-muito-amor-para-um-anime-só/,/pos
 excerpt: "Nessa jornada que estou seguindo já encontrei vários animes. Sakura Trick tem suas diferenças, há pontos de vista diferentes e é muito bom."
 ---
 
-Sakura Trick: muito amor para um anime só
-=========================================
-
 Nessa jornada que estou seguindo já encontrei vários animes. Sakura
 Trick tem suas diferenças, há pontos de vista diferentes e é muito bom.
 

@@ -7,9 +7,6 @@ redirect_from: /post/121145411519/yahari-ore-no-seishun-love-comedy-wa-machigatt
 excerpt: "Um garoto com aqueles ares negativos acabou sendo chamado para ver se ele mudava esse comportamento. A solução encontrada foi fazer ele participar de um clube onde pessoas pedem alguma coisa e eles dão uma força para ajudar."
 ---
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru
-==================================================
-
 Um garoto com aqueles ares negativos acabou sendo chamado para ver se
 ele mudava esse comportamento. A solução encontrada foi fazer ele
 participar de um clube onde pessoas pedem alguma coisa e eles dão uma

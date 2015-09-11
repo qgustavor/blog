@@ -7,9 +7,6 @@ redirect_from: /post/94215687342/sukitte-ii-na-yo/,/post/94215687342/
 excerpt: "<img src=\"http://33.media.tumblr.com/1c37229699e4d989323e67bea4a8e539/tumblr_inline_n9wfdgVYpM1qju32f.jpg\">"
 ---
 
-Sukitte Ii na yo
-================
-
 ![](http://33.media.tumblr.com/1c37229699e4d989323e67bea4a8e539/tumblr_inline_n9wfdgVYpM1qju32f.jpg)
 
 *Nada tão bonito como uma história romântica…*

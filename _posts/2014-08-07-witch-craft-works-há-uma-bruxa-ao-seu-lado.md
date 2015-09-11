@@ -7,9 +7,6 @@ redirect_from: /post/94031544713/witch-craft-works-há-uma-bruxa-ao-seu-lado/,/p
 excerpt: "<img src=\"http://38.media.tumblr.com/7fe39d673b3638717ccc88172f9b8933/tumblr_inline_n9we7iFRcc1qju32f.jpg\">"
 ---
 
-Witch Craft Works: há uma bruxa ao seu lado
-===========================================
-
 ![](http://38.media.tumblr.com/7fe39d673b3638717ccc88172f9b8933/tumblr_inline_n9we7iFRcc1qju32f.jpg)
 
 Witch Craft Works mistura fantasia, ação, romance e muita comédia em um

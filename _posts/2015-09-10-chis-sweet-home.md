@@ -7,9 +7,6 @@ redirect_from: /post/128809543858/chis-sweet-home/,/post/128809543858/
 excerpt: "É bem infantil essa história, o que não faz ela deixar de ser interessante: conta a história de uma gatinha que se perdeu da mãe e foi encontrada por uma família que decidiu criá-la. Embora eles não pudesse ter animais onde moram mesmo assim ficaram com ela, que acabou ganhando o nome de Chi."
 ---
 
-Chi's Sweet Home
-================
-
 É bem infantil essa história, o que não faz ela deixar de ser
 interessante: conta a história de uma gatinha que se perdeu da mãe e foi
 encontrada por uma família que decidiu criá-la. Embora eles não pudesse

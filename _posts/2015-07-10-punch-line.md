@@ -7,9 +7,6 @@ redirect_from: /post/123764026114/punch-line/,/post/123764026114/
 excerpt: "Aos que perceberam o trocadilho¹: as calcinhas são o que fazem essa história desenrolar. Um garoto tem poderes, como de velocidade e força, porém o estranho deles é que eles só se despertam quando ele vê… calcinhas."
 ---
 
-Punch Line
-==========
-
 Aos que perceberam o trocadilho¹: as calcinhas são o que fazem essa
 história desenrolar. Um garoto tem poderes, como de velocidade e força,
 porém o estranho deles é que eles só se despertam quando ele vê…

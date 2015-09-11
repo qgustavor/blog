@@ -7,9 +7,6 @@ redirect_from: /post/119317232430/sakurasou-no-pet-na-kanojo/,/post/119317232430
 excerpt: "Uma garota que é uma artista prodígio mundial vai estudar em uma escola de artes no Japão e então se muda para um dormitório de estudantes chamado Sakurasou. Por ter vivido pela e apenas pela arte seu conhecimento em quase todos os outros conhecimentos da vida é quase nenhum, precisando de ajuda em tudo."
 ---
 
-Sakurasou no Pet na Kanojo
-==========================
-
 Uma garota que é uma artista prodígio mundial vai estudar em uma escola
 de artes no Japão e então se muda para um dormitório de estudantes
 chamado Sakurasou. Por ter vivido pela e apenas pela arte seu

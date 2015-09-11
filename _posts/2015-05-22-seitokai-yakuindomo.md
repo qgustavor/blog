@@ -7,9 +7,6 @@ redirect_from: /post/119638373441/seitokai-yakuindomo/,/post/119638373441/
 excerpt: "Um colégio feminino abriu as portas para garotos, dessa forma no primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há garotas. Para melhorar esse relacionamento das turmas um garoto foi convocado a participar do conselho estudantil, que no momento era composto de duas garotas com crises sexuais e uma com crise de altura. Com esse cenário é possível imaginar qualquer tipo de piadinha sexual, constrangimento e qualquer outra coisa engraçada.<br>"
 ---
 
-Seitokai Yakuindomo
-===================
-
 Um colégio feminino abriu as portas para garotos, dessa forma no
 primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há
 garotas. Para melhorar esse relacionamento das turmas um garoto foi

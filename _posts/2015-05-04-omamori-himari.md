@@ -7,9 +7,6 @@ redirect_from: /post/118104713099/omamori-himari/,/post/118104713099/
 excerpt: "Um garoto normal (alergia a gatos é normal também) vê sua vida passar por algumas mudanças inesperadas: uma garota que diz ser do seu passado aparece e declara que irá o proteger, ele descobre que tem poderes ( mas não sabe como usá-los ) e acaba passando por algumas aventuras um tanto complicadas."
 ---
 
-Omamori Himari
-==============
-
 Um garoto normal (alergia a gatos é normal também) vê sua vida passar
 por algumas mudanças inesperadas: uma garota que diz ser do seu passado
 aparece e declara que irá o proteger, ele descobre que tem poderes ( mas

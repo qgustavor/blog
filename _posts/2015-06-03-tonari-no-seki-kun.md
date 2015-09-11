@@ -7,9 +7,6 @@ redirect_from: /post/120650301338/tonari-no-seki-kun/,/post/120650301338/
 excerpt: "Um garoto, Seki-kun, é um garoto de poucas palavras e muitas ações. Ele deve ser um <i>super-nerd</i> que não precisa estudar, pois a única coisa que ele faz durante a aula é brincar. Tal ação vive incomodando sua colega ao lado, que em momentos é a “narradora” da história, em outros se mete nas brincadeiras."
 ---
 
-Tonari no Seki-kun
-==================
-
 Um garoto, Seki-kun, é um garoto de poucas palavras e muitas ações. Ele
 deve ser um *super-nerd* que não precisa estudar, pois a única coisa que
 ele faz durante a aula é brincar. Tal ação vive incomodando sua colega

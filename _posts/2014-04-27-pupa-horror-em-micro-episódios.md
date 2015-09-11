@@ -7,9 +7,6 @@ redirect_from: /post/84019921998/pupa-horror-em-micro-episódios/,/post/84019921
 excerpt: "Esse anime, embora eu tenha começado a assisti-lo faz um pouco mais de um mês, acabei assistindo ele em dois ou três dias. Na verdade, ele é um anime muito curto: cada episódio tem 4 minutos, desses 3 ocorre a ação e o outro é abertura e encerramento. 46 minutos no total."
 ---
 
-Pupa, horror em micro-episódios
-===============================
-
 Esse anime, embora eu tenha começado a assisti-lo faz um pouco mais de
 um mês, acabei assistindo ele em dois ou três dias. Na verdade, ele é um
 anime muito curto: cada episódio tem 4 minutos, desses 3 ocorre a ação e

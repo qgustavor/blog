@@ -7,9 +7,6 @@ redirect_from: /post/124280999279/sen-to-chihiro-no-kamikakushi/,/post/124280999
 excerpt: "E hoje o assunto é um filme, no caso um bem famoso, tão famoso que tem vários nomes: “Viagem de Chihiro” em português, “Spirited Away” em inglês, o nome em japonês é o do título, maior já que é tem o mesmo sentido do título em inglês somado do nome dos personagens principais."
 ---
 
-Sen to Chihiro no Kamikakushi
-=============================
-
 E hoje o assunto é um filme, no caso um bem famoso, tão famoso que tem
 vários nomes: “Viagem de Chihiro” em português, “Spirited Away” em
 inglês, o nome em japonês é o do título, maior já que é tem o mesmo

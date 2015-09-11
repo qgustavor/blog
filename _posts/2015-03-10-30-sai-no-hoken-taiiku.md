@@ -7,9 +7,6 @@ redirect_from: /post/113290432994/30-sai-no-hoken-taiiku/,/post/113290432994/
 excerpt: "Sozinho? Nunca arrumou um amor? Saiba como mudar essa situação com esse anime!"
 ---
 
-30-sai no Hoken Taiiku
-======================
-
 Sozinho? Nunca arrumou um amor? Saiba como mudar essa situação. Nessa
 história um casal de solteirões de 30 aprendem mais sobre
 relacionamentos, desde o primeiro encontro até o início de uma nova

@@ -7,9 +7,6 @@ redirect_from: /post/115163515748/golden-time/,/post/115163515748/
 excerpt: "O amor não é algo fácil (ainda mais para aquele que no momento escreve). Pior é quando você em acidente perde a memória e não sabe nem mais quem era ou quem amava. Nessas horas melhor mesmo é recomeçar do zero, foi o que pensou."
 ---
 
-Golden Time
-===========
-
 O amor não é algo fácil (ainda mais para aquele que no momento escreve).
 Pior é quando você em acidente perde a memória e não sabe nem mais quem
 era ou quem amava. Nessas horas melhor mesmo é recomeçar do zero, foi o

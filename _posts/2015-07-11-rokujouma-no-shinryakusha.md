@@ -7,9 +7,6 @@ redirect_from: /post/123845209869/rokujouma-no-shinryakusha/,/post/123845209869/
 excerpt: "Após conquistar o aluguel dos sonhos, o mais barato que se pode imaginar, um estudante vê o seu novo apartamento sendo invadido. Não era o movimento dos sem teto, porém fantasmas, seres do submundo, cosplayers garotas mágicas e alienígenas."
 ---
 
-Rokujouma no Shinryakusha
-=========================
-
 Após conquistar o aluguel dos sonhos, o mais barato que se pode
 imaginar, um estudante vê o seu novo apartamento sendo invadido. Não era
 o movimento dos sem teto, porém fantasmas, seres do submundo, cosplayers

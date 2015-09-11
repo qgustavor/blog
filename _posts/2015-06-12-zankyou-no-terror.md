@@ -7,9 +7,6 @@ redirect_from: /post/121386159955/zankyou-no-terror/,/post/121386159955/
 excerpt: "Neve, máquinas, construções tipicas de uma usina nuclear, um roubo com requintes de ainda terem deixado uma pichação lá. O cenário muda: uma escola, um grupo de estudantes pulando de roupa na piscina e aproveitando a vida, como se nada tivesse acontecido. Comentam sobre um video que foi postado na internet e que falava para tomar cuidado com explosões.<br>"
 ---
 
-Zankyou no Terror
-=================
-
 Neve, máquinas, construções tipicas de uma usina nuclear, um roubo com
 requintes de ainda terem deixado uma pichação lá. O cenário muda: uma
 escola, um grupo de estudantes pulando de roupa na piscina e

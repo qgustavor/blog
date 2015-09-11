@@ -7,9 +7,6 @@ redirect_from: /post/123239225411/danganronpa/,/post/123239225411/
 excerpt: "Nessa história onde estudantes pegam em armas porque não juntamos os melhores alunos em uma divertida classe de assassinos? O alvo não é o professor, nem a presidente do conselho estudantil ou uma pessoa morta-viva: são eles próprios."
 ---
 
-Danganronpa
-===========
-
 Nessa história onde estudantes pegam em armas porque não juntamos os
 melhores alunos em uma divertida classe de assassinos? O alvo não é o
 professor, nem a presidente do conselho estudantil ou uma pessoa

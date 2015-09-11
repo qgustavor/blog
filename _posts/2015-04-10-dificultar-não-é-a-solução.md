@@ -7,9 +7,6 @@ redirect_from: /post/116021797986/dificultar-não-é-a-solução/,/post/11602179
 excerpt: "Há alguns sites que colocam restrições estranhas em senhas:"
 ---
 
-Dificultar não é a solução
-==========================
-
 Há alguns sites que colocam restrições estranhas em senhas:
 
 1.  Não pode ser só letras;
