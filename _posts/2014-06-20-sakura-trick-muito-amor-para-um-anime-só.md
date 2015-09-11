@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Sakura Trick: muito amor para um anime só
 date: 2014-06-20 22:39:12 +0000
-redirect_from: /post/89399255584/sakura-trick-muito-amor-para-um-anime-só/,/post/89399255584/
+redirect_from:
+  - /post/89399255584/sakura-trick-muito-amor-para-um-anime-só/
+  - /post/89399255584/
 excerpt: "Nessa jornada que estou seguindo já encontrei vários animes. Sakura Trick tem suas diferenças, há pontos de vista diferentes e é muito bom."
 ---
 

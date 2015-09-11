@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Ansatsu Kyoushitsu
 date: 2015-07-03 00:00:32 +0000
-redirect_from: /post/123071651920/ansatsu-kyoushitsu/,/post/123071651920/
+redirect_from:
+  - /post/123071651920/ansatsu-kyoushitsu/
+  - /post/123071651920/
 excerpt: "Um grupo de alunos recebe seu novo professor, um polvo amarelo, com um sorriso no rosto, trinta vezes mais rápido que o som e que para demonstrar seu poder destruiu quase toda a lua, sem contar que ainda quer repetir o feito com a terra. A esses alunos foi passada a seguinte tarefa: matar seu professor."
 ---
 

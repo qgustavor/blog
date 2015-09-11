@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Barakamon
 date: 2015-03-19 00:00:39 +0000
-redirect_from: /post/114000372837/barakamon/,/post/114000372837/
+redirect_from:
+  - /post/114000372837/barakamon/
+  - /post/114000372837/
 excerpt: "“O que é ser você mesmo?” diz a música. Um calígrafo jovem e com várias vitórias¹ na sua vida vê um de seus trabalhos sendo julgado como “simples demais”, “parece com o modelo mostrado na escola”. Não satisfeito com o que ouvira ele desfecha um soco em cima do senhor que o julgava."
 ---
 

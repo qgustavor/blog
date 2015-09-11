@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Danna ga Nani wo Itteiru ka Wakaranai Ken
 date: 2015-03-27 00:00:54 +0000
-redirect_from: /post/114710973097/danna-ga-nani-wo-itteiru-ka-wakaranai-ken/,/post/114710973097/
+redirect_from:
+  - /post/114710973097/danna-ga-nani-wo-itteiru-ka-wakaranai-ken/
+  - /post/114710973097/
 excerpt: "Ela sempre quis usar aquele vestido, ele gostava dela, mesmo que não pudesse garantir que ela fosse feliz. Ele, um otaku, ela, uma garota normal."
 ---
 

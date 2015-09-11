@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Witch Craft Works
 date: 2015-06-09 00:00:29 +0000
-redirect_from: /post/121061805378/witch-craft-works/,/post/121061805378/
+redirect_from:
+  - /post/121061805378/witch-craft-works/
+  - /post/121061805378/
 excerpt: "Um garoto vivia sua vida de ensino médio, um adolescente normal, que pega ônibus, reclamava que vivia lotado e tudo mais. Não sabia ele que isso tudo tinha um sentido oculto."
 ---
 

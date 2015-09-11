@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Ookami to Koushinryou
 date: 2015-05-07 00:00:51 +0000
-redirect_from: /post/118321678552/ookami-to-koushinryou/,/post/118321678552/
+redirect_from:
+  - /post/118321678552/ookami-to-koushinryou/
+  - /post/118321678552/
 excerpt: "Nada como uma história sobre o comércio e as lendas europeias, ela começa assim: uma deusa/espírito/etc, responsável por ajudar nas colheitas do povo e que se materializa como uma loba e também como uma humana ( ainda com aspectos de loba, como rabo e orelhas ) parte em uma viagem com um comerciante."
 ---
 

@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000
-redirect_from: /post/106793471684/animes-e-mangás-de-2015/,/post/106793471684/
+redirect_from:
+  - /post/106793471684/animes-e-mangás-de-2015/
+  - /post/106793471684/
 excerpt: "Animes e mangás de 2015"
 ---
 

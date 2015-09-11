@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Mahouka Koukou no Rettousei
 date: 2015-04-23 00:00:35 +0000
-redirect_from: /post/117124601936/mahouka-koukou-no-rettousei/,/post/117124601936/
+redirect_from:
+  - /post/117124601936/mahouka-koukou-no-rettousei/
+  - /post/117124601936/
 excerpt: "Um mundo onde a tecnologia avançou a ponto de dominar um fator antes visto como sobrenatural, a magia, tratada como uma ciência exata porém com capacidades nunca antes experimentadas.<br>"
 ---
 

@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Bakemonogatari
 date: 2015-03-18 00:00:45 +0000
-redirect_from: /post/113914378490/bakemonogatari/,/post/113914378490/
+redirect_from:
+  - /post/113914378490/bakemonogatari/
+  - /post/113914378490/
 excerpt: "Se aventure no mundo das esquisitices, desde vampiros, seres imortais, deuses caranguejos, abelhas, bonecas humanas, entre todo os outros tipos de esquisitices possíveis."
 ---
 

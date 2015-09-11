@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Meu e-mail tem quatro arrobas
 date: 2014-11-10 20:09:00 +0000
-redirect_from: /post/102296633534/meu-e-mail-tem-quatro-arrobas/,/post/102296633534/
+redirect_from:
+  - /post/102296633534/meu-e-mail-tem-quatro-arrobas/
+  - /post/102296633534/
 excerpt: "No desafio de tentar quebrar as regras não existentes de e-mail criei um que tem quatro arrobas:"
 ---
 

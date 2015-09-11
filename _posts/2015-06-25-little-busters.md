@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Little Busters!
 date: 2015-06-26 00:00:26 +0000
-redirect_from: /post/122459778459/little-busters/,/post/122459778459/
+redirect_from:
+  - /post/122459778459/little-busters/
+  - /post/122459778459/
 excerpt: "Um grupo de amigos de infância se encontram novamente quando todos passam a estudar juntos. Então procuram fazer diversas coisas juntos, desde pela criação de um time de basebol, que motivou o grupo a crescer cada vez mais, chegando até a descoberta dos segredos do mundo, que iam se revelando através de acontecimentos misteriosos ao redor do grupo."
 ---
 

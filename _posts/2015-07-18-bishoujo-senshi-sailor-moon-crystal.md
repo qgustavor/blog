@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Bishoujo Senshi Sailor Moon: Crystal
 date: 2015-07-19 00:00:22 +0000
-redirect_from: /post/124443701951/bishoujo-senshi-sailor-moon-crystal/,/post/124443701951/
+redirect_from:
+  - /post/124443701951/bishoujo-senshi-sailor-moon-crystal/
+  - /post/124443701951/
 excerpt: "E depois de um ano inteiro assistindo isso hoje de manhã foi ao ar o último episódio de Sailor Moon e não pude deixar de assistir. O tempo passou rápido, hein! Ainda me lembro de quando ele estava sendo divulgado e fiquei com vontade de assistir mesmo que a história seja bem melosa e romântica."
 ---
 

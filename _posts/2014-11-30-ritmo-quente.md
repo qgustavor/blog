@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Ritmo quente
 date: 2014-11-30 19:19:00 +0000
-redirect_from: /post/104001111059/ritmo-quente/,/post/104001111059/
+redirect_from:
+  - /post/104001111059/ritmo-quente/
+  - /post/104001111059/
 excerpt: "Faz alguns meses joguei os dados dos animes que estou assistindo no Excel e por regressão linear previ as datas que eu iria acabar cada anime. Resultado é para cada anime que ia passando mais essa previsão iria se distanciando do realmente aconteceu."
 ---
 

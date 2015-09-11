@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Sora no Method
 date: 2015-05-25 00:00:26 +0000
-redirect_from: /post/119804780445/sora-no-method/,/post/119804780445/
+redirect_from:
+  - /post/119804780445/sora-no-method/
+  - /post/119804780445/
 excerpt: "Do nada surge em uma pequena cidade japonesa um disco que flutua sobre o lago da cidade e uma ilha nele. Tal disco não faz nada, não é um ataque alienígena, também não fazem nada com ele, exceto torná-lo o ponto turístico da cidade e vender lembrancinhas dele."
 ---
 

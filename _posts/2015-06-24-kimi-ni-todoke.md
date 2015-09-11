@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Kimi ni Todoke
 date: 2015-06-25 00:00:42 +0000
-redirect_from: /post/122376178988/kimi-ni-todoke/,/post/122376178988/
+redirect_from:
+  - /post/122376178988/kimi-ni-todoke/
+  - /post/122376178988/
 excerpt: "Vamos falar de um lindo romance de estudantes do ensino médio, entre o cara mais popular do colégio e uma tímida garota que passa medo em todo mundo. Foi mangá, virou anime e depois até filme ( deve ter mais aí ), sem contar que dá vontade de ficar vendo e revendo ainda por cima."
 ---
 

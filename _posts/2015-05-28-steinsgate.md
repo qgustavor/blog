@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Steins;Gate
 date: 2015-05-29 00:01:04 +0000
-redirect_from: /post/120143476654/steinsgate/,/post/120143476654/
+redirect_from:
+  - /post/120143476654/steinsgate/
+  - /post/120143476654/
 excerpt: "Esse é difícil, não por que eu não tenha o que falar, mas é por que é um dos melhores que tem. É uma história dramática, com um roteiro bem definido e organizado, com fortes emoções porém não deixando de ser divertida e criativa."
 ---
 

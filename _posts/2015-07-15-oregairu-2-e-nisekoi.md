@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Oregairu 2 e Nisekoi:
 date: 2015-07-16 00:00:39 +0000
-redirect_from: /post/124195386158/oregairu-2-e-nisekoi/,/post/124195386158/
+redirect_from:
+  - /post/124195386158/oregairu-2-e-nisekoi/
+  - /post/124195386158/
 excerpt: "A postagem de hoje foge do tema normal da série, primeiro por que vou falar de dois animes da temporada passada, mas o motivo disso, e segundo motivo para que fuja do tema é que são continuações que animes que já comentei aqui no blog."
 ---
 

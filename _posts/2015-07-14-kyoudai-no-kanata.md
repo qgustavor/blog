@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Kyoudai no Kanata
 date: 2015-07-15 01:07:51 +0000
-redirect_from: /post/124112878320/kyoudai-no-kanata/,/post/124112878320/
+redirect_from:
+  - /post/124112878320/kyoudai-no-kanata/
+  - /post/124112878320/
 excerpt: "Há dois tipos de seres: um deles são bem variados e podem ter formas desde frutas, pessoas ou monstros gigantes; o outro ser são aqueles que controlam esses primeiros, os caçam, vendem, é a profissão deles."
 ---
 

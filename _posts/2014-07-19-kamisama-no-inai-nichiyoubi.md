@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Kamisama no Inai Nichiyoubi
 date: 2014-07-19 22:08:00 +0000
-redirect_from: /post/92272495379/kamisama-no-inai-nichiyoubi/,/post/92272495379/
+redirect_from:
+  - /post/92272495379/kamisama-no-inai-nichiyoubi/
+  - /post/92272495379/
 excerpt: "<img alt=\"image\" src=\"http://38.media.tumblr.com/15491a9553afde09f6eb48a9b3f6b22d/tumblr_inline_n8zc0hzDC61qju32f.jpg\">"
 ---
 

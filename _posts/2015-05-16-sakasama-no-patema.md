@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Sakasama no Patema
 date: 2015-05-17 00:00:26 +0000
-redirect_from: /post/119146468072/sakasama-no-patema/,/post/119146468072/
+redirect_from:
+  - /post/119146468072/sakasama-no-patema/
+  - /post/119146468072/
 excerpt: "Parafraseando uma outra resenha desse mesmo filme: no nazismo um garoto alemão encontra uma garota judia e mesmo que todo mundo vá contra o amor dos dois eles lutam e superam todos os limites que foram aparecendo perante aquele romance juvenil."
 ---
 

@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Kaze Tachinu
 date: 2015-07-20 00:00:38 +0000
-redirect_from: /post/124527556722/kaze-tachinu/,/post/124527556722/
+redirect_from:
+  - /post/124527556722/kaze-tachinu/
+  - /post/124527556722/
 excerpt: "Existem os engenheiros e os pilotos, essa história mostra o lado dos que criam esse sonho que se chama voar. A história de um garoto que desde criança sonhava em voar, que estudou e se tornou engenheiro aeronáutico. A história dos aviões, uma forma de diversão, mas também de guerra."
 ---
 

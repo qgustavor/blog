@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Onegai Twins
 date: 2015-06-27 00:00:50 +0000
-redirect_from: /post/122545604765/onegai-twins/,/post/122545604765/
+redirect_from:
+  - /post/122545604765/onegai-twins/
+  - /post/122545604765/
 excerpt: "Esse foi aquele que quando fui escrever sobre ele eu não lembrava nada logo fui assistir de novo, o que foi legal, relembrei muitas coisas. Mas vamos a história:"
 ---
 

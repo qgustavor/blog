@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Gekkan Shoujo Nozaki-kun
 date: 2015-06-22 00:00:26 +0000
-redirect_from: /post/122120868017/gekkan-shoujo-nozaki-kun/,/post/122120868017/
+redirect_from:
+  - /post/122120868017/gekkan-shoujo-nozaki-kun/
+  - /post/122120868017/
 excerpt: "Ela se apaixonou no Nozaki-kun, um cara bonito, alto e forte, mas não sabe expressar seus sentimentos: chegou nele e decidiu se confessar, mas não conseguiu, disse apenas que era fã dele e queria ficar mais tempo com ele.<br>"
 ---
 

@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Gingitsune
 date: 2015-03-31 00:00:55 +0000
-redirect_from: /post/115072978774/gingitsune/,/post/115072978774/
+redirect_from:
+  - /post/115072978774/gingitsune/
+  - /post/115072978774/
 excerpt: "A primeira vista não deve ser fácil a vida de alguém que tem o poder de ver os espíritos animais. Esses espíritos tem o papel de intermediar humanos e deuses e tem centenas de anos e até alguns poderes. Porém acaba que no final é muito divertido ter eles como amigos."
 ---
 

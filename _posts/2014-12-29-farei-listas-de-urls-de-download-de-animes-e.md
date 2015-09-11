@@ -3,7 +3,9 @@ layout: post
 tags: []
 title: Farei list...
 date: 2014-12-29 11:17:00 +0000
-redirect_from: /post/106503039649/farei-listas-de-urls-de-download-de-animes-e/,/post/106503039649/
+redirect_from:
+  - /post/106503039649/farei-listas-de-urls-de-download-de-animes-e/
+  - /post/106503039649/
 excerpt: "Esse foi o <i>Pensamento Maligno do Dia</i> após ter conhecido uma speedsub não só conhecida como ruim para traduzir mas que é péssima para baixar."
 ---
 

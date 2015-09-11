@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Soul Eater NOT!
 date: 2015-05-27 00:00:44 +0000
-redirect_from: /post/119977479628/soul-eater-not/,/post/119977479628/
+redirect_from:
+  - /post/119977479628/soul-eater-not/
+  - /post/119977479628/
 excerpt: "Na escola de armas e artesões do Shinigami há tanto aqueles que se destacam e vivem nas lutas quanto os estudantes normais: vamos falar desses últimos."
 ---
 

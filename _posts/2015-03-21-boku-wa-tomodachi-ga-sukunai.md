@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Boku wa Tomodachi ga Sukunai
 date: 2015-03-22 00:00:41 +0000
-redirect_from: /post/114262042920/boku-wa-tomodachi-ga-sukunai/,/post/114262042920/
+redirect_from:
+  - /post/114262042920/boku-wa-tomodachi-ga-sukunai/
+  - /post/114262042920/
 excerpt: "Ultimamente parece que todo mundo é cheio de amigos, porém nessa história encontramos dois que não tem nenhum, isso é, dizem não ter nenhum. De fato, como o nome diz, não eles tem muitos amigos.<br>"
 ---
 

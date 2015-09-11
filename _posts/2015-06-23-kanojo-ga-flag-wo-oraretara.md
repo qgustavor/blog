@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Kanojo ga Flag wo Oraretara
 date: 2015-06-24 00:00:40 +0000
-redirect_from: /post/122292298495/kanojo-ga-flag-wo-oraretara/,/post/122292298495/
+redirect_from:
+  - /post/122292298495/kanojo-ga-flag-wo-oraretara/
+  - /post/122292298495/
 excerpt: "Um garoto tem o poder de ver poderes sobre as cabeças das pessoas, elas mostram algo sobre a pessoa, como se ela terá sorte em algo, ou não. Além desse poder ele tem outra habilidade especial: quebrar tais bandeiras, impedindo que aconteçam."
 ---
 

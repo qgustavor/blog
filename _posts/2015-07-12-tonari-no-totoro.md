@@ -3,7 +3,9 @@ layout: post
 tags: [1animepordia]
 title: Tonari no Totoro
 date: 2015-07-13 00:00:43 +0000
-redirect_from: /post/123931361339/tonari-no-totoro/,/post/123931361339/
+redirect_from:
+  - /post/123931361339/tonari-no-totoro/
+  - /post/123931361339/
 excerpt: "Uma família se muda para uma velha casa onde habitam alguns fantasmas bem amigos e próxima de uma floresta onde moram espíritos protetores."
 ---
 
