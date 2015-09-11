@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: O que é o #1animepordia
-modified: 2015-03-19
+modified: 2015-03-18T12:00:35.000Z
+redirect_from: /post/113952881475/o-que-é-o-1animepordia/,/post/113952881475/
 excerpt: "Estou escrevendo todos os dias um resumo sobre um anime que assisti. Como já assisti uns 100 animes farei isso por no mínimo uns três meses."
 ---
 

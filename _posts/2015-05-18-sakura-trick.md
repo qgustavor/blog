@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Sakura Trick
-modified: 2015-05-18
+modified: 2015-05-18T00:00:30.000Z
+redirect_from: /post/119234197011/sakura-trick/,/post/119234197011/
 excerpt: "Duas amigas em plena juventude se aventuram nos intervalos das aulas e juntas descobrem algo novo para as duas: sozinhas em uma sala de aula vazia decidem uma beijar a outra para ver como que é isso e desde aquele momento nunca pararam mais."
 ---
 

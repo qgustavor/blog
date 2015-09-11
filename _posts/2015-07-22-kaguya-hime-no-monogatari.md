@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Kaguya-hime no Monogatari
-modified: 2015-07-22
+modified: 2015-07-22T00:00:30.000Z
+redirect_from: /post/124702615112/kaguya-hime-no-monogatari/,/post/124702615112/
 excerpt: "A postagem de hoje é sobre a história da Princesa Kaguya. Essa é uma história tradicional antiga que já foi interpretada de várias formas, estarei falando baseado na interpretação do filme que o Estúdio Ghibli animou."
 ---
 

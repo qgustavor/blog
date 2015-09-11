@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Akane-iro ni Somaru Saka
-modified: 2015-06-15
+modified: 2015-06-15T00:00:43.000Z
+redirect_from: /post/121545982531/akane-iro-ni-somaru-saka/,/post/121545982531/
 excerpt: "Um garoto é descendente de uma família que luta contra espíritos, os quais, sabendo disso, querem acabar com ele. Só que ele não quer seguir com o negócio, aliás, nem sabia que tinha esses poderes: está vivendo a vida como um estudante normal de ensino médio."
 ---
 

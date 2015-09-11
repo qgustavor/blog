@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Rokujouma no Shinryakusha
-modified: 2015-07-12
+modified: 2015-07-12T00:00:23.000Z
+redirect_from: /post/123845209869/rokujouma-no-shinryakusha/,/post/123845209869/
 excerpt: "Após conquistar o aluguel dos sonhos, o mais barato que se pode imaginar, um estudante vê o seu novo apartamento sendo invadido. Não era o movimento dos sem teto, porém fantasmas, seres do submundo, cosplayers garotas mágicas e alienígenas."
 ---
 

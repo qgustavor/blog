@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: 30-sai no Hoken Taiiku
-modified: 2015-03-11
+modified: 2015-03-10T22:52:07.000Z
+redirect_from: /post/113290432994/30-sai-no-hoken-taiiku/,/post/113290432994/
 excerpt: "Sozinho? Nunca arrumou um amor? Saiba como mudar essa situação com esse anime!"
 ---
 

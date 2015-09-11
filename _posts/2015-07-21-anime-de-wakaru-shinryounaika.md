@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Anime de Wakaru Shinryounaika
-modified: 2015-07-21
+modified: 2015-07-21T00:00:48.000Z
+redirect_from: /post/124615435764/anime-de-wakaru-shinryounaika/,/post/124615435764/
 excerpt: "Um anime de comédia falando sobre psicologia, no que poderia dar? Em algo bem divertido, claro, para quem gosta do assunto. Esse anime de episódios curtos mostra o dia a dia de uma clínica bem fora do padrão, onde só há um certinho desprezado que sabe a matéria."
 ---
 

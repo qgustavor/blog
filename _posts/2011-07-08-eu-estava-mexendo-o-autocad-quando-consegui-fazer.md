@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Eu estava mexendo o AutoCad quando consegui fazer isso, me pareceu bonito, um resort no meio do deserto. Quando terminei coloquei um efeito de foto antiga no PhotoShop e está aí o resultado.
-modified: 2011-07-08
+modified: 2011-07-08T01:00:47.000Z
+redirect_from: /post/7363978240/eu-estava-mexendo-o-autocad-quando-consegui-fazer/,/post/7363978240/
 excerpt: "Eu estava mexendo o AutoCad quando consegui fazer isso, me pareceu bonito, um resort no meio do deserto. Quando terminei coloquei um efeito de foto antiga no PhotoShop e está aí o resultado."
 ---
 

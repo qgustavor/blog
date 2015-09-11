@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Termina o #1animepordia!
-modified: 2015-08-06
+modified: 2015-08-05T10:22:31.000Z
+redirect_from: /post/125919645424/termina-o-1animepordia/,/post/125919645424/
 excerpt: "Decidi por terminar hoje a série #1animepordia, não que eu não tenha mais animes para falar, só que a partir de agora se eu quiser manter o ritmo de um por dia será bem difícil."
 ---
 

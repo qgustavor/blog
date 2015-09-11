@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Denki-gai no Honya-san
-modified: 2015-03-30
+modified: 2015-03-30T00:00:40.000Z
+redirect_from: /post/114981870174/denki-gai-no-honya-san/,/post/114981870174/
 excerpt: "Entre no mundo de uma das principais literaturas japonesas acompanhando o pessoal de uma livraria na cidade elétrica. Conheça as diversas categorias de mangás, a paixão, o romance (principalmente o BL, que tem uma que ama) e todo o tipo de entretenimento que poderia ter."
 ---
 

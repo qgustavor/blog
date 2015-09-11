@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Mangaka-san to Assistant-san to The Animation
-modified: 2015-04-24
+modified: 2015-04-24T00:00:40.000Z
+redirect_from: /post/117209313476/mangaka-san-to-assistant-san-to-the-animation/,/post/117209313476/
 excerpt: "Um artista de manga’ trabalha fazendo mangás do tipo erótico e é de fato um amante de calcinhas, garotas e tudo relacionado. Precisando de ajuda para entregar seus trabalhos no prazo contrata assistentes, porém acaba pedindo mais ajuda do que só desenhar."
 ---
 

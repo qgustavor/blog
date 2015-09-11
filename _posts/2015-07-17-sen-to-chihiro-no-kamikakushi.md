@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Sen to Chihiro no Kamikakushi
-modified: 2015-07-17
+modified: 2015-07-17T00:00:43.000Z
+redirect_from: /post/124280999279/sen-to-chihiro-no-kamikakushi/,/post/124280999279/
 excerpt: "E hoje o assunto é um filme, no caso um bem famoso, tão famoso que tem vários nomes: “Viagem de Chihiro” em português, “Spirited Away” em inglês, o nome em japonês é o do título, maior já que é tem o mesmo sentido do título em inglês somado do nome dos personagens principais."
 ---
 

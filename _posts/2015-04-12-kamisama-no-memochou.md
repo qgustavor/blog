@@ -2,8 +2,9 @@
 layout: post
 tags: [1animepordia]
 title: Kamisama no Memochou
-modified: 2015-04-12
-excerpt: "Quais segredos estão no Bloco de Anotações de Deus?"
+modified: 2015-04-12T00:00:46.000Z
+redirect_from: /post/116155748101/kamisama-no-memochou/,/post/116155748101/
+excerpt: "Quais segredos estão no <i>Bloco de Anotações de Deus</i>? (não sei se isso se aplica na IRL, mas parece que há uma referência, que fique assim)"
 ---
 
 Kamisama no Memochou

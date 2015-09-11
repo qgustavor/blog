@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: O problema do React
-modified: 2015-03-15
+modified: 2015-03-14T12:00:30.000Z
+redirect_from: /post/113590529830/o-problema-do-react/,/post/113590529830/
 excerpt: "Muita gente reclama do React, e não reclama pouco, desde os que querem tudo na bandeja, “ele é só o view do MVC”, até os que ignoram o que ele faz, “ele é gigante/pesado/etc”."
 ---
 

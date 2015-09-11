@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Apps Script, Segurança & Outras Desilusões!
-modified: 2015-08-20
+modified: 2015-08-19T18:17:16.000Z
+redirect_from: /post/127091548959/apps-script-segurança-outras-desilusões/,/post/127091548959/
 excerpt: "Desde ano passado estou escrevendo scripts no apps script e estou sendo um doido fanático por segurança. Aliás, eu já fazia um pouco antes, mas foi mais ou menos nesse intervalo que a situação ficou séria."
 ---
 

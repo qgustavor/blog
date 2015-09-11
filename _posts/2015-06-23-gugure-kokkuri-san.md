@@ -2,8 +2,9 @@
 layout: post
 tags: [1animepordia]
 title: Gugure! Kokkuri-san
-modified: 2015-06-23
-excerpt: "Kohina, uma garota que se comporta como uma boneca, diz que não sente nenhum sentimento qualquer, exceto que ela ama macarrão instantâneo. Ela vai a escola e tem alguns amigos do tipo dela lá e além disso ela mora sozinha em uma casa grande e assombrada."
+modified: 2015-06-23T00:00:38.000Z
+redirect_from: /post/122206992430/gugure-kokkuri-san/,/post/122206992430/
+excerpt: "Estava vasculhando os canais naquele programa de <i>streaming</i> péssimo e encontrei esse desenho passando. Fui pesquisar para descobrir que ninguém tinha traduzido ele mas já tinha sido atingido pela fofura daquela boneca sem coração. Depois dei um jeito e acabei assistindo.<br>"
 ---
 
 Gugure! Kokkuri-san

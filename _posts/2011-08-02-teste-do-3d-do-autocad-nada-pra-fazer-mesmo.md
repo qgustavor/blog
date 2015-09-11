@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Teste do 3D do AutoCAD&hellip; nada pra fazer mesmo =/
-modified: 2011-08-02
+modified: 2011-08-02T02:03:37.000Z
+redirect_from: /post/8365964149/teste-do-3d-do-autocad-nada-pra-fazer-mesmo/,/post/8365964149/
 excerpt: "Teste do 3D do AutoCAD&hellip; nada pra fazer mesmo =/"
 ---
 

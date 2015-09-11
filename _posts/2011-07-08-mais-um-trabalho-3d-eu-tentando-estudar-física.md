@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Mais um trabalho 3D: eu tentando estudar física utilizando-me do 3D para confirmar minhas teorias fiz algumas lentes usando esferas e cubos, para testar como elas se comportariam coloquei esferas no fundo.
-modified: 2011-07-08
+modified: 2011-07-08T01:15:07.000Z
+redirect_from: /post/7364514503/mais-um-trabalho-3d-eu-tentando-estudar-física/,/post/7364514503/
 excerpt: "Depois de editar tudo isso no PhotoShop achei tanto que era uma foto de verdade, sério! Está aí o resultado:"
 ---
 

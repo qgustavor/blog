@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Hachimitsu to Clover
-modified: 2015-04-02
+modified: 2015-04-02T00:00:34.000Z
+redirect_from: /post/115250968320/hachimitsu-to-clover/,/post/115250968320/
 excerpt: "Um garoto começa o curso de arquitetura, começa a morar em um daqueles dormitórios onde todo mundo é colega e na faculdade começa a fazer amigos. É atentado pelos veteranos (coisa mais normal do mundo), conhece uma garota e passa a gostar dela, trabalha em um escritório de arquitetura e lá aprende diversas coisas. O grupo formado passeia juntos, passam por diversas situações."
 ---
 

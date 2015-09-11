@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Kiniro Mosaic
-modified: 2015-07-25
+modified: 2015-07-25T00:00:46.000Z
+redirect_from: /post/124958299077/kiniro-mosaic/,/post/124958299077/
 excerpt: "Uma menina gosta de tudo sobre o exterior, um dia ela resolve fazer intercâmbio, foi para a Inglaterra mesmo sem saber inglês. Chegando lá vai morar na casa de uma família que sabe a língua dela e encontra uma garota, que vira amiga dela mesmo se só as duas conseguem trocar uma e outra palavra entre si."
 ---
 

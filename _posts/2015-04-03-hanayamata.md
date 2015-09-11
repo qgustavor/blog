@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Hanayamata
-modified: 2015-04-03
+modified: 2015-04-03T00:00:26.000Z
+redirect_from: /post/115339377464/hanayamata/,/post/115339377464/
 excerpt: "Uma garota da Inglaterra que quando criança visitou o Japão ficou encantada com uma dança que viu em um festival. Quando voltou, inspirada, decidiu aprender tudo sobre essa dança."
 ---
 

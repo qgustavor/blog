@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Mahou Shoujo Madoka★Magica
-modified: 2015-04-22
+modified: 2015-04-22T00:00:36.000Z
+redirect_from: /post/117039649446/mahou-shoujo-madoka-magica/,/post/117039649446/
 excerpt: "Mais do que mais outro anime de Mahou Shoujo, aprenda sobre a história e  arquitetura mundial, encontre referências a todo o tipo de conteúdo possível, aprenda lições de vida, e o mais forte, viva a emoção do puro amor entre amigas."
 ---
 

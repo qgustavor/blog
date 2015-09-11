@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Ongaku Shoujo
-modified: 2015-06-28
+modified: 2015-06-28T00:00:44.000Z
+redirect_from: /post/122629881046/ongaku-shoujo/,/post/122629881046/
 excerpt: "O que posso falar dele? Não muita coisa: é um filme do tamanho de um episódio de um anime normal. Mesmo assim é legal então vamos lá:"
 ---
 

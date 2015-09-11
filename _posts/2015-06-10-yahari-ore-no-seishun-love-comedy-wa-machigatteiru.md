@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Yahari Ore no Seishun Love Comedy wa Machigatteiru
-modified: 2015-06-10
+modified: 2015-06-10T00:00:33.000Z
+redirect_from: /post/121145411519/yahari-ore-no-seishun-love-comedy-wa-machigatteiru/,/post/121145411519/
 excerpt: "Um garoto com aqueles ares negativos acabou sendo chamado para ver se ele mudava esse comportamento. A solução encontrada foi fazer ele participar de um clube onde pessoas pedem alguma coisa e eles dão uma força para ajudar."
 ---
 

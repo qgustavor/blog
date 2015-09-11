@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Lucky☆Star
-modified: 2015-04-21
+modified: 2015-04-21T00:00:35.000Z
+redirect_from: /post/116953123547/lucky-star/,/post/116953123547/
 excerpt: "Veja a vida diária de um grupo de meninas bem divertido: uma otaku, uma estudiosa tímida e fofa, duas irmãs que tem uns conflitos mas se dão bem uma com a outra (assim como todas as irmãs)."
 ---
 

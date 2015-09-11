@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Dificultar não é a solução
-modified: 2015-04-11
+modified: 2015-04-10T12:00:41.000Z
+redirect_from: /post/116021797986/dificultar-não-é-a-solução/,/post/116021797986/
 excerpt: "Há alguns sites que colocam restrições estranhas em senhas:"
 ---
 

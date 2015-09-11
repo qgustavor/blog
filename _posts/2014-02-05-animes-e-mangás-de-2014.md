@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Animes e mangás de 2014
-modified: 2014-02-05
+modified: 2014-02-04T19:58:00.000Z
+redirect_from: /post/75610829372/animes-e-mangás-de-2014/,/post/75610829372/
 excerpt: "Animes e mangás de 2014"
 ---
 

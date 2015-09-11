@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Shigatsu wa Kimi no Uso
-modified: 2015-05-24
+modified: 2015-05-24T00:00:32.000Z
+redirect_from: /post/119719908601/shigatsu-wa-kimi-no-uso/,/post/119719908601/
 excerpt: "A música clássica tocada por um conjunto de piano e violino, um ambiente escolar e jovens bem animados formam o ambiente e enredo dessa tal Sua Mentira de Abril. Tudo começa quando um garoto que costumava tocar piano desde criança encontra uma garota¹ que estava tocando uma música e que fez despertar nele o interesse por ela."
 ---
 

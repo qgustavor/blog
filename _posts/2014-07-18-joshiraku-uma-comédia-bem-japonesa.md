@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Joshiraku: uma comédia bem japonesa
-modified: 2014-07-18
+modified: 2014-07-17T03:06:38.000Z
+redirect_from: /post/92011213724/joshiraku-uma-comédia-bem-japonesa/,/post/92011213724/
 excerpt: "<img src=\"http://31.media.tumblr.com/9036f6ac4266078279f263011b4c0f9a/tumblr_inline_n8u5yuOYma1qju32f.png\">"
 ---
 

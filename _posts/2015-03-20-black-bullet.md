@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Black Bullet
-modified: 2015-03-20
+modified: 2015-03-20T00:00:41.000Z
+redirect_from: /post/114086297584/black-bullet/,/post/114086297584/
 excerpt: "Cidades dominadas pelo medo contra parasitas chamados gástrea, os quais atacam pessoas para assim aumentar a população deles. São classificados em diversos níveis e os mais altos são extremamente difíceis de serem destruídos, embora sejam raros.<br>"
 ---
 

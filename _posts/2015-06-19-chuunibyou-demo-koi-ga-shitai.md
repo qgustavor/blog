@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Chuunibyou demo Koi ga Shitai!
-modified: 2015-06-19
+modified: 2015-06-19T00:00:28.000Z
+redirect_from: /post/121876607446/chuunibyou-demo-koi-ga-shitai/,/post/121876607446/
 excerpt: "Chuunibyou, ou a doença do segundo ano da segunda fase do fundamental (atualmente chamado de oitavo ano¹), é caracterizada por um comportamento característico típico de crianças: viver integralmente em um mundo de fantasia."
 ---
 

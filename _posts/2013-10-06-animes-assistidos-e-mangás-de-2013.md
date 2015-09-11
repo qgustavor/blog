@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: Animes assistidos e mangás de 2013
-modified: 2013-10-06
+modified: 2013-10-05T20:37:00.000Z
+redirect_from: /post/63203689971/animes-assistidos-e-mangás-de-2013/,/post/63203689971/
 excerpt: "Terminado:"
 ---
 

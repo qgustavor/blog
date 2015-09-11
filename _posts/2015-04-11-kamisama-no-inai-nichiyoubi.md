@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Kamisama no Inai Nichiyoubi
-modified: 2015-04-11
+modified: 2015-04-11T00:00:48.000Z
+redirect_from: /post/116068334697/kamisama-no-inai-nichiyoubi/,/post/116068334697/
 excerpt: "'NO COMEÇO, quando Deus criou os céus e a terra […]' só que nessa história uma reviravolta ocorre..."
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 tags: [1animepordia]
 title: Wake Up, Girls!
-modified: 2015-06-07
+modified: 2015-06-07T00:00:30.000Z
+redirect_from: /post/120892030196/wake-up-girls/,/post/120892030196/
 excerpt: "Um grupo idol de cinco garotas, luta para conseguir alcançar o sucesso. Estrearam em um show na pequena cidade delas com uma música tão marcante que praticamente decorei a letra."
 ---
 
