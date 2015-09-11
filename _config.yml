@@ -6,7 +6,7 @@ url:              https://qgustavor.tk
 
 
 # Jekyll configuration
-
+timezone:    America/Fortaleza
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
