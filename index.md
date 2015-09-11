@@ -1,9 +1,6 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "O blog do Gustavo"
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: https://d2pi0bc9ewx28h.cloudfront.net/d6a3875dc0a38b3b981ac4bccaf4b0e5/h4mi9gj/ubrnk7gks/tumblr_static_du4fm1glf7cw0cw4skgk8w0ww.jpg
 ---
