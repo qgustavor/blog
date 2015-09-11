@@ -11,7 +11,7 @@ Kamisama no Inai Nichiyoubi
 
 ![image](http://38.media.tumblr.com/15491a9553afde09f6eb48a9b3f6b22d/tumblr_inline_n8zc0hzDC61qju32f.jpg)
 
-> E no sétimo dia abandonou-o…*\
+> E no sétimo dia abandonou-o…*
 > *
 
 Kamisama no Inai Nichiyoubi, ou **Domingo sem** **Deus**, mostra uma

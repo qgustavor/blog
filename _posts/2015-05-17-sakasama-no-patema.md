@@ -35,6 +35,6 @@ pelo lado do romance e principalmente por aquele que você percebe que
 você está julgando algo somente pelo seu ponto de vista, sem saber que
 ele pode estar errado. É mais tenso do que divertido, mas se depois
 disso tudo eu não falar que é um bom filme de nada adiantou ter escrito
-isso tudo.\
+isso tudo.
 
 

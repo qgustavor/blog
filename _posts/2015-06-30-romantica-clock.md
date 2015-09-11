@@ -19,6 +19,6 @@ pessoa que ela imaginava.
 
 *É quatro minutos, ou eu escrevo tudo da história ou a postagem fica
 muito pequena. Qual escolho?! O importante é que tem o mangá, então o
-especial é só um resumo. Mas não pretendo ler ele.*\
+especial é só um resumo. Mas não pretendo ler ele.*
 
 

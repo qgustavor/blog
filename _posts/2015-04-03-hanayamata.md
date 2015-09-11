@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Hanayamata
 modified: 2015-04-03
-excerpt: "Uma garota da Inglaterra que quando criança visitou o Japão ficou encantada com uma dança que viu em um festival. Quando voltou, inspirada, decidiu aprender tudo sobre essa dança. Juntou amigas<br>"
+excerpt: "Uma garota da Inglaterra que quando criança visitou o Japão ficou encantada com uma dança que viu em um festival. Quando voltou, inspirada, decidiu aprender tudo sobre essa dança."
 ---
 
 Hanayamata
@@ -11,7 +11,8 @@ Hanayamata
 
 Uma garota da Inglaterra que quando criança visitou o Japão ficou
 encantada com uma dança que viu em um festival. Quando voltou,
-inspirada, decidiu aprender tudo sobre essa dança. Juntou amigas\
+inspirada, decidiu aprender tudo sobre essa dança. Juntou amigas
+e fundou um clube dedicado a essa dança.
 
 Claro que, depois de tanto anime onde criar um clube é a solução da vida
 escolar (estou de olho em você Haruhi), a coisa foi um pouco mais séria:
@@ -27,12 +28,12 @@ relutante pois ela já estava em uma banda. Só que como a banda dela não
 estava dando bem as relações não ficaram tão boas.
 
 Enfim, tem muita amizade, superação, esforço. Veja garotas da segunda
-fase’ do fundamental dançando lindamente com roupas que elas mesmas
+fase¹ do fundamental dançando lindamente com roupas que elas mesmas
 fizeram, músicas que elas próprias cantaram e tocaram, entre outras
 situações.
 
 <!-- more -->
 
-‘ Me lembrou Anime de Wakaru Shinryounaika agora.\
+¹ Me lembrou Anime de Wakaru Shinryounaika agora.
 
 

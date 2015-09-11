@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Sukitte Ii na yo
 modified: 2014-08-10
-excerpt: "<img src=\"http://33.media.tumblr.com/1c37229699e4d989323e67bea4a8e539/tumblr_inline_n9wfdgVYpM1qju32f.jpg\">"
+excerpt: "Nada tão bonito como uma história romântica…"
 ---
 
 Sukitte Ii na yo

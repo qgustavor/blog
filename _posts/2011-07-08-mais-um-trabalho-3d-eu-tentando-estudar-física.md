@@ -6,7 +6,7 @@ modified: 2011-07-08
 excerpt: "Depois de editar tudo isso no PhotoShop achei tanto que era uma foto de verdade, sério! Está aí o resultado:"
 ---
 
-![](/images/tumblr_lnzq58txKE1qma17bo1_1280.png)
+![](http://36.media.tumblr.com/tumblr_lnzq58txKE1qma17bo1_1280.png)
 
 Depois de editar tudo isso no PhotoShop achei tanto que era uma foto de
 verdade, sério! Está aí o resultado:

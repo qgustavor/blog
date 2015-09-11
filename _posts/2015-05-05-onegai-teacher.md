@@ -25,6 +25,6 @@ alguma coisa (sem contar que tem muita coisa aí para gerar
 desconfiança).
 
 Aviso: admito, não me lembro muito desse anime, foi um dos primeiros que
-assisti. Vou assistir de novo um dia e então refaço isso.\
+assisti. Vou assistir de novo um dia e então refaço isso.
 
 

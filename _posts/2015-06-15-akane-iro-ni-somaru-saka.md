@@ -29,7 +29,7 @@ mostrou que ele não quer destruí-los.
 
 Só que se conquistar fosse suficiente, ainda houve outros problemas. Mas
 tudo se resolve, seja na luta ou no amor, seja controlando o lado
-selvagem de uma ou o lado tsundere³ de outra.\
+selvagem de uma ou o lado tsundere³ de outra.
 
 <!-- more -->
 
@@ -40,6 +40,6 @@ certeza que confundi alguns animes aí.
 Deity.
 
 ³ Já que a garota é interpretada pela rainha do tsundere não poderíamos
-esperar menos dela.\
+esperar menos dela.
 
 

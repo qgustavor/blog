@@ -38,6 +38,6 @@ Voltando ao início é uma história ótima para encontrar um romance não
 bem visto pela sociedade, a ação da luta contra o opressor dominador e o
 conhecimento de não só uma época longa e importante para a sociedade
 como também diversos conhecimentos sobre economia (microeconomia ou
-macroeconomia não me lembro agota).\
+macroeconomia não me lembro agota).
 
 

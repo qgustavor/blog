@@ -26,6 +26,6 @@ sempre acho que quem fala que tem é aquele certinho que tirou 10 em
 gramática no fundamental, enquanto quem fala que é só gosta da irmã
 mesmo e não se preocupa com essas regras gramaticais e pensa que a
 língua é um ser vivo que vive se adaptando, aceitando construções
-novas.\
+novas.
 
 

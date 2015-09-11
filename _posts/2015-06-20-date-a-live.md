@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Date A Live
 modified: 2015-06-20
-excerpt: "Terremotos espaciais são como os comuns e ocorrem quase sem aviso prévio, porém diferente de terremotos comuns, mais são assemelhadas a explosões causando problemas até maiores. Um garoto tinha jurado que iria encontrar a sua irmã em um lugar e mesmo se ocorresse algo assim ele teria que estar lá.<br>"
+excerpt: "Terremotos espaciais são como os comuns e ocorrem quase sem aviso prévio, porém diferente de terremotos comuns, mais são assemelhadas a explosões causando problemas até maiores. Um garoto tinha jurado que iria encontrar a sua irmã em um lugar e mesmo se ocorresse algo assim ele teria que estar lá."
 ---
 
 Date A Live
@@ -13,7 +13,7 @@ Terremotos espaciais são como os comuns e ocorrem quase sem aviso
 prévio, porém diferente de terremotos comuns, mais são assemelhadas a
 explosões causando problemas até maiores. Um garoto tinha jurado que
 iria encontrar a sua irmã em um lugar e mesmo se ocorresse algo assim
-ele teria que estar lá.\
+ele teria que estar lá.
 
 Na verdade era para ser brincadeira, mas ele achou que ela levou a
 sério. Então, no meio de um terremoto desses ele descobriu um segredo:
@@ -43,6 +43,6 @@ boa ideia, mas com um treinamento em jogos do gênero ele foi aprendendo.
 Assim tal história mostra um garoto galanteador e as garotas que ele
 conquistou, todas com poderes e quando descontroladas ficam doidas para
 batalhar e acabar com tudo, quando controladas ficam com um amor
-terrível por ele.\
+terrível por ele.
 
 

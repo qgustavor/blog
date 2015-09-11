@@ -20,6 +20,6 @@ Há ainda um pouco de drama principalmente por causa da música tema ( que
 é um pouco de rock ), um pouco de animal deprimido, um pouco de crianças
 e quando por algum motivo o hospedeiro esquece os hóspedes na banheira
 sem comida e sem cuidados. Também é um anime tão curto quanto essa
-postagem.\
+postagem.
 
 

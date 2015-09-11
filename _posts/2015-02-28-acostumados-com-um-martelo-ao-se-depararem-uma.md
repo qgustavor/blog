@@ -9,6 +9,6 @@ excerpt: "Acostumado..."
 > Acostumados com um martelo ao se depararem uma furadeira começam a
 > bater em parafusos com ela.
 
-Minha reação após ver qualquer exemplo de Service Worker.\
+Minha reação após ver qualquer exemplo de Service Worker.
 
 

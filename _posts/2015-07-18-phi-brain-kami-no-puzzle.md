@@ -45,6 +45,6 @@ está sozinho nessa, ou não, já que é muita gente doida junta.
 Praticamente não tem muito drama também, só o primeiro episódio que cria
 uma vontade de assistir o próximo. O final não é ruim, mas ficou muito
 doce… muito final feliz da amizade *vamos esquecer que queria te
-matar*.\
+matar*.
 
 

@@ -35,6 +35,6 @@ amigas delas se juntam nesse mosaico cheio de alegria.
 É uma história de garotas fazendo coisas de garotas, ao mesmo tempo
 mostrando sobre como os estrangeiros são vistos nos dois países, como
 que a distância pode separar, mas elas continuam sendo amigas, coisas
-assim, dessa forma bem divertido no final.\
+assim, dessa forma bem divertido no final.
 
 

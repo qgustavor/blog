@@ -3,14 +3,13 @@ layout: post
 tags: [1animepordia]
 title: Witch Craft Works
 modified: 2015-06-09
-excerpt: "Esse é outro anime <a href=\"http://qgustavor.tk/post/94031544713/witch-craft-works-ha-uma-bruxa-ao-seu-lado\">que já falei dele</a> antes, também se me perguntarem do nada não me lembro bem dele, ou seja não marcou, mas, mesmo assim, vamos lá de novo:"
+excerpt: "Um garoto vivia sua vida de ensino médio, um adolescente normal, que pega ônibus, reclamava que vivia lotado e tudo mais. Não sabia ele que isso tudo tinha um sentido oculto."
 ---
 
 Witch Craft Works
 =================
 
-Esse é outro anime [que já falei
-dele](http://qgustavor.tk/post/94031544713/witch-craft-works-ha-uma-bruxa-ao-seu-lado)
+Esse é outro anime [que já falei dele](https://qgustavor.tk/witch-craft-works-ha-uma-bruxa-ao-seu-lado)
 antes, também se me perguntarem do nada não me lembro bem dele, ou seja
 não marcou, mas, mesmo assim, vamos lá de novo:
 
@@ -36,7 +35,7 @@ Primeiro que existem dois tipos de bruxa: da torre e da oficina. Imagino
 como se fossem dois partidos políticos ou dois times de futebol e você
 fosse obrigado a se aliar a um. Ele, a garota famosa e até a irmã dele
 são da oficina, já o pessoal da torre é uma mistura de comédia e barra
-pesada.\
+pesada.
 
 Na ele, como ele ainda muito novinho, o máximo que ela ensinou foi como
 andar de vassoura e usar aquela vestimenta super importante para as
@@ -51,6 +50,6 @@ acabou dando problema.
 E paro aqui por que por mais que já faça algum tempo que assisti isso
 acabei me empolgando e falando demais. Em questão crítica vemos uma
 inversão do papel de príncipe e princesa, inimigos bobos e uma releitura
-das bruxas. E é divertido e tal.\
+das bruxas. E é divertido e tal.
 
 

@@ -20,6 +20,6 @@ diversas referências a outros animes e muita piada interna (trocadilho).
 <!-- more -->
 
 Só me lembro disso e que o motivo de eu ter assistido o anime foi por
-que ele apareceu na lista das melhores músicas de animes da Kotaku.\
+que ele apareceu na lista das melhores músicas de animes da Kotaku.
 
 

@@ -28,6 +28,6 @@ melhor e se tornando pessoas melhores.
 Claro que, como foi dito no nome, essa comédia romântica não poderia dar
 certo, mas foi divertida e mostrou que, por mais que alguém seja bem
 negativo no fundo [ele tem um
-coração](https://www.youtube.com/watch?v=QF2I1x0NLPI).\
+coração](https://www.youtube.com/watch?v=QF2I1x0NLPI).
 
 

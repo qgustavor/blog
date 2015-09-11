@@ -24,7 +24,7 @@ Em todo caso, como o nome fala, é contada a história de uma garota
 chamada Sailor Moon. Na verdade ela é uma garota que tem como maior luta
 e dificuldade os estudos, o que é claro, comum entre a maioria dos
 heróis ao redor do planeta, sempre salvar o mundo é mais fácil do que os
-problemas do dia a dia.\
+problemas do dia a dia.
 
 Quando essa garota não está fazendo isso ela é chamada de Usagi, vai a
 escola, se atrasa, não consegue fazer as coisas direito, mas é uma
@@ -50,6 +50,6 @@ Esse é o início de uma história que mistura o romance desse casal e a
 ação das guerreiras que buscam salvar o mundo ( diga-se que com o mundo
 me refiro a Tóquio ) dos poderes do mal. Ah, esquecendo a minha animação
 de acordar cedo para assistir o episódio final vou avisando que é muito
-feminino isso tudo. Bem, talvez você goste, sei lá, né? Quem sabe…\
+feminino isso tudo. Bem, talvez você goste, sei lá, né? Quem sabe…
 
 

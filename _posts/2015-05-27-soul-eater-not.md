@@ -38,6 +38,6 @@ conflitos: problemas no dormitório, trabalharam em um café e no fim
 lutaram contra uma bruxa, algo que nem era imaginável para o nível
 delas. Não é lá uma história de superação, mas que mostra que a amizade
 consegue superar tudo. Foco na amizade, quero dizer. E é basicamente
-isso.\
+isso.
 
 

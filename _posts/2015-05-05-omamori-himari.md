@@ -24,6 +24,6 @@ casa e esse menino no meio.
 
 Só que a grande paixão mesmo acaba sendo aquela primeira garota, que
 vira uma gata (só pela alergia mesmo, né?!). O que acontece entre esses
-dois? Como se resolve o problema? É com muita paixão e luta mesmo.\
+dois? Como se resolve o problema? É com muita paixão e luta mesmo.
 
 

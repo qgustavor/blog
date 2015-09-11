@@ -43,6 +43,6 @@ tsundere, dado o comportamento da Kagami.
 muita coisa mesmo de fora, é uma representação da cultura otaku, da vida
 diária das meninas do final do ensino fundamental (algo assim, acho),
 mais que isso, da vida diária de meninas e pessoas em geral. *Bonus
-points* pela cultura otaku, claro.\
+points* pela cultura otaku, claro.
 
 

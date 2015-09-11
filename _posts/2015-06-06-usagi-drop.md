@@ -41,6 +41,6 @@ deu certo\*.
 
 \* Ao menos no anime, pois dizem que no mangá as coisas complicam. Ainda
 não me arrisquei em ler ele, mas quem sabe no futuro? Resumindo até a
-metade da história tudo é bom, dá para aprender muita coisa boa também.\
+metade da história tudo é bom, dá para aprender muita coisa boa também.
 
 

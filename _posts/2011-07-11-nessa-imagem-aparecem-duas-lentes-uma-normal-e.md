@@ -6,7 +6,7 @@ modified: 2011-07-11
 excerpt: "Eu não me contentei com esse modelo 2D e busquei criar eu mesmo um modelo 3D dessas lentes, achei que a lente fresnel apresentou um resultado melhor do que a comum, não entendi muito o porque mas gostei do resultado."
 ---
 
-![](/images/tumblr_lo3kqjlNED1qma17bo1_1280.png)
+![](http://36.media.tumblr.com/tumblr_lo3kqjlNED1qma17bo1_1280.png)
 
 Eu não me contentei com esse modelo 2D e busquei criar eu mesmo um
 modelo 3D dessas lentes, achei que a lente fresnel apresentou um

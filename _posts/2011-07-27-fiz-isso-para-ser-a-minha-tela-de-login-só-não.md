@@ -6,7 +6,7 @@ modified: 2011-07-27
 excerpt: "No desenho, que aliás é só uma montagem de outros dois, mostra uma menina mágica e a bruxa que a matou, gostei dessa junção ( aliás, muita gente gosta de juntar as duas )."
 ---
 
-![](/images/tumblr_loyzwoAfmS1qma17bo1_1280.jpg)
+![](http://41.media.tumblr.com/tumblr_loyzwoAfmS1qma17bo1_1280.jpg)
 
 No desenho, que aliás é só uma montagem de outros dois, mostra uma
 menina mágica e a bruxa que a matou, gostei dessa junção ( aliás, muita

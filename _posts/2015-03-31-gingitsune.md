@@ -36,6 +36,6 @@ tem hora que parece um menino).
 É uma ótima história para aprender um pouco dessa cultura japonesa: os
 templos, as crenças e um pouco mais (toda vez que vou na igreja lembro
 desse anime, também me lembro quando vejo as festas de início de ano
-japonesas).\
+japonesas).
 
 

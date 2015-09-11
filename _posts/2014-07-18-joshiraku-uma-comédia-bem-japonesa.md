@@ -13,9 +13,9 @@ Joshiraku: uma comédia bem japonesa
 
 Como assistir esse anime em três passos simples:
 
-1\. Assista e só entenda as piadas óbvias.\
+1\. Assista e só entenda as piadas óbvias.
  2. Aprenda japonês e fique por dentro da cultura e modo de vida do
-Japão\
+Japão
  3. Assista novamente e ria de cada trocadilho e tudo mais
 
 O primeiro passo é opcional.

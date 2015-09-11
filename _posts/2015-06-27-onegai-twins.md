@@ -16,7 +16,7 @@ vamos a história:
 Uma foto mostra dois irmãos, ainda bebês, e uma casa no fundo. Um dia,
 assistindo TV eles descobrem a localização dela e vão atrás dela
 descobrir a história da vida deles, uma vez que, sendo órfãos e
-separados, não sabem o que aconteceu naquela época.\
+separados, não sabem o que aconteceu naquela época.
 
 Quem chega lá primeiro é o irmão mais velho, que aluga a casa, arruma
 ela e faz todos os cuidados. Passa a estudar em uma escola de ensino
@@ -40,6 +40,6 @@ garotas decidiram que quem não fosse a irmã comprovada dele poderia
 namorá-lo.
 
 Daí já dá muita história: quem é a irmã? como vai desenrolar esse amor?
-como que elas comportarão? quem vai pagar as contas delas? E assim vai…\
+como que elas comportarão? quem vai pagar as contas delas? E assim vai…
 
 

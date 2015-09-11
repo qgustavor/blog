@@ -36,6 +36,6 @@ deram um jeito de escapar e morar juntos.
 Agora o tio - que nem é tão tio assim - terá que virar o papai delas. Se
 quando é pai já é difícil fazer as crianças te ouvirem imaginem quando
 elas tem que ouvir o novo papai delas? Mesmo complicado tudo termina bem
-divertido.\
+divertido.
 
 

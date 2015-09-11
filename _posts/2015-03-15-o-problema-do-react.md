@@ -37,6 +37,6 @@ mesma ideia do React, sendo até um pouco mais organizado e menor, porém
 simplifica demais, não tendo os mesmos recursos
 
 Por fim, vou tentar simplificar o React, se não der será o Mithril
-mesmo.\
+mesmo.
 
 

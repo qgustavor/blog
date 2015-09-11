@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Gugure! Kokkuri-san
 modified: 2015-06-23
-excerpt: "Estava vasculhando os canais naquele programa de <i>streaming</i> péssimo e encontrei esse desenho passando. Fui pesquisar para descobrir que ninguém tinha traduzido ele mas já tinha sido atingido pela fofura daquela boneca sem coração. Depois dei um jeito e acabei assistindo.<br>"
+excerpt: "Kohina, uma garota que se comporta como uma boneca, diz que não sente nenhum sentimento qualquer, exceto que ela ama macarrão instantâneo. Ela vai a escola e tem alguns amigos do tipo dela lá e além disso ela mora sozinha em uma casa grande e assombrada."
 ---
 
 Gugure! Kokkuri-san
@@ -12,7 +12,7 @@ Gugure! Kokkuri-san
 Estava vasculhando os canais naquele programa de *streaming* péssimo e
 encontrei esse desenho passando. Fui pesquisar para descobrir que
 ninguém tinha traduzido ele mas já tinha sido atingido pela fofura
-daquela boneca sem coração. Depois dei um jeito e acabei assistindo.\
+daquela boneca sem coração. Depois dei um jeito e acabei assistindo.
 
 De quem estou falando? Kohina, uma garota que se comporta como uma
 boneca, diz que não sente nenhum sentimento qualquer, exceto que ela ama
@@ -37,6 +37,6 @@ que apaixonaram na Kohina e ficaram para assombrá-la.
 
 Com tanta gente pode uma garota continuar tentando ser uma boneca sem
 sentimentos? Será que ela se tornará humana? Do que escrevi duvido, esse
-povo todo só será problema para a Kohina, ou será que não?\
+povo todo só será problema para a Kohina, ou será que não?
 
 

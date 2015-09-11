@@ -41,6 +41,6 @@ debaixo do mesmo teto¹ ) para sempre.
 
 ¹ Tive que fazer esse comentário só por que estou ouvindo a abertura de
 Kiss x Sis, aquele onde os três irmãos querem viver alegres, juntos e
-sobre o mesmo teto para sempre.\
+sobre o mesmo teto para sempre.
 
 

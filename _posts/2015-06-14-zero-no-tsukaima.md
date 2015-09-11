@@ -35,11 +35,11 @@ a coitada da Zero ainda estava na pior, mesmo com uma ajuda dessas.
 
 O que acontece nas três temporadas? Além de muito *tsundere* tem essa
 ação que falei antes e muitas garotas em situações constrangedoras:
-típico.\
+típico.
 
 <!-- more -->
 
 ¹ Tipo aquelas de a Jibril gosta, só que pena que ele não tenha tido a
-oportunidade de usar uma.\
+oportunidade de usar uma.
 
 

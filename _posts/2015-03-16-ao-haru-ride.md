@@ -22,10 +22,10 @@ dele desde que ela tinha conhecido ele antes.
 Ela tenta ir conversando com ele, mais pessoas vão se juntando ao grupo,
 como o irmão do protagonista, a menina bonita que menina nenhuma gosta
 dela, entre outros. Com o tempo uns vão gostando uns dos outros e vão
-aprendendo a relacionar melhor entre si.\
+aprendendo a relacionar melhor entre si.
 
 PS: espero que eu não tenha confundido nada com Ookami Shoujo to Kuro
 Ouji e Sukitte ii na Yo. Não me lembro muito desse anime e não quero
-pesquisar para não correr o risco de ser \[mais\] influenciado.\
+pesquisar para não correr o risco de ser \[mais\] influenciado.
 
 

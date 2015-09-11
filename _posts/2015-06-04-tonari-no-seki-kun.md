@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Tonari no Seki-kun
 modified: 2015-06-04
-excerpt: "Um garoto, Seki-kun, é um garoto de poucas palavras e muitas ações. Ele deve ser um <i>super-nerd</i> que não precisa estudar, pois a única coisa que ele faz durante a aula é brincar. Tal ação vive incomodando sua colega ao lado, que em momentos é a “narradora” da história, em outros se mete nas brincadeiras."
+excerpt: "Um garoto, Seki-kun, é um garoto de poucas palavras e muitas ações. Ele deve ser um super-nerd que não precisa estudar, pois a única coisa que ele faz durante a aula é brincar. Tal ação vive incomodando sua colega ao lado, que em momentos é a “narradora” da história, em outros se mete nas brincadeiras."
 ---
 
 Tonari no Seki-kun
@@ -29,6 +29,6 @@ impressionante como que ele consegue fazer tantas coisas de forma tão
 engenhosa e aleatória, e até um pouco frutante quando algo ou uma
 expectativa dão errado.
 
-Resumindo em poucas palavras: não é só divertido, é *bem* divertido.\
+Resumindo em poucas palavras: não é só divertido, é *bem* divertido.
 
 

@@ -44,6 +44,6 @@ anime que vai na ideia da relação entre irmãos que não são de sangue (
 inclusive há leis que permitem o casamento nesse caso, logo deve
 explicar o motivo disso ), um subgênero do gênero de anime de
 relacionamento amoroso entre irmãos. É uma visão diferente, bem
-fantástica, desse gênero.\
+fantástica, desse gênero.
 
 

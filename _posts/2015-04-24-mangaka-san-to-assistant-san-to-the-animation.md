@@ -28,11 +28,11 @@ tanto ama desenhar, para referências, claro.
 
 Dos que exercem a mesma profissão todos sempre tem problema com o prazo,
 com o editor e ainda com os assistentes, claro, isso é normal e só saber
-dialogar um com os outros. Porém esse vai além… do permitido. É cômico.\
+dialogar um com os outros. Porém esse vai além… do permitido. É cômico.
 
 <!-- more -->
 
 ‘ Não sei se mangaká é correto em português, o corretor ortográfico diz
-que não é, e olhem que meu corretor aceita até *tuitar-vos-á*.\
+que não é, e olhem que meu corretor aceita até *tuitar-vos-á*.
 
 

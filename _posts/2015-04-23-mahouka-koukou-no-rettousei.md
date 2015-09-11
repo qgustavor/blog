@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Mahouka Koukou no Rettousei
 modified: 2015-04-23
-excerpt: "Um mundo onde a tecnologia avançou a ponto de dominar um fator antes visto como sobrenatural, a magia, tratada como uma ciência exata porém com capacidades nunca antes experimentadas.<br>"
+excerpt: "Um mundo onde a tecnologia avançou a ponto de dominar um fator antes visto como sobrenatural, a magia, tratada como uma ciência exata porém com capacidades nunca antes experimentadas."
 ---
 
 Mahouka Koukou no Rettousei
@@ -11,7 +11,7 @@ Mahouka Koukou no Rettousei
 
 Um mundo onde a tecnologia avançou a ponto de dominar um fator antes
 visto como sobrenatural, a magia, tratada como uma ciência exata porém
-com capacidades nunca antes experimentadas.\
+com capacidades nunca antes experimentadas.
 
 Em uma escola um estudante acaba se destacando pois não sendo forte,
 sendo assim classificado junto com a turma que não aprenderão a fundo a
@@ -27,6 +27,6 @@ conflitos parece culminar em só um pouco: a mágica, sim, a mágica mesmo,
 ela é o que há de mais forte, não há armas, não há nada que a supere, e
 fim.
 
-E fim, ou seja: não entendi mais nada.\
+E fim, ou seja: não entendi mais nada.
 
 

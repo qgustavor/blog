@@ -40,6 +40,6 @@ Afinal, o que eles fariam nessa situação?
 <!-- more -->
 
 E pensar que a resposta que eles finalmente tiveram pode ser entendida
-de forma que seja resumida em um aforismo de Horário.\
+de forma que seja resumida em um aforismo de Horário.
 
 

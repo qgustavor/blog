@@ -21,7 +21,7 @@ O que aconteceria se fosse dado a alguém o poder de decidir livremente
 sobre a morte de uma pessoa? “Essa morrerá atropelada, aquela se
 suicidará, uma terceira simplesmente morrerá”. Data, horário, modo e sem
 que a vítima saiba quem foi seu executor, podendo ele estar em qualquer
-lugar.\
+lugar.
 
 Ora, embora não com tanta liberdade há pessoas com poderes parecidos,
 porém ajudaria em algo se essa pessoa fosse alguém de extrema
@@ -40,6 +40,6 @@ anime também policial não tenho como estabelecer uma ligação entre
 ambos. Mentes brilhantes, polícia atrás e finais que podemos dizer
 “estava tão bem, impecáveis, mas acabou tão fácil assim?”. Acho difícil
 falar algo sobre isso ( ainda mais por que se eu falar mais virá a
-multidão dos que estão chorando o L em cima de mim ).\
+multidão dos que estão chorando o L em cima de mim ).
 
 

@@ -44,6 +44,6 @@ vezes, mas só por pouco tempo.
 Uma história que descobri através da minha irmã, que não é por isso que
 vou considerar a melhor possível. Há vários problemas na história, só
 que mesmo assim é divertido: mostra que com toda essa força que temos,
-realmente, *nada pode me parar agora*.\
+realmente, *nada pode me parar agora*.
 
 

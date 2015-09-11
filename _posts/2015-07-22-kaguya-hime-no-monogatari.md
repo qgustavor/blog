@@ -38,6 +38,6 @@ dela gostavam dela, porém talvez gostassem mais de si próprios e do
 status que tinham de ter uma filha como ela acima de tudo. De forma que
 ela teve uma vida não lá tão boa no geral, porém só em alguns momentos.
 Isso fez que ela ficasse triste e assim como o final também, deixando
-uma reflexão, uma moral a ser aprendida.\
+uma reflexão, uma moral a ser aprendida.
 
 

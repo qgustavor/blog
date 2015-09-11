@@ -23,6 +23,6 @@ lembro das paródias. É divertido, sim, mas acabei prestando muita
 atenção em descobrir o que estava sendo parodiado. Algumas coisas
 qualquer um vê de primeira, como Pokémon, outros eu percebi de cara,
 como Scryed, e outros não percebi por que foi bem sutil, como Ichigo
-Mashimaro. Enfim, é isso.\
+Mashimaro. Enfim, é isso.
 
 

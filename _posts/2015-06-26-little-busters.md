@@ -28,6 +28,6 @@ aquele que dará o desenrolar da história.
 
 Nessa busca por novos membros vários deles tem alguns problemas a serem
 resolvidos, uns bem complicados: de família. Superando toda dificuldade
-o grupo se junta e ajuda eles, com toda a alegria e muita diversão.\
+o grupo se junta e ajuda eles, com toda a alegria e muita diversão.
 
 

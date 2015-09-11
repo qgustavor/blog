@@ -24,7 +24,7 @@ fosse só isso não fazia sentido o nome da história, ou seja: o que há de
 [desconhecido](http://jisho.org/search/mikakunin) nela? Talvez por que a
 cunhada morre de medo coisas desconhecidas, como alienígenas e monstros,
 mas também ama querer saber tudo sobre isso, logo vive comprando coisas
-sobre isso e vendo filmes.\
+sobre isso e vendo filmes.
 
 Isso é, claro, o de menos, a real pergunta é: não é nada estranho
 descobrir do nada que ela tem um noivo tão esquisito, desligado e que
@@ -33,6 +33,6 @@ disso nem a irmã nem a mãe falaram nada disso antes, nem foram contra.
 De fato, tem muito mais segredos nesse noivado do que dá para imaginar.
 
 Não é lá aquele mistério de ficção cientifica, nem de um drama de ficar
-falando e tal, mas é bem divertido, é para passar o tempo mesmo.\
+falando e tal, mas é bem divertido, é para passar o tempo mesmo.
 
 

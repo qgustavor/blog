@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Sasami-san@Ganbaranai
 modified: 2015-05-20
-excerpt: "Vamos falar da história de uma garota chamada Sasami, que se pronuncia <i>sassami</i> e com mais respeito ela é a Sasami-san. De princípio ela parece ser uma garota normal, que não vai a aula por ser extremamente preguiçosa e ter como lema não se esforçar por nada. A vida dela é viver na internet ou na cama e sempre de pijama."
+excerpt: "Vamos falar da história de uma garota chamada Sasami, que princípio ela parece ser uma garota normal, que não vai a aula por ser extremamente preguiçosa e ter como lema não se esforçar por nada."
 ---
 
 Sasami-san@Ganbaranai
@@ -39,6 +39,6 @@ sobrenatural envolvido ainda é muito cômico ver isso, ainda mais por
 que, eu não contei, aquelas pessoas do parágrafo anterior são muito
 engraçadas. Logo em resumo é muito divertido, o pessoal, a luta por
 fazer a Sasami-san se esforçar, nem que seja um pouco, o irmão
-apaixonado nela, e tudo mais.\
+apaixonado nela, e tudo mais.
 
 

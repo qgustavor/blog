@@ -29,6 +29,6 @@ o mundo. É muito doido mesmo, e claro, engraçado também.
 
 <!-- more -->
 
-¹ (visible) panty line: a parte visível das calcinhas sob a roupa.\
+¹ (visible) panty line: a parte visível das calcinhas sob a roupa.
 
 

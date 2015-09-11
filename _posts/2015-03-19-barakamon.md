@@ -30,7 +30,7 @@ Por fim essa se torna uma história que mostra as etapas da mudança do
 jeito de uma pessoa que só se preocupava em mostrar resultados e odiava
 criticas moldado por uma pequena garotinha que gostava de pegar insetos,
 anda com uma corda na cintura e ainda estava aprendendo a diferença de
-ロ e 口.\
+ロ e 口.
 
 <!-- more -->
 
@@ -42,6 +42,6 @@ como bons.*
 tenha certeza que vai gostar dela.*
 
 *Nota 3:* *percebo que tenho a tendência de fazer sentenças longas,
-tenho que me corrigir quanto a isso.*\
+tenho que me corrigir quanto a isso.*
 
 

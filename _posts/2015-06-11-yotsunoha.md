@@ -22,6 +22,6 @@ conversar mais sobre o que havia acontecido.
 Dos antigos amores surgem novas emoções e confissões. Tudo em um
 pequeno, mas divertido, OVA de dois episódios. Muita gente divertida,
 nem todo mundo se dando bem um com o outro mas no final todo mundo
-junto.\
+junto.
 
 

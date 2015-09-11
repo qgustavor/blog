@@ -36,6 +36,6 @@ Como é esperado ninguém vai querer entrar em uma batalha sem esperar que
 ganhe, logo o que acontece é que eles ganham, destruindo os outros
 mumas, os sonhos das pessoas e até a alma delas. Nessa história de
 batalhas é falado sobre os sonhos e os desejos das pessoas, o sonho de
-continuar e não desistir.\
+continuar e não desistir.
 
 

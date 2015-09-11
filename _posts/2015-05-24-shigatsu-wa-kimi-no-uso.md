@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Shigatsu wa Kimi no Uso
 modified: 2015-05-24
-excerpt: "A música clássica tocada por um conjunto de piano e violino, um ambiente escolar e jovens bem animados formam o ambiente e enredo dessa tal <i>Sua Mentira</i> <i>de Abril</i>. Tudo começa quando um garoto que costumava tocar piano desde criança encontra uma garota¹ que estava tocando uma música e que fez despertar nele o interesse por ela."
+excerpt: "A música clássica tocada por um conjunto de piano e violino, um ambiente escolar e jovens bem animados formam o ambiente e enredo dessa tal Sua Mentira de Abril. Tudo começa quando um garoto que costumava tocar piano desde criança encontra uma garota¹ que estava tocando uma música e que fez despertar nele o interesse por ela."
 ---
 
 Shigatsu wa Kimi no Uso
@@ -11,7 +11,7 @@ Shigatsu wa Kimi no Uso
 
 A música clássica tocada por um conjunto de piano e violino, um ambiente
 escolar e jovens bem animados formam o ambiente e enredo dessa tal *Sua
-Mentira* *de Abril*. Tudo começa quando um garoto que costumava tocar
+Mentira de Abril*. Tudo começa quando um garoto que costumava tocar
 piano desde criança encontra uma garota¹ que estava tocando uma música e
 que fez despertar nele o interesse por ela.
 
@@ -39,11 +39,11 @@ ouvir as notas.
 O que acontece depois? Bem, melhor não contar, pois há mais viradas de
 eventos ( não tanto quanto Kill la Kill, que é uma por episódio ) e
 daqui não mais posso falar ( ou realmente não consigo com o que sei
-falar mesmo ). Então fico por aqui, até. Ah, e assista, *okay*?\
+falar mesmo ). Então fico por aqui, até. Ah, e assista, *okay*?
 
 <!-- more -->
 
 ¹ Todos sabemos que essa história de *boy meets girl* não é lá nova, mas
-de fato isso é só o início da história.\
+de fato isso é só o início da história.
 
 

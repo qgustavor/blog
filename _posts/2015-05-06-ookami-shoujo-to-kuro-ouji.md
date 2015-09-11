@@ -34,9 +34,9 @@ sadomasoquista.
 E aquele que escreve não sabe por que assistiu algo tão estranho assim
 pois ao que eu me lembre só pensava “logo acaba, logo isso acaba, logo
 melhora e acaba”. E deu no que deu, terminei esse anime e não me lembro
-de um só ponto forte nele de bom.\
+de um só ponto forte nele de bom.
 
 Nota: Onegai☆Twins foi pulado pois não me lembro. Vou assistir ele
-novamente algum dia.\
+novamente algum dia.
 
 

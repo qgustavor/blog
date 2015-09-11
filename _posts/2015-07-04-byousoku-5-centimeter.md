@@ -25,6 +25,6 @@ nesse romance lindo.
 E com lindo me refiro principalmente a beleza da animação, os cenários
 que parecem obras de arte. Descobri a história pela arte, arte qual já
 admirava tanto, a história não decepcionou de nenhuma forma,
-impressionou.\
+impressionou.
 
 

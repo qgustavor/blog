@@ -42,6 +42,6 @@ Acho que ficou implícito que se tem estudantes, jovens e morando no
 mesmo teto logo vai rolar um romance daquele tipo *girl meets boy meets
 girl*, certo? Mas claro que o anime não é só romance, é muito mais
 comédia mesmo, ainda mais por que desde quanto uma garota via o animal
-de estimação da turma?\
+de estimação da turma?
 
 

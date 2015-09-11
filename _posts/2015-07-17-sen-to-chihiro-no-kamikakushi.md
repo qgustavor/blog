@@ -18,7 +18,7 @@ Como era esperado a história fala de uma garota chamada Chihiro que
 acompanhando seus pais foi parar em um lugar bem bonito, tanto que os
 pais delas acharam que era um parque de diversões. O problema que
 aconteceu foi que aquilo nem era parque, nem era para pessoas, e sim uma
-casa de banho para espíritos, o que explica o nome.\
+casa de banho para espíritos, o que explica o nome.
 
 Por sorte ela encontrou um garoto que ajudou a Chihiro e assim ela não
 foi amaldiçoada, porém seus pais foram. Logo ela tentou fazer de tudo
@@ -30,6 +30,6 @@ Ao contrário de WataMote e filmes alemães o final é um final feliz, o
 desenvolvimento por sua vez é uma mistura de um romance juvenil, muito
 esforço, uma pitada de drama e algo entre non-sense e um mundo bem
 místico. Ou seja, é divertido, dá para assistir com a família e tudo
-mais.\
+mais.
 
 

@@ -11,7 +11,7 @@ Boku wa Tomodachi ga Sukunai
 
 Ultimamente parece que todo mundo é cheio de amigos, porém nessa
 história encontramos dois que não tem nenhum, isso é, dizem não ter
-nenhum. De fato, como o nome diz, não eles tem muitos amigos.\
+nenhum. De fato, como o nome diz, não eles tem muitos amigos.
 
 O primeiro deles é um garoto cuja mãe não era japonesa e assim herdando
 uma aparência diferente do normal do lugar, assim parecendo que tingira
@@ -34,6 +34,6 @@ roupas femininas, entre outros.
 
 Por fim, como era de se esperar, eles se veem em uma situação onde eles
 tem amigos, e ao contrário do que diziam só não tem muitos amigos. Claro
-que não deixaram de falar que não são amigos…\
+que não deixaram de falar que não são amigos…
 
 

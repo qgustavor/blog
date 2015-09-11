@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Space☆Dandy
 modified: 2015-05-28
-excerpt: "Como o próprio nome diz essa história fala sobre um <a href=\"https://en.wikipedia.org/wiki/Dandy\"><i>Dandy</i></a> do espaço ( se aportuguesar seria Dândi, se traduzir pode ser fanfarrão, algo assim ). Esse personagem vive viajando pelo espaço em sua nave em busca de alienígenas raros acompanhado de um robô, que parece com um aspirador de pó, e um alienígena <i>betelgeusíano</i>, um tipo praticamente igual a um gato."
+excerpt: "Como o próprio nome diz essa história fala sobre um Dandy do espaço. Esse personagem vive viajando pelo espaço em sua nave em busca de alienígenas raros acompanhado de um robô, que parece com um aspirador de pó e um alienígena betelgeusíano."
 ---
 
 Space☆Dandy
@@ -44,6 +44,6 @@ que chega a ficar sem graça as vezes.
 Não posso dizer que ele tenha sido um sucesso, tanto que nem tradução da
 segunda temporada tem ( exceto se você não se importar com qualidade
 abaixo da média; muita gente é assim ). É divertido em algumas partes,
-mas tem hora que a piada fica chata.\
+mas tem hora que a piada fica chata.
 
 

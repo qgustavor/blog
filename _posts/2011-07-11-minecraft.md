@@ -6,7 +6,7 @@ modified: 2011-07-11
 excerpt: "Essa é uma foto que eu não editei já que eu não fiz ela no formato certo, nela eu estava com umas inspirações de Minecraft, queria que vocês a vissem [ e eu aproveitasse pra testar com ela o tema ] :)"
 ---
 
-![](/images/tumblr_lo3l094pRf1qma17bo1_1280.png)
+![](http://40.media.tumblr.com/tumblr_lo3l094pRf1qma17bo1_1280.png)
 
 Essa é uma foto que eu não editei já que eu não fiz ela no formato
 certo, nela eu estava com umas inspirações de Minecraft, queria que

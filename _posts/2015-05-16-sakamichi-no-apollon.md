@@ -44,6 +44,6 @@ assistir e ouvir.
 literatura dizia: “quando me dá uma vontade de matar alguém assisto um
 filme onde alguém mata alguém e assim passa a vontade como se eu fosse o
 personagem” (claro que adaptado, eu não tenho aula com ela faz uns cinco
-anos).\
+anos).
 
 

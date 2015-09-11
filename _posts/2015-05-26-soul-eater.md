@@ -39,10 +39,10 @@ Porém eles são crianças, estão ainda no seu ensino médio técnico, logo
 eles ainda tem muito a aprender. Se eles tem muito a aprender já vão
 imaginando que vão se confundir, vão faltar aula para ficar de
 briguinha, vão uma hora pausar e relaxar como crianças que são. E assim
-a vida de arma segue normal.\
+a vida de arma segue normal.
 
 <!-- more -->
 
-¹ Esse tanto de R e L está me fazendo lembrar de Ansatsu Kyoushitsu.\
+¹ Esse tanto de R e L está me fazendo lembrar de Ansatsu Kyoushitsu.
 
 

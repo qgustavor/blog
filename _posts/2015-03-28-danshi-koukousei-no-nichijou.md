@@ -29,6 +29,6 @@ identidade de algumas - principalmente dessas - foi protegida, nem o
 rosto aparece ).
 
 Por fim, mostra muito a visão de um grupo em relação a outro, e o mais
-importante, é ~~muita~~ *só* comédia.\
+importante, é ~~muita~~ *só* comédia.
 
 

@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Ichigo Mashimaro
 modified: 2015-04-08
-excerpt: "<i>Kawaii</i> não é uma palavra que representa bem o que <i>kawaii </i>é. Talvez essas garotas que mostrem o que é ser <i>kawaii</i>. Veja a vida diária de um grupo de meninas do primário ( e uma jovem na faculdade ) e reflita sobre o que é ser <i>kawaii</i>."
+excerpt: "Veja a vida diária de um grupo de meninas do primário ( e uma jovem na faculdade ) e reflita sobre o que é ser kawaii."
 ---
 
 Ichigo Mashimaro
@@ -31,6 +31,6 @@ meninas, ajudando elas nas brincadeiras e tudo mais que uma irmã mais
 velha faria.
 
 Por que eu assisti isso? Gosto de animes infantis (o japonês é mais
-simples, logo entendo mais) e porque é bem divertido.\
+simples, logo entendo mais) e porque é bem divertido.
 
 

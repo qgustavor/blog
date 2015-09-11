@@ -20,7 +20,7 @@ especial, que é vestida nas pernas e pés. A força dessa máquina vem
 através da mágica delas, uma tão forte que elas chegam a crescer rabos e
 orelhas de animais fofos. Além disso, para sempre estarem prontas para a
 batalha, elas nunca usam calças, para a qualquer momento ser fácil
-vestir a máquina que permite elas voar.\
+vestir a máquina que permite elas voar.
 
 Dessa forma elas não tem vergonha de mostrar suas roupas intimas em
 público, também uma reconhece a da outra, de tanto ver. Aliás, a
@@ -30,6 +30,6 @@ o costume de tomarem banho juntas e terem conversas nuas e abertas.
 A batalha é simples: chega lá, atira no núcleo do bicho e ele morre. A
 questão principal delas é: quem vai lutar ao lado da comandante? por que
 a comandante gosta mais dela do que de mim? quem roubou a minha roupa?
-coisas do tipo. Fofo, no mínimo.\
+coisas do tipo. Fofo, no mínimo.
 
 

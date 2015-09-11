@@ -46,7 +46,7 @@ implementei uma outra forma que a planilha pode saber se saiu episódios
 novos, usando o MEGA. Para quem não sabe o MEGA é um site que foi feito
 para os donos não levarem a culpa de nada que os usuários postam, por
 isso tudo é automaticamente criptografado de forma que não é fácil
-culpar eles.\
+culpar eles.
 
 Agora a questão é segurança: se eu consegui implementar um sistema que
 me avisa episódios novos monitorando pastas compartilhadas usando um
@@ -81,6 +81,6 @@ Acho que isso resume um pouco dos meus *side projects*, fico por aqui
 ![](http://31.media.tumblr.com/e068e43321de55fb169abe579214bd3f/tumblr_inline_ntcdenqdgt1qju32f_500.gif)
 
 *Nota: o Tumblr não deixa controlar o tamanho das imagens, devem estar
-saindo todas grandes.*\
+saindo todas grandes.*
 
 

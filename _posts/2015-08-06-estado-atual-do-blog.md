@@ -16,7 +16,7 @@ postagens no celular e bugs no sistema de agendamento.
 Desde que terminei a série \#1animepordia estou estudando uma forma de
 mudar de servidor. Isso foi semana passada, mas só agora que consegui
 publicar a postagem de encerramento. Não entendi o motivo desse bug no
-final das contas.\
+final das contas.
 
 Não está sendo fácil: HTTPS pode ser até barato, dá para se virar se
 tiver o CloudFlare e tal. O problema é que as coisas fáceis acabam aí: a
@@ -33,6 +33,6 @@ projetos que auxiliam isso logo posso começar me baseando neles.
 Estou testando o GitHub por um momento no [wshp.tk](https://wshp.tk) e
 parece que tudo está indo bem: sem problemas de HTTPS, fácil de
 trabalhar com a exceção que tenho que fazer tudo usando JavaScript.
-Espero conseguir fazer logo isso tudo.\
+Espero conseguir fazer logo isso tudo.
 
 

@@ -25,7 +25,7 @@ mais normal o passatempo preferido dela é ficar falando mal dos outros
 consigo mesma, isso já que ela não tem ninguém para conversar na escola.
 Qualquer um é alvo dela, até mesmo a pessoa mais normal e que
 simplesmente está aproveitando a vida é criticada por ela como se fosse
-um desprezível qualquer.\
+um desprezível qualquer.
 
 Mesmo assim ela não é completamente solitária: quando ela estava no
 fundamental ela tinha uma amiga tão esquisita quanto ela. Achando que

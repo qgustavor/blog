@@ -32,6 +32,6 @@ outra a fazerem uma dupla e no final toparam.
 Agora já falei da metade da história, não quero falar o desfecho aqui
 pois assim tira a graça, e como não tem nada para discutir, não é drama
 de ficar chorando e recordar dez anos depois, nada desse tipo, que fique
-nisso mesmo.\
+nisso mesmo.
 
 

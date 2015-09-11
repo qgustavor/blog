@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Koe de Oshigoto!
 modified: 2015-04-18
-excerpt: "Essa história é só um OVA de dois episódios, ou seja, serei breve. No ramo dos jogos <i>H</i> existem os que fazem a história, desenham os personagens, fazem a música, e por último, não por menos importante, os que trabalham usando a própria voz."
+excerpt: "Essa história é só um OVA de dois episódios, ou seja, serei breve. No ramo dos jogos H existem os que fazem a história, desenham os personagens, fazem a música, e por último, não por menos importante, os que trabalham usando a própria voz."
 ---
 
 Koe de Oshigoto!
@@ -27,6 +27,6 @@ como chupar um dedo até uma criança de sete anos consegue fazer (*calma
 aí*…).
 
 Ela chega até a ser reconhecida na escola, embora não tenha gostado
-muito disso, mas no final tudo dá bem. E é isso.\
+muito disso, mas no final tudo dá bem. E é isso.
 
 

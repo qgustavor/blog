@@ -27,6 +27,6 @@ na comida. Preocupou tanto que não esqueceu.
 Com o tempo a memória foi mostrando melhoras, porém se ficar só
 melhorando não dá drama. O que acontece depois? De cara dá para dizer
 que ela piora de novo, mas como eles resolvem esse problema? Isso já é o
-final do anime.\
+final do anime.
 
 

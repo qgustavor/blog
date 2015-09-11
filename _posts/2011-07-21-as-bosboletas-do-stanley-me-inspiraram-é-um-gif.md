@@ -6,7 +6,7 @@ modified: 2011-07-21
 excerpt: "É um gif, será que vai funcionar?"
 ---
 
-![](/images/tumblr_lonr9l8shj1qma17bo1_400.gif)
+![](http://33.media.tumblr.com/tumblr_lonr9l8shj1qma17bo1_400.gif)
 
 É um gif, será que vai funcionar?
 

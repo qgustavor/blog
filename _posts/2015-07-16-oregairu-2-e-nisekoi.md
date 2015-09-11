@@ -37,7 +37,7 @@ anime dessa forma. Embora dos dois esse foi o que mais tive dificuldade
 de entender tentei esforçar ao máximo que pude. Ainda tive sorte pois os
 grupos que traduziram os episódios estavam muito rápidos, logo sempre
 antes de assistir um episódio já tinha saído a tradução explicando o que
-eu não tinha entendido.\
+eu não tinha entendido.
 
 Quanto a história, bem, foi boa, teve um foco mais diferente da primeira
 temporada, com menos comédia e mais drama, mostrando menos aquele amigo
@@ -64,7 +64,7 @@ intervalos de humor, como quando houve a história das garotas mágicas
 (veja nota), que por mais que tenha até mangá dessa história, foi muito
 uma referência misturada de Puella Magi Madoka Magica, a começar pelo
 segundo zero do episódio onde que aparecem os olhos daquele ser
-maligno.\
+maligno.
 
 Nota: esse episódio ainda não foi traduzido (exceto pelos grupos que
 traduzem considerados de tradução rápida), então não sei se o nome das
@@ -82,13 +82,13 @@ eu não entendi tive que entender *lendo o ar*² então talvez seja
 imaginação minha.
 
 Fico por aqui, acho que escrevi demais. Aproveitem e assistam esses
-dois!\
+dois!
 
 ¹ Obviamente estou torcendo para ou a chinesa ou a japonesa ganhar o
-concurso. Se bem que quando alguém ler isso ele já terá acabado…\
+concurso. Se bem que quando alguém ler isso ele já terá acabado…
 
 ² “Entender pela situação”, embora o mesmo pessoal que traduziu Oregairu
 já tenha traduzido essa expressão literalmente como eu coloquei acima
-quando traduziram “Bokura wa Minna Kawaisou”.\
+quando traduziram “Bokura wa Minna Kawaisou”.
 
 

@@ -19,11 +19,11 @@ Ela te arruma o almoço, vai atrás de você na escola, fica de olho nos
 seus coleguinhas, não deixa as garotas que ela não aprova ir em cima de
 você, fica atrás de você quando você está saindo com os amigos. É um
 amor de irmã stalker. Um amor mesmo, principalmente ela perde o esse
-lado estranho.\
+lado estranho.
 
 Ah, e não podemos esquecer da divertida frase, dita todo episódio
-(exceto em um, sei lá por que) pelo menino em questão:\
+(exceto em um, sei lá por que) pelo menino em questão:
 
-> *KITAAAAAAAAAAAAAAAAAA!*\
+> *KITAAAAAAAAAAAAAAAAAA!*
 
 

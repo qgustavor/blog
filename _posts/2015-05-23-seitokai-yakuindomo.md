@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Seitokai Yakuindomo
 modified: 2015-05-23
-excerpt: "Um colégio feminino abriu as portas para garotos, dessa forma no primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há garotas. Para melhorar esse relacionamento das turmas um garoto foi convocado a participar do conselho estudantil, que no momento era composto de duas garotas com crises sexuais e uma com crise de altura. Com esse cenário é possível imaginar qualquer tipo de piadinha sexual, constrangimento e qualquer outra coisa engraçada.<br>"
+excerpt: "Um colégio feminino abriu as portas para garotos, dessa forma no primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há garotas. Para melhorar esse relacionamento das turmas um garoto foi convocado a participar do conselho estudantil, que no momento era composto de duas garotas com crises sexuais e uma com crise de altura. Com esse cenário é possível imaginar qualquer tipo de piadinha sexual, constrangimento e qualquer outra coisa engraçada."
 ---
 
 Seitokai Yakuindomo
@@ -15,7 +15,7 @@ garotas. Para melhorar esse relacionamento das turmas um garoto foi
 convocado a participar do conselho estudantil, que no momento era
 composto de duas garotas com crises sexuais e uma com crise de altura.
 Com esse cenário é possível imaginar qualquer tipo de piadinha sexual,
-constrangimento e qualquer outra coisa engraçada.\
+constrangimento e qualquer outra coisa engraçada.
 
 Aliás, falando nisso tenho que descrever melhor aquelas garotas: uma é a
 presidente do conselho estudantil, vive fazendo piadas de cunho sexual,
@@ -37,6 +37,6 @@ Tem primeira temporada, especiais, segunda temporada… nessa progressão
 só vai aumentando o humor, quase virando um show de humor baseado em
 quadros: por exemplo, o quadro “O que é isso?” mostra a silhueta de
 alguma coisa e nunca é o que é esperado. E para terminar: *\[insira
-piada sexual aqui\]*.\
+piada sexual aqui\]*.
 
 

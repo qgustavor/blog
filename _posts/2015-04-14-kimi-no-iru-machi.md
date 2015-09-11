@@ -27,7 +27,7 @@ Como ia dizendo o amigo estava com uma doença terminal e em uma disputa
 pela namorada. Porém, antes que pudesse acontecer alguma coisa, a doença
 pegou ele. Claro que ele não deu em cima dela, se não ficaria parecendo
 aquele velho daquela série americana que vai atrás das viúvas. Ele foi
-atrás de outra garota (que parece a Mônica do “mangá invertido”).\
+atrás de outra garota (que parece a Mônica do “mangá invertido”).
 
 Só que o tempo passou e ela viu que ele por mais que ele a tivesse
 abandonado naquela cidade cujos moradores tem um sotaque de interior (e
@@ -36,6 +36,6 @@ dois começou a surgir um clima entre os dois (ainda que armado por umas
 “amigas” deles).
 
 Como acaba esse trágico romance? Como disse antes não me lembro de muita
-coisa, por exemplo o final. Assista :)\
+coisa, por exemplo o final. Assista :)
 
 

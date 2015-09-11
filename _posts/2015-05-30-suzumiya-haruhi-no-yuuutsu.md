@@ -3,15 +3,14 @@ layout: post
 tags: [1animepordia]
 title: Suzumiya Haruhi no Yuuutsu
 modified: 2015-05-30
-excerpt: "Notem que pulei Sukitte Ii na yo. por que o que eu iria postar é a mesma coisa do <a href=\"http://qgustavor.tk/post/94215687342/sukitte-ii-na-yo\">ano passado</a>. Além do que como é outro anime shoujo, onde é quase sempre a mesma coisa, vivo confundindo as histórias deles."
+excerpt: "Vamos falar da Haruhi, para quem não sabe é a toda poderosa dos animes e não falem o contrário por que se ela se irritar, ficar com tédio ou qualquer coisa do tipo você vai sofrer, e muito."
 ---
 
 Suzumiya Haruhi no Yuuutsu
 ==========================
 
 Notem que pulei Sukitte Ii na yo. por que o que eu iria postar é a mesma
-coisa do [ano
-passado](http://qgustavor.tk/post/94215687342/sukitte-ii-na-yo). Além do
+coisa do [ano passado](http://qgustavor.tk/post/94215687342/sukitte-ii-na-yo). Além do
 que como é outro anime shoujo, onde é quase sempre a mesma coisa, vivo
 confundindo as histórias deles.
 
@@ -23,7 +22,7 @@ Para começar toda a história que envolve a Haruhi começa com um garoto
 normal que queria ter uma vida normal e acabou sendo o narrador
 protagonista da história dessa menina. Ela, que passou a sentar perto
 dele, o convocou para participar das atividades dela. Ele não teve outra
-escolha se não aceitar tal destino.\
+escolha se não aceitar tal destino.
 
 Ao contrário do que pode ser imaginado, isso é, com tanto poder, ela é
 uma garota normal, ao menos é o que ela pensa ( e é bom que ela pense
@@ -50,6 +49,6 @@ menos não foi ao ar assim ), logicamente essa postagem também não segue.
 Esse problema é tanto que eu nem sei se realmente assisti o anime ou
 não. Já devo ter assistido umas duas vezes ou nunca terminei de
 assistir, não faço ideia. Só aprendi que vamos confiar na Haruhi e que
-devemos resolver os mistérios do mundo juntos.\
+devemos resolver os mistérios do mundo juntos.
 
 

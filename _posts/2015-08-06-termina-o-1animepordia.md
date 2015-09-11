@@ -70,6 +70,6 @@ postagens que eu postava todos os dias, dessa vez no ritmo que eu for
 assistindo, sempre com o objetivo de ir melhorando a minha escrita, a
 minha memória e minha forma de ver essas histórias a cada postagem.
 
-Até a próxima.\
+Até a próxima.
 
 

@@ -23,6 +23,6 @@ recomendações, entre todo o tipo de gente.
 
 ¹ Frase que de praxe coloco quando só consigo me lembrar que tem
 comédia, porém não consigo me lembrar de mais nada. Ah, e o final foi
-estranho.\
+estranho.
 
 

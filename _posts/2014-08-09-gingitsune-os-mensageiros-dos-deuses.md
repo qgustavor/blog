@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Gingitsune: os mensageiros dos deuses
 modified: 2014-08-09
-excerpt: "<em><img src=\"http://38.media.tumblr.com/02d3ac1396238724e1719d85153a3344/tumblr_inline_n9wejlVceb1qju32f.jpg\"></em>"
+excerpt: "Gingitsune é um anime que mostra a história dos arautos, que são animais que morreram e que após a sua morte se tornaram mensageiros dos deuses."
 ---
 
 Gingitsune: os mensageiros dos deuses

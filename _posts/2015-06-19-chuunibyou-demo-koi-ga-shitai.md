@@ -31,18 +31,18 @@ Essa menina não é fraca e conta com reforços: a amiga dela, que é capaz
 de atacar com um martelo super poderoso. Juntos eles formaram um clube
 para sobre magia, dormir e verão. Dormir também por que deixaram uma
 garota que só sabe fazer isso se juntar ao clube para atingir o número
-mínimo de membros. Esse pessoal sabe manjar das papeladas…\
+mínimo de membros. Esse pessoal sabe manjar das papeladas…
 
 Com isso, aquele garoto que queria ter uma vida normal passa a ter as
 mais diversas aventuras fantasiosas que só acontecem na cabeça deles.
 Bem, não era o plano deles, nem isso nem o amor que eventualmente
 acontece quando tem uma garota e um garoto juntos compartilhando
-momentos de felicidade ( e tristeza ) juntos.\
+momentos de felicidade ( e tristeza ) juntos.
 
 <!-- more -->
 
 ¹ O fundamental tem duas fases, uma de seis anos e outra de três, um
 total de nove anos. Logo o segundo ano da segunda fase é o oitavo ano,
-certo? Ou seria sétimo?\
+certo? Ou seria sétimo?
 
 

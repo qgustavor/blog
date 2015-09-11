@@ -41,6 +41,6 @@ outros problemas. Rola até política no anime.
 
 É muita história, contei muita coisa, uma palavra já é muita coisa
 contada. Quer saber, melhor assistir se quiser saber mais (me sinto mal
-se eu contar tudo, mesmo para quem já assistiu, é meu problema).\
+se eu contar tudo, mesmo para quem já assistiu, é meu problema).
 
 

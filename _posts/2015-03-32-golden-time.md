@@ -31,6 +31,6 @@ uma terceira entrará no caminho? (oka-chan?) Ou ficará com nenhuma?
 
 De qualquer forma é bem interessante e divertido: as danças, o pessoal
 dos clubes (principalmente aquele clube estranho) e o pessoal
-divertindo.\
+divertindo.
 
 

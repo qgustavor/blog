@@ -35,6 +35,6 @@ trabalho fazia tudo bem feito e até inovava no que podia, logo sempre
 surpreendia os outros. Porém isso é só o início de uma história que
 envolve aviões, sonhos e o romance daqueles dois jovens, sobre o sonho
 de voar, que acabou se tornando um sonho explosivo e destrutivo, mas se
-manteve um sonho.\
+manteve um sonho.
 
 

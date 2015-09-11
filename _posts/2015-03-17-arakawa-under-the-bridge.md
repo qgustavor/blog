@@ -33,6 +33,6 @@ geralmente não se veste bem e dorme na gaveta de uma cama luxuosa.
 Tudo o que é imaginável acontece nesse rio: escola, igreja, plantações,
 amazônia, programa espacial, aliens, etc. Ao mesmo tempo isso vai
 mostrando que a vida não precisa ser aquela forma dura e sem graça do
-primeiro parágrafo, pode ser divertida.\
+primeiro parágrafo, pode ser divertida.
 
 

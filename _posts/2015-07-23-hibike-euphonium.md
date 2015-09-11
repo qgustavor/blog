@@ -34,6 +34,6 @@ caminho da vitória, aquele que dá prêmios, o caminho do sucesso.
 Essa história mostra uma jornada que não é nada fácil, mas que mostrou o
 esforço de garotos e, principalmente, garotas que buscam o sucesso em
 meio as dificuldades, tendo que conciliar a música com os estudos, e
-principalmente, tendo que entender uns aos outros.\
+principalmente, tendo que entender uns aos outros.
 
 

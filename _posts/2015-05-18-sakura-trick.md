@@ -30,10 +30,10 @@ aumentar o desejo de uma com a outra.
 Tudo bem que no anime dá para contar os homens que aparecem usando uma
 mão só, logo até cheguei a imaginar que o mundo delas seja um paralelo
 onde só há mulheres e uns dois homens, o professor e o pai de uma delas.
-Claro que assim elas iriam se amar, *imagino*.\
+Claro que assim elas iriam se amar, *imagino*.
 
 De qualquer forma o amor delas não é apenas forte, ainda por cima é
 contagiante: contagiou a família, as amigas e por que não até quem
-assistiu o anime? Não acham?\
+assistiu o anime? Não acham?
 
 

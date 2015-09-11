@@ -24,11 +24,11 @@ Caso vá assistir esse anime se prepare para ser um bom ouvinte, pois
 boas esquisitices sempre acabam refletindo sobre seus problemas de
 esquisitice uma com a outra. Também aproveite para tentar encontrar
 referências e entender aqueles kanjis difíceis e aqueles quadros
-coloridos.\
+coloridos.
 
 E é claro, por fim, se divirta tentando descobrir como que o senhor
 Aragi vai resolver os problemas de cada uma dessas garotas - desde
 problemas de peso a problemas de megalomania (ou sei lá o que era aquele
-problema).\
+problema).
 
 

@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Panty & Stocking with Garterbelt
 modified: 2015-05-10
-excerpt: "As meninas super poderosas cresceram! Nessa animação japonesa (i.e. anime) com estilo de animação americana (i.e. cartoon) é mostrado duas garotas ( e um cachorro ) que combatem o mal usando, respectivamente, suas calcinhas e meias-calças, acompanhadas de um padre que pratica <i>bondage¹ </i>e usa afro."
+excerpt: "As meninas super poderosas cresceram! Nessa animação japonesa (i.e. anime) com estilo de animação americana (i.e. cartoon) é mostrado duas garotas ( e um cachorro ) que combatem o mal usando, respectivamente, suas calcinhas e meias-calças, acompanhadas de um padre que pratica bondage e usa afro."
 ---
 
 Panty & Stocking with Garterbelt
@@ -37,13 +37,13 @@ No que essa libertinagem total dá? Mais libertinagem, claro. E muita
 doideira, muita mesmo. Do início ao final o desenho é doido,
 simplesmente isso. Sexo? 2 vezes por episódio. Doces? Episódios
 dedicados a eles. Calcinhas? Também. Muito sangue correndo? Só dos
-narizes mesmo.\
+narizes mesmo.
 
 <!-- more -->
 
 ‘ Se eu colocar em itálico o corretor ortográfico reconhece que estou
 usando um estrangeirismo, curioso não é?
 
-² … mas não funcionou com o nome do desenho.\
+² … mas não funcionou com o nome do desenho.
 
 

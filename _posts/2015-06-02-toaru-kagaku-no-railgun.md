@@ -51,6 +51,6 @@ mundo é mais fácil que estudar”².
 descontração nenhuma, só momentos tensos.
 
 ² Isso é, se considerar que obedecer as regras, tanto do dormitório, da
-escola e da cidade; representa estudar.\
+escola e da cidade; representa estudar.
 
 

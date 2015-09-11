@@ -41,6 +41,6 @@ foi que a escreveu ( depois procurem saber ) e o alcance que ela chegou.
 É uma história boa, o final ( atual ) do anime dá espaço para muita
 continuação, ainda não cheguei a ler a novel ( e vai demorar um pouco
 para que eu leia, a menos que eu comece a ler tradução ) e é isso.
-Resumindo acho que vocês gostarão dessa história.\
+Resumindo acho que vocês gostarão dessa história.
 
 

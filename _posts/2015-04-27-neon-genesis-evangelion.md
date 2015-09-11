@@ -44,6 +44,6 @@ deles que eu me lembre foi Danna, também por que várias pessoas gostam
 dele ( não sei se uma pessoa que me importo muito gosta mas se gostar
 foi por ela também ). Seria um clássico? Se for por data Ranma ganha,
 mas se for por influência sim. E tirando tudo isso ainda é bem legal a
-história.\
+história.
 
 

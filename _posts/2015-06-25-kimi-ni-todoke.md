@@ -35,6 +35,6 @@ amigos que a ajudaram a se livrar desse preconceito que tinham dela.
 Porém ela é uma garota insegura, afinal, nunca tivera amigos. Por acaso
 essa relação daria certo? Ela não pensou isso e na menor instabilidade
 tentou se isolar. O que os amigos dela fizeram? A ajudaram, claro, porém
-não ficou só nisso, tem muita história e amor para frente.\
+não ficou só nisso, tem muita história e amor para frente.
 
 

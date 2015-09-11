@@ -44,6 +44,6 @@ ajudá-la. E com o tempo foi derrotando espíritos, tornando-os aliados.
 E assim a história vai: ele derrota um inimigo, consegue um aliado,
 depois de derrotar os dois mais fortes chega o chefão, então reúnem
 forças e é igual final de jogo. Não me impressiona isso pois é baseado
-em um.\
+em um.
 
 

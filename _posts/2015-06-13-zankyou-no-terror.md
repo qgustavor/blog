@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Zankyou no Terror
 modified: 2015-06-13
-excerpt: "Neve, máquinas, construções tipicas de uma usina nuclear, um roubo com requintes de ainda terem deixado uma pichação lá. O cenário muda: uma escola, um grupo de estudantes pulando de roupa na piscina e aproveitando a vida, como se nada tivesse acontecido. Comentam sobre um video que foi postado na internet e que falava para tomar cuidado com explosões.<br>"
+excerpt: "Neve, máquinas, construções tipicas de uma usina nuclear, um roubo com requintes de ainda terem deixado uma pichação lá. O cenário muda: uma escola, um grupo de estudantes pulando de roupa na piscina e aproveitando a vida, como se nada tivesse acontecido. Comentam sobre um video que foi postado na internet e que falava para tomar cuidado com explosões."
 ---
 
 Zankyou no Terror
@@ -14,7 +14,7 @@ requintes de ainda terem deixado uma pichação lá. O cenário muda: uma
 escola, um grupo de estudantes pulando de roupa na piscina e
 aproveitando a vida, como se nada tivesse acontecido. Comentam sobre um
 video que foi postado na internet e que falava para tomar cuidado com
-explosões.\
+explosões.
 
 Esse grupo vai fazer um passeio em um prédio - compras, se não me engano
 - um pouco depois a luz acaba, é evacuado e do nada o prédio é
@@ -42,6 +42,6 @@ Pelo nome esperemos o terror. De fato, cada episódio dá uma emoção
 enorme, uma vontade de assistir o próximo, de saber a solução das
 charadas, é muita coisa. *Já o final…* parece que foi escrito por alguém
 que pensa que o quintal dos USA é o resto do mundo, ou seja, é um pouco
-chato.\
+chato.
 
 

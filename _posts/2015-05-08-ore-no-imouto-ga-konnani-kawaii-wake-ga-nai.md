@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Ore no Imouto ga Konnani Kawaii Wake ga Nai
 modified: 2015-05-08
-excerpt: "Minha irmã não pode ser assim tão linda ( vá tirando os olhos dela… <i>brincadeira</i> ). O que teria em uma história com esse nome? Irmãos apaixonados, para começar, bagunça na família, claro, e também diversas cenas engraçadas."
+excerpt: "Minha irmã não pode ser assim tão linda. O que teria em uma história com esse nome? Irmãos apaixonados, para começar, bagunça na família, claro, e também diversas cenas engraçadas."
 ---
 
 Ore no Imouto ga Konnani Kawaii Wake ga Nai
@@ -47,6 +47,6 @@ Poderia eu falar que é um anime popular? Já vi outros fazerem
 referências dele ( uns dois no mínimo ) então sim. É também divertido e
 mostra relações de irmãos ( é saudável ), estudantes do ensino médio,
 otakus e até um pouco do trabalho da grande mídia. De qualquer modo no
-final o amor desses dois é o mais relevante.\
+final o amor desses dois é o mais relevante.
 
 

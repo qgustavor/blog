@@ -30,6 +30,6 @@ procurando escapar desse destino.
 Porém, mesmo com essa triste história, o grupo permanece junto
 aproveitando as suas vidas normais e animadas de estudantes. Ele sendo
 amado por elas ( gentil e salvando elas, por que não? ), ao lado de
-princesas e todo o tipo de gente e, principalmente, tentando se salvar.\
+princesas e todo o tipo de gente e, principalmente, tentando se salvar.
 
 

@@ -30,6 +30,6 @@ Por fim, no fundo achei bem educativo, aprendi algumas coisas sobre
 algumas doenças e os tratamentos delas: aprendi que só é pedofilia se o
 alvo for abaixo de 13 anos; aprendi que fetichismo só é doença se a
 situação se repetir por mais de seis meses e causar problemas para si
-próprio ou os outros; etc.\
+próprio ou os outros; etc.
 
 

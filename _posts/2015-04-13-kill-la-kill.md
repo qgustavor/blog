@@ -46,6 +46,6 @@ foi ótimo.
 
 ¹ Influência de uma garota que mexe com moda, deixando claro que isso é
 um trocadilho, não sou influenciado por esse tipo de coisa a esse
-ponto.\
+ponto.
 
 

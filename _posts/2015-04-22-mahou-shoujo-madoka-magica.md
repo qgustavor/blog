@@ -24,11 +24,11 @@ novo mundo mágico, como se dá a luta as bruxas. Em seus covis as bruxas
 mostram muito sobre a sua história, algumas amam música, outras amam
 computadores, outras a arte. Uma bruxa tem o arco do triunfo decorando a
 sala, outra conta com textos de obras clássicas nas paredes. Ora, até a
-maneira que elas lutam dá uma referência:\
+maneira que elas lutam dá uma referência:
 
 > Porque nós não estamos lutando contra gente feita de carne e sangue,
-> mas contra pessoas sem corpo \[…\]\
-> [Efésios 6:12a](https://adorai.tk/ef6:12-viva)\
+> mas contra pessoas sem corpo \[…\]
+> [Efésios 6:12a](https://adorai.tk/ef6:12-viva)
 
 Na verdade nem elas tem mais um corpo, tudo se torna uma batalha de
 almas. Uma batalha de vida ou morte mediada por um contrato (porém não é

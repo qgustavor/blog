@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Nisekoi: quem é a garota da promessa?
 modified: 2014-08-11
-excerpt: "<img src=\"http://38.media.tumblr.com/24e187ed9d2c8e3398efcb19fcd5a9e9/tumblr_inline_n9xvimiUQ31qju32f.jpg\">"
+excerpt: "É um anime onde o casal Ichijo Raku e Kirisaki Chitoge são namorados por escolha dos pais."
 ---
 
 Nisekoi: quem é a garota da promessa?
@@ -11,10 +11,9 @@ Nisekoi: quem é a garota da promessa?
 
 ![](http://38.media.tumblr.com/24e187ed9d2c8e3398efcb19fcd5a9e9/tumblr_inline_n9xvimiUQ31qju32f.jpg)
 
-*Se todo mundo morasse junto poderíamos chamar esse lugar de Hinata
-Sou…*
+*Se todo mundo morasse junto poderíamos chamar esse lugar de Hinata Sou…*
 
-**Nisekoi **é um anime onde o casal Ichijo Raku e Kirisaki Chitoge são
+**Nisekoi** é um anime onde o casal Ichijo Raku e Kirisaki Chitoge são
 namorados por escolha dos pais. Se apresentando como um casal bem
 apaixonado o casal caminha pelo seu *amor falso* (que é o nome do anime)
 por situações diversas e cômicas.

@@ -33,6 +33,6 @@ animes.
 
 Embora, como eu disse antes, tenho que melhorar a minha memória: talvez
 o assunto da aula fosse memórias de viagens. Bem, acho que deu para
-perceber e entender tudo, até logo mais.\
+perceber e entender tudo, até logo mais.
 
 

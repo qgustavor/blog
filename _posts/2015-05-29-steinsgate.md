@@ -86,12 +86,12 @@ pelo desenho bem feito e principalmente as músicas que se relacionam bem
 com a história. Hacking to The Gate, por exemplo, mostra a relação das
 pessoas ( e principalmente o Okabe ) em relação ao tempo, só podendo
 reclamar do passado e chorar pelo futuro o qual ele não pode mudar, e
-finalmente preso em um *loop* temporal tentando fugir dessa realidade.\
+finalmente preso em um *loop* temporal tentando fugir dessa realidade.
 
 São diversos aspectos que tornam essa história boa, mas não acho que eu
 tenha acertado os pontos corretos e nem tenho nem experiência sem
 palavras para conseguir acertá-los. Posso assistir de novo ( e isso é
 algo que estou planejando ) e mesmo assim ainda haverá o que ser dito.
-Que drama!\
+Que drama!
 
 

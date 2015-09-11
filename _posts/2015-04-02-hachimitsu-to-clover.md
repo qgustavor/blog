@@ -22,6 +22,6 @@ vidas simples de estudante. Achei estranho o curso de arquitetura -
 cheguei até a pesquisar no dicionário o nome dele “architecture (of
 buildings)“. Ainda que não faça muito tempo que eu tenha assistido ele
 só me lembro de uma coisa: a linda Hagu-chan. Bem, se eu me lembrar de
-algo importante editarei isso &gt;\_&lt;\
+algo importante editarei isso &gt;\_&lt;
 
 

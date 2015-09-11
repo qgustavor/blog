@@ -23,6 +23,6 @@ até marido tinha ( se não estou enganado, embora eu mesmo ache que estou
 
 É um filme bonito, a animação é muito bem feita (embora eu me lembre de
 alguns CG) e a história é boa para o gênero. Sendo um filme me aterei a
-somente essas palavras.\
+somente essas palavras.
 
 

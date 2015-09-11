@@ -17,7 +17,7 @@ A história já começa com a chegada de um garoto que devido as
 circunstâncias (familiares, escolares, etc) terá que morar lá. Já
 conhece o companheiro de quarto, um garoto com pinta de estranho que
 fica de olho em garotas do fundamental, gosta de S&M e parece que não
-faz nada da vida.\
+faz nada da vida.
 
 Ah, embora eles tenham quartos um para cada lá as divisões dos quartos
 quase não existem, logo um vive visitando o outro. É só uma divisória
@@ -41,10 +41,10 @@ momento que a viu.
 E por fim diversas situações ocorrem: crianças sendo perseguidas por um
 doido, crianças atrás dele, o amor literário, o trabalho de meio período
 e tudo mais para a época do colegial até a faculdade. Por fim, é
-divertido de assistir.\
+divertido de assistir.
 
 <!-- more -->
 
-¹ Não gostei dessa frase minha… mas vai assim mesmo.\
+¹ Não gostei dessa frase minha… mas vai assim mesmo.
 
 

@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Higashi no Eden
 modified: 2015-04-05
-excerpt: "<i>Nota: </i>vou falar a partir de um ponto a partir de um quarto a um terço do anime, onde os conceitos mais importantes são explicados. O que acontece antes disso é importante porém é um pouco confuso para falar.<br>"
+excerpt: "Se você tivesse dinheiro suficiente para fazer praticamente qualquer coisa e tivesse que mudar o seu país, o que você faria?"
 ---
 
 Higashi no Eden
@@ -11,7 +11,7 @@ Higashi no Eden
 
 *Nota:* vou falar a partir de um ponto a partir de um quarto a um terço
 do anime, onde os conceitos mais importantes são explicados. O que
-acontece antes disso é importante porém é um pouco confuso para falar.\
+acontece antes disso é importante porém é um pouco confuso para falar.
 
 Se você tivesse dinheiro suficiente para fazer praticamente qualquer
 coisa e tivesse que mudar o seu país, o que você faria? 12 pessoas foram
@@ -38,11 +38,11 @@ Embora eu tenha contado muita coisa *ainda* é um anime muito bom¹
 mostrando situações onde é questionado sobre o poder, o seu abuso e
 quando é bem usado. Também não deixe de perder as referências a filmes,
 seleção brasileira, futebol e outras que ou não percebi ou não me lembro
-agora.\
+agora.
 
 <!-- more -->
 
 ¹ Exceto os filmes, que foram piorando em relação a série, em história e
-[qualidade](http://tvtropes.org/pmwiki/pmwiki.php/Main/ConspicuousCG).\
+[qualidade](http://tvtropes.org/pmwiki/pmwiki.php/Main/ConspicuousCG).
 
 

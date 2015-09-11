@@ -35,6 +35,6 @@ isso, nem fico bravo, a culpa é da Microsoft mesmo.
 
 Isso falando de pessoas normais, como meus colegas, minha família, etc.
 Um caso ideal seria usar uma senha completamente aleatória e um bom
-gerenciador de senhas. Infelizmente só tenho essa opção.\
+gerenciador de senhas. Infelizmente só tenho essa opção.
 
 

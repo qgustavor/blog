@@ -43,6 +43,6 @@ ponto ) ela percebe que quer ajudar o grupo e acaba se tornando um elo
 forte, um apoio, a base para o desenvolvimento do jogo.
 
 De certa forma, quase que resumindo, no final o jogo e história se
-misturam em um romance, uma comédia e um anime bem divertido.\
+misturam em um romance, uma comédia e um anime bem divertido.
 
 

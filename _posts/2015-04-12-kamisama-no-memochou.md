@@ -3,7 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Kamisama no Memochou
 modified: 2015-04-12
-excerpt: "Quais segredos estão no <i>Bloco de Anotações de Deus</i>? (não sei se isso se aplica na IRL, mas parece que há uma referência, que fique assim)"
+excerpt: "Quais segredos estão no Bloco de Anotações de Deus?"
 ---
 
 Kamisama no Memochou
@@ -43,6 +43,6 @@ aleatórias passando pela mente sem uma ordem concreta (o que fez que
 esse texto ficasse uma bagunça) e ouve mentalmente as músicas de rap e
 eletrônicas que fazem a trilha sonora do anime; deixo-lhes a curiosidade
 de querer saber mais sobre essa história, que considero boa, muito
-melhor do que escrevo.\
+melhor do que escrevo.
 
 
