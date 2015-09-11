@@ -31,10 +31,10 @@ kramdown:
 owner:
   name: Gustavo
   avatar: https://secure.gravatar.com/avatar/4039a864f60bdb71f6b8ad64f0b94f87
-  bio: "A random guy from the internet."
+  bio: "Escrevo sobre programas, animes e um pouco mais."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: qgustavor #username
   facebook: #username
   google:
     plus: #username
@@ -43,8 +43,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: qgustavor #username
+  stackoverflow: "1850091/gustavo-rodrigues" #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
@@ -59,6 +59,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  myanimelist: qgustavor #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
