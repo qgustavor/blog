@@ -70,19 +70,5 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
-
-/*
-   Home specific styles
-   ========================================================================== */
-  
-.home .navigation-wrapper a {
-    color: $white;
-}
-
-.home .image-wrap {
-    top: -5.5em;
-    z-index: -1;
-    margin-bottom: -5.5em;
-}
   
   
