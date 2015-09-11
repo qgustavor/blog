@@ -154,16 +154,16 @@ Pausados (e a motivação):
 -   To LOVE-Ru Darkness: acabei lendo todos os capítulos que encontrei.
 -   Suzumiya Haruhi no Yuutsu: consegui achar o primeiro episódio, mas
     não me lembro onde;
--   ChäoS;HEAd: ~~suponho que a fansub ter usado material americano me
+-   ChäoS;HEAd: <del>suponho que a fansub ter usado material americano me
     desmotivou a assistir o desenho. Por exemplo nas músicas, que nesse
     anime eu gosto, simplesmente tirava o vídeo e cantava a música, isso
-    para não ler os créditos.~~ Achei em outra fansub.
--   Scryed: ~~me recomendaram esse anime, mas desde o primeiro episódio
+    para não ler os créditos.</del> Achei em outra fansub.
+-   Scryed: <del>me recomendaram esse anime, mas desde o primeiro episódio
     não gostei tanto dele. Talvez depois eu encontre outra motivação
-    para assisti-lo.~~ Já que comecei vamos terminar. E também: *Don’t
+    para assisti-lo.</del> Já que comecei vamos terminar. E também: *Don’t
     lose the way, in your mind!*
--   Baccano!: ~~achei que seria tão bom quanto Sakamichi no Apollon pela
-    temática mas ao menos pro enquanto não me interessei por enquanto.~~
+-   Baccano!: <del>achei que seria tão bom quanto Sakamichi no Apollon pela
+    temática mas ao menos pro enquanto não me interessei por enquanto.</del>
     Me interessei depois de assistir Durarara!!
 -   Darker than Black: assisto, desisto, assisto novamente, e
     desisto novamente. Ao visto um anime bom, só que ao estilo X-Men não
