@@ -16,6 +16,8 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+kramdown:
+  input: GFM
 
 kramdown:
   auto_ids: true
