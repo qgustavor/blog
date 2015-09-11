@@ -735,21 +735,25 @@ $button-size: 1.5rem;
 /*
    Home specific styles
    ========================================================================== */
-   
-.home .top-navigation > nav {
-	@include suffix(12,1);
-	@media #{$small} {
-		@include suffix(12,0.5);
-	}
-	text-align: right;
-}
-  
-.home .navigation-wrapper a {
-	color: $white;
-}
 
-.home .image-wrap {
-	top: -5.5em;
-	z-index: -1;
-	margin-bottom: -5.5em;
+// needs to be updated when the image changes
+// calc: image height * 100 / image width
+.home .image-wrap img {height: 28.1112738vw;}
+
+@media #{$small} {
+	.home .top-navigation > nav {
+		@include suffix(12,1);
+		@include suffix(12,0.5);
+		text-align: right;
+	}
+	  
+	.home .navigation-wrapper a {
+		color: $white;
+	}
+	
+	.home .image-wrap {
+		top: -5.5em;
+		z-index: -1;
+		margin-bottom: -5.5em;
+	}
 }
