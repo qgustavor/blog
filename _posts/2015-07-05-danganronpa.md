@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Danganronpa
-modified: 2015-07-05T00:00:43.000Z
+modified: 2015-07-05 00:00:43 +0000
 redirect_from: /post/123239225411/danganronpa/,/post/123239225411/
 excerpt: "Nessa história onde estudantes pegam em armas porque não juntamos os melhores alunos em uma divertida classe de assassinos? O alvo não é o professor, nem a presidente do conselho estudantil ou uma pessoa morta-viva: são eles próprios."
 ---

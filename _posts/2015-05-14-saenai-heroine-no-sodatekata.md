@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Saenai Heroine no Sodatekata
-modified: 2015-05-14T00:00:40.000Z
+modified: 2015-05-14 00:00:40 +0000
 redirect_from: /post/118901999651/saenai-heroine-no-sodatekata/,/post/118901999651/
 excerpt: "Um garoto, um otaku de carteirinha, encontra uma garota no meio da rua, uma cena digna de ganhar um filme… não, afinal de contas sendo um otaku achou melhor digna de virar um jogo."
 ---

@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Yotsunoha
-modified: 2015-06-11T00:00:26.000Z
+modified: 2015-06-11 00:00:26 +0000
 redirect_from: /post/121227895338/yotsunoha/,/post/121227895338/
 excerpt: "Um grupo de amigos enterrou uma cápsula do tempo na escola enquanto ainda estava estudavam lá. Anos depois se reuniram e voltaram para abrir ela. Mal foram chegando os primeiros já perceberam: não tinha nada nela."
 ---

@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Hibike! Euphonium
-modified: 2015-07-23T00:00:29.000Z
+modified: 2015-07-23 00:00:29 +0000
 redirect_from: /post/124789041701/hibike-euphonium/,/post/124789041701/
 excerpt: "Uma garota tocava eufônio desde criança e chegando em uma nova escola quer esquecer esse passado. Só que no fim não adiantou muito: a garota prodígio acabou entrando na banda da escola, justamente quando ela estava bem desconcertada… e acabou ficando com mesmo instrumento."
 ---

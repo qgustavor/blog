@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Joshiraku
-modified: 2015-04-10T00:00:29.000Z
+modified: 2015-04-10 00:00:29 +0000
 redirect_from: /post/115981981189/joshiraku/,/post/115981981189/
 excerpt: "Acompanhe cinco garotas artistas de rakugo (um tipo de teatro de comédia) em sua vida diária, discussões femininas e outras conversas aleatórias."
 ---

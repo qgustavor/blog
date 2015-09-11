@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Soul Eater
-modified: 2015-05-26T00:00:30.000Z
+modified: 2015-05-26 00:00:30 +0000
 redirect_from: /post/119892356324/soul-eater/,/post/119892356324/
 excerpt: "Uma escola técnica americana recebe estudantes do mundo inteiro tanto aqueles que são naturalmente capazes de se transformar em armas quanto aqueles que desejarem manejá-las. O chefe dessa escola não é ninguém menos do que a própria morte."
 ---

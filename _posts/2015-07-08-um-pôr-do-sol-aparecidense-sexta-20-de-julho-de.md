@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: “Um pôr do sol aparecidense”Sexta, 20 de Julho de 2012, 9:20 PM
-modified: 2015-07-07T21:22:27.000Z
+modified: 2015-07-07 21:22:27 +0000
 redirect_from: /post/123490494784/um-pôr-do-sol-aparecidense-sexta-20-de-julho-de/,/post/123490494784/
 excerpt: "“Um pôr do sol aparecidense”Sexta, 20 de Julho de 2012, 9:20 PM"
 ---

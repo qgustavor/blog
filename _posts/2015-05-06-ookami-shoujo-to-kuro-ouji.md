@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Ookami Shoujo to Kuro Ouji
-modified: 2015-05-06T00:00:26.000Z
+modified: 2015-05-06 00:00:26 +0000
 redirect_from: /post/118239473535/ookami-shoujo-to-kuro-ouji/,/post/118239473535/
 excerpt: "Uma garota quer impressionar as amigas que vivem falando de seus namorados arrumando um, no desespero encontra o cara mais popular da escola que aceita a posição, não sabendo ela que ele é na verdade um sádico compulsivo."
 ---

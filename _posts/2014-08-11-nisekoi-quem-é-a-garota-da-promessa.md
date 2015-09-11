@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: Nisekoi: quem é a garota da promessa?
-modified: 2014-08-10T03:30:19.000Z
+modified: 2014-08-10 03:30:19 +0000
 redirect_from: /post/94304489700/nisekoi-quem-é-a-garota-da-promessa/,/post/94304489700/
 excerpt: "É um anime onde o casal Ichijo Raku e Kirisaki Chitoge são namorados por escolha dos pais."
 ---

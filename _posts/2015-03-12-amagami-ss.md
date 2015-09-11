@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Amagami SS
-modified: 2015-03-12T00:02:24.000Z
+modified: 2015-03-12 00:02:24 +0000
 redirect_from: /post/113382476494/amagami-ss/,/post/113382476494/
 excerpt: "Um garoto que teve seu coração partido no natal e seis garotas, cada uma com seu diferente jeito de ser..."
 ---

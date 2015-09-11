@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Space☆Dandy
-modified: 2015-05-28T00:00:35.000Z
+modified: 2015-05-28 00:00:35 +0000
 redirect_from: /post/120060705385/space-dandy/,/post/120060705385/
 excerpt: "Como o próprio nome diz essa história fala sobre um <a href=\"https://en.wikipedia.org/wiki/Dandy\"><i>Dandy</i></a> do espaço ( se aportuguesar seria Dândi, se traduzir pode ser fanfarrão, algo assim ). Esse personagem vive viajando pelo espaço em sua nave em busca de alienígenas raros acompanhado de um robô, que parece com um aspirador de pó, e um alienígena <i>betelgeusíano</i>, um tipo praticamente igual a um gato."
 ---

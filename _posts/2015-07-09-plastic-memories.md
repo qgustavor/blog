@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Plastic Memories
-modified: 2015-07-09T00:00:44.000Z
+modified: 2015-07-09 00:00:44 +0000
 redirect_from: /post/123592157342/plastic-memories/,/post/123592157342/
 excerpt: "O que você faria se você já soubesse o quanto de vida você teria pela frente, ou seja, quando você morreria? Qual seria a sua reação se encontrasse alguém com esse destino? Como reagir a cada uma dessas situações?"
 ---

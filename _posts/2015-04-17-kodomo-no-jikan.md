@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Kodomo no Jikan
-modified: 2015-04-17T00:00:31.000Z
+modified: 2015-04-17 00:00:31 +0000
 redirect_from: /post/116597633173/kodomo-no-jikan/,/post/116597633173/
 excerpt: "É a hora da criançada fazer a festa, essa história é bem dedicada a elas. De fato, é horrível o que os adultos ( e não as mulheres ) fazem com elas, porém isso não significa que elas são um tanto <i>custosas</i>."
 ---

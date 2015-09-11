@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Date A Live
-modified: 2015-06-20T00:00:34.000Z
+modified: 2015-06-20 00:00:34 +0000
 redirect_from: /post/121957790022/date-a-live/,/post/121957790022/
 excerpt: "Terremotos espaciais são como os comuns e ocorrem quase sem aviso prévio, porém diferente de terremotos comuns, mais são assemelhadas a explosões causando problemas até maiores. Um garoto tinha jurado que iria encontrar a sua irmã em um lugar e mesmo se ocorresse algo assim ele teria que estar lá.<br>"
 ---

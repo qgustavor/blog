@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Bokura wa Minna Kawaisou
-modified: 2015-03-23T00:00:54.000Z
+modified: 2015-03-23 00:00:54 +0000
 redirect_from: /post/114358997969/bokura-wa-minna-kawaisou/,/post/114358997969/
 excerpt: "A vida na pensão Kawai não é algo que todo mundo queria ter na vida, claro que é modesta, há separação (desigual) de garotos e garotas, gente e comida boa, mas no fundo mesmo eles são (um pouco) coitados mesmo."
 ---

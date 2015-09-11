@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: NHK ni Youkoso!
-modified: 2015-04-28T00:00:32.000Z
+modified: 2015-04-28 00:00:32 +0000
 redirect_from: /post/117558578930/nhk-ni-youkoso/,/post/117558578930/
 excerpt: "Seus pais te bancando, não precisa ir para o colégio, só jogando o dia todo, que vida boa de hikikomori você tem hein? Sua vida é tão boa, cheia de amigos: você fala com a geladeira, que tem uma fofoca nova da TV, enquanto isso o fogão já está de papo novo. Você percebe que está ficando doido, claro, isso tudo é conspiração da NHK, uma organização dos hikikimori.<br>"
 ---

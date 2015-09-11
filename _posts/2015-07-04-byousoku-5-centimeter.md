@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Byousoku 5 Centimeter
-modified: 2015-07-04T00:00:42.000Z
+modified: 2015-07-04 00:00:42 +0000
 redirect_from: /post/123155895011/byousoku-5-centimeter/,/post/123155895011/
 excerpt: "Cinco centímetros por segundo, a velocidade que caem as folhas de uma cerejeira. Estavam prestando atenção a esse fato duas crianças, um casal que prometera ver mais uma vez tal cena."
 ---

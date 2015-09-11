@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Onegai☆Teacher
-modified: 2015-05-05T00:00:34.000Z
+modified: 2015-05-05 00:00:34 +0000
 redirect_from: /post/118155632207/onegai-teacher/,/post/118155632207/
 excerpt: "Um garoto vê algo estranho enquanto refletia a beira do lado, o que mudará sua vida. Esse garoto, que sofre de uma doença bem ruim, acaba encontrando uma alienígena igual a uma pessoa normal. Bem, as duas diferenças são: veio do espaço e sabe dirigir naves espaciais."
 ---

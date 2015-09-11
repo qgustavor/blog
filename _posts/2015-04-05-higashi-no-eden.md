@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Higashi no Eden
-modified: 2015-04-05T00:00:44.000Z
+modified: 2015-04-05 00:00:44 +0000
 redirect_from: /post/115523113304/higashi-no-eden/,/post/115523113304/
 excerpt: "<i>Nota: </i>vou falar a partir de um ponto a partir de um quarto a um terço do anime, onde os conceitos mais importantes são explicados. O que acontece antes disso é importante porém é um pouco confuso para falar.<br>"
 ---

@@ -2,7 +2,7 @@
 layout: post
 tags: [1animepordia]
 title: Death Note
-modified: 2015-03-29T00:00:43.000Z
+modified: 2015-03-29 00:00:43 +0000
 redirect_from: /post/114885718548/death-note/,/post/114885718548/
 excerpt: "Devo considerar que é difícil eu falar desse anime, já que ele é um pouco uma hype: melhor pontuado no IMDb (que nem é site de anime) e ainda passa na TV. Ainda, embora eu tenha assistido ele umas duas vezes (uma vez completa e outras duas pelas metades) não consigo me lembrar agora de pontos fortes dele que me agradam ( isso talvez por que eu tenha acabado de assistir Zankyou no Terror ). Porém, só para manter o costume vou introduzir o anime."
 ---
