@@ -108,7 +108,7 @@ $button-size: 1.5rem;
 	width: $button-size;
 	height: $button-size/7;
 	// line color
-	background: $white;
+	background: $textcolor;
 	border-radius: $button-size/14;
 	transition: .3s;
 }
@@ -176,10 +176,15 @@ $button-size: 1.5rem;
 .nav .navtoggle {
 	@include font-rem(18);
 	font-weight: normal;
-	background-color: $black;
-	color: $white;
-	border: none;
+	background-color: transparent;
+	color: $textcolor;
+	border: 1px solid transparent;
 	cursor: pointer;
+  outline: none;
+  &:hover, &:focus {
+    background: $white;
+    border-color: $textcolor;
+  }
 	@media #{$small} {
 		display: none;
 	}
@@ -242,13 +247,13 @@ $button-size: 1.5rem;
 		@include suffix(12,1);
 		margin-bottom: 2em;
 		@media #{$small} {
-			@include grid(12,6);
+			@include grid(12,10,right);
 			@include prefix(12,0);
 			@include suffix(12,0);
 		}
-		@media #{$x-large} {
-			@include grid(12,4.5);
-		}
+		// @media #{$x-large} {
+		// 	@include grid(12,4.5);
+		// }
 	}
 }
 
@@ -260,13 +265,13 @@ $button-size: 1.5rem;
 	@include suffix(12,1);
 	margin-bottom: 2em;
 	@media #{$small} {
-		@include grid(12,6);
+		@include grid(12,10,right);
 		@include prefix(12,0);
 		@include suffix(12,0);
 	}
-	@media #{$x-large} {
-		@include grid(12,4.5);
-	}
+	// @media #{$x-large} {
+	// 	@include grid(12,4.5);
+	// }
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
@@ -380,21 +385,36 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: none;
+	float: left;
+  margin: 0 8% 2em;
+  
 	.bio-photo {
-		max-width: 110px;
 		@include rounded(150px);
+    float: left;
+    margin-right: 8%;
+    max-width: 3.5em;
+    
+    @media #{$small} {
+      float: none;
+      margin-right: 0;
+      max-width: 110px;
+    }
 	}
+  .author-social {
+    display: block;
+    width: 50%;
+    float: left;
+  }
 	@media #{$small} {
-		display: block;
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
 		h3,
 		p,
 		.author-social {
-			display: block;
 			max-width: 125px;
+      width: 100%;
+      float: none;
 		}
 		h3 {
 			margin-top: 10px;
