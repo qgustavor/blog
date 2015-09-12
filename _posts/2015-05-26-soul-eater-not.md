@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Soul Eater NOT!
+title: "Soul Eater NOT!"
 date: 2015-05-27 00:00:44 +0000
 redirect_from:
   - /post/119977479628/soul-eater-not/

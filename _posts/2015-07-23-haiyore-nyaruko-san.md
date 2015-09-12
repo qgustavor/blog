@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Haiyore! Nyaruko-san
+title: "Haiyore! Nyaruko-san"
 date: 2015-07-24 00:00:27 +0000
 redirect_from:
   - /post/124875077955/haiyore-nyaruko-san/

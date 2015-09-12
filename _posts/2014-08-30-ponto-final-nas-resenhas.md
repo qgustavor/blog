@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Ponto final nas resenhas:
+title: "Ponto final nas resenhas:"
 date: 2014-08-30 21:26:00 +0000
 redirect_from:
   - /post/96202299684/ponto-final-nas-resenhas/

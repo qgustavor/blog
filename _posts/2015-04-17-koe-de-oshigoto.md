@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Koe de Oshigoto!
+title: "Koe de Oshigoto!"
 date: 2015-04-18 00:00:44 +0000
 redirect_from:
   - /post/116681928462/koe-de-oshigoto/

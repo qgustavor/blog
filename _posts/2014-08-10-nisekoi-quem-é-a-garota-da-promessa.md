@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Nisekoi: quem é a garota da promessa?
+title: "Nisekoi: quem é a garota da promessa?"
 date: 2014-08-10 03:30:19 +0000
 redirect_from:
   - /post/94304489700/nisekoi-quem-é-a-garota-da-promessa/

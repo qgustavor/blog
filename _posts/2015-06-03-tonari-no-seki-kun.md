@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Tonari no Seki-kun
+title: "Tonari no Seki-kun"
 date: 2015-06-04 00:00:49 +0000
 redirect_from:
   - /post/120650301338/tonari-no-seki-kun/

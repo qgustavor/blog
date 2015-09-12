@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Joshiraku: uma comédia bem japonesa
+title: "Joshiraku: uma comédia bem japonesa"
 date: 2014-07-17 03:06:38 +0000
 redirect_from:
   - /post/92011213724/joshiraku-uma-comédia-bem-japonesa/

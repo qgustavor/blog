@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Pupa, horror em micro-episódios
+title: "Pupa, horror em micro-episódios"
 date: 2014-04-27 14:28:06 +0000
 redirect_from:
   - /post/84019921998/pupa-horror-em-micro-episódios/

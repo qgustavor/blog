@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Mangaka-san to Assistant-san to The Animation
+title: "Mangaka-san to Assistant-san to The Animation"
 date: 2015-04-24 00:00:40 +0000
 redirect_from:
   - /post/117209313476/mangaka-san-to-assistant-san-to-the-animation/

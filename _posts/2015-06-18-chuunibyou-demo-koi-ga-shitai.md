@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Chuunibyou demo Koi ga Shitai!
+title: "Chuunibyou demo Koi ga Shitai!"
 date: 2015-06-19 00:00:28 +0000
 redirect_from:
   - /post/121876607446/chuunibyou-demo-koi-ga-shitai/

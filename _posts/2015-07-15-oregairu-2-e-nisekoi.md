@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Oregairu 2 e Nisekoi:
+title: "Oregairu 2 e Nisekoi:"
 date: 2015-07-16 00:00:39 +0000
 redirect_from:
   - /post/124195386158/oregairu-2-e-nisekoi/

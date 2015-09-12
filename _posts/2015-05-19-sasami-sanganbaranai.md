@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Sasami-san@Ganbaranai
+title: "Sasami-san@Ganbaranai"
 date: 2015-05-20 00:00:44 +0000
 redirect_from:
   - /post/119399653631/sasami-sanganbaranai/

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Hibike! Euphonium
+title: "Hibike! Euphonium"
 date: 2015-07-23 00:00:29 +0000
 redirect_from:
   - /post/124789041701/hibike-euphonium/

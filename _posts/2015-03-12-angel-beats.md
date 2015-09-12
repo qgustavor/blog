@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Angel Beats!
+title: "Angel Beats!"
 date: 2015-03-13 00:02:28 +0000
 redirect_from:
   - /post/113467965019/angel-beats/

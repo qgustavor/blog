@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Gugure! Kokkuri-san
+title: "Gugure! Kokkuri-san"
 date: 2015-06-23 00:00:38 +0000
 redirect_from:
   - /post/122206992430/gugure-kokkuri-san/

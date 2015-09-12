@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Gingitsune: os mensageiros dos deuses
+title: "Gingitsune: os mensageiros dos deuses"
 date: 2014-08-08 03:30:29 +0000
 redirect_from:
   - /post/94125212656/gingitsune-os-mensageiros-dos-deuses/

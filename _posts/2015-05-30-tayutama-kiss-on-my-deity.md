@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Tayutama: Kiss on My Deity
+title: "Tayutama: Kiss on My Deity"
 date: 2015-05-31 00:00:41 +0000
 redirect_from:
   - /post/120306397833/tayutama-kiss-on-my-deity/

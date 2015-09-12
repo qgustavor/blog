@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Kaguya-hime no Monogatari
+title: "Kaguya-hime no Monogatari"
 date: 2015-07-22 00:00:30 +0000
 redirect_from:
   - /post/124702615112/kaguya-hime-no-monogatari/

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Siscon: ser ou ter?
+title: "Siscon: ser ou ter?"
 date: 2015-07-22 12:00:30 +0000
 redirect_from:
   - /post/124743769851/siscon-ser-ou-ter/

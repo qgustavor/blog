@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: NHK ni Youkoso!
+title: "NHK ni Youkoso!"
 date: 2015-04-28 00:00:32 +0000
 redirect_from:
   - /post/117558578930/nhk-ni-youkoso/

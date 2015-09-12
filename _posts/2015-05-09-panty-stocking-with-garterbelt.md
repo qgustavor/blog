@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Panty & Stocking with Garterbelt
+title: "Panty & Stocking with Garterbelt"
 date: 2015-05-10 00:00:45 +0000
 redirect_from:
   - /post/118563487217/panty-stocking-with-garterbelt/

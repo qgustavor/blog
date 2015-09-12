@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Bishoujo Senshi Sailor Moon: Crystal
+title: "Bishoujo Senshi Sailor Moon: Crystal"
 date: 2015-07-19 00:00:22 +0000
 redirect_from:
   - /post/124443701951/bishoujo-senshi-sailor-moon-crystal/

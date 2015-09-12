@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Estava vendo o portfólio, vi que o tumblr está colocando as miniaturas em formato 4 por 3 enquanto eu faço as minhas imagens em widescreen para serem meus papeis de parede.
+title: "Estava vendo o portfólio, vi que o tumblr está colocando as miniaturas em formato 4 por 3 enquanto eu faço as minhas imagens em widescreen para serem meus papeis de parede."
 date: 2011-07-10 03:14:33 +0000
 redirect_from:
   - /post/7440982842/minecraft/

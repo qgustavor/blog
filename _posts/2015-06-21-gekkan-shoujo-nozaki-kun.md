@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Gekkan Shoujo Nozaki-kun
+title: "Gekkan Shoujo Nozaki-kun"
 date: 2015-06-22 00:00:26 +0000
 redirect_from:
   - /post/122120868017/gekkan-shoujo-nozaki-kun/

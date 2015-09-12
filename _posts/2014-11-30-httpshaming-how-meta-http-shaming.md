@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: httpshaming:
+title: "httpshaming:"
 date: 2014-11-30 11:13:01 +0000
 redirect_from:
   - /post/103971733169/httpshaming-how-meta-http-shaming/

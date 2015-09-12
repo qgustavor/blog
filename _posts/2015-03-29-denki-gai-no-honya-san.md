@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Denki-gai no Honya-san
+title: "Denki-gai no Honya-san"
 date: 2015-03-30 00:00:40 +0000
 redirect_from:
   - /post/114981870174/denki-gai-no-honya-san/

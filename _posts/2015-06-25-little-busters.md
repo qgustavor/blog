@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Little Busters!
+title: "Little Busters!"
 date: 2015-06-26 00:00:26 +0000
 redirect_from:
   - /post/122459778459/little-busters/

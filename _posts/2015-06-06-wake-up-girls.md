@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Wake Up, Girls!
+title: "Wake Up, Girls!"
 date: 2015-06-07 00:00:30 +0000
 redirect_from:
   - /post/120892030196/wake-up-girls/

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Termina o #1animepordia!
+title: "Termina o #1animepordia!"
 date: 2015-08-05 10:22:31 +0000
 redirect_from:
   - /post/125919645424/termina-o-1animepordia/

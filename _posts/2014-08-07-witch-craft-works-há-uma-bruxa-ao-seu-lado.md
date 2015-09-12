@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Witch Craft Works: há uma bruxa ao seu lado
+title: "Witch Craft Works: há uma bruxa ao seu lado"
 date: 2014-08-07 03:30:17 +0000
 redirect_from:
   - /post/94031544713/witch-craft-works-há-uma-bruxa-ao-seu-lado/

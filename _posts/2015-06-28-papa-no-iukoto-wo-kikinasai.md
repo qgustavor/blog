@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [1animepordia]
-title: Papa no Iukoto wo Kikinasai!
+title: "Papa no Iukoto wo Kikinasai!"
 date: 2015-06-29 00:00:39 +0000
 redirect_from:
   - /post/122717500177/papa-no-iukoto-wo-kikinasai/
