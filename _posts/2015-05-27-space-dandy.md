@@ -22,7 +22,7 @@ extravagantes: já no início da história, por exemplo, ele reflete seus
 gostos por mulheres, principalmente por bundas. Quanto a tais gostos
 eles ficam claros em sua nave espacial, decorada ao estilo Havaí, porém
 mais principalmente o lugar mais preferido dele, um inspirado no
-[Hooters](http://en.wikipedia.org/wiki/Hooters). Caso não conheçam só
+[Hooters](https://en.wikipedia.org/wiki/Hooters). Caso não conheçam só
 ver [essa
 imagem](https://en.wikipedia.org/wiki/File:Devassa_no_Hooters.jpg) que
 peguei da Wikipédia em inglês ( porém não deixe de ler a descrição, que,

@@ -30,7 +30,7 @@ ele a chama de gorila, não poderia ser. Porém vai saber o que acontece
 nessa história romântica.
 
 As outras meninas que estão aí? Mais pessoas para [o
-harém](http://img1.wikia.nocookie.net/__cb20121011190417/toloveru/es/images/thumb/b/bb/El_Plan_Harem.jpg/500px-El_Plan_Harem.jpg)?
+harém](https://img1.wikia.nocookie.net/__cb20121011190417/toloveru/es/images/thumb/b/bb/El_Plan_Harem.jpg/500px-El_Plan_Harem.jpg)?
 Nada: são as amigas das protagonistas, pela cara delas dá para ver que
 não estão lá interessadas (ao menos nessa imagem).
 
