@@ -60,7 +60,7 @@ body {
     .navtoggle {
       float: none;
     }
-    margin-top: 0;
+    &, .js & { margin-top: 0; }
     @include grid(12,9);
     @include prefix(12,0);
     @include suffix(12,0);
