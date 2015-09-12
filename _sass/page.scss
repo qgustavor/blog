@@ -408,6 +408,7 @@ $button-size: 1.5rem;
     display: block;
     width: 50%;
     float: left;
+    margin: 0.5em 0;
   }
   @media #{$small} {
     @include grid(12,2);
