@@ -252,7 +252,7 @@ $button-size: 1.5rem;
       @include suffix(12,0.5);
     }
     @media #{$x-large} {
-      @include grid(12,6.5,right);
+      @include grid(12,6,right);
       @include suffix(12,2);
     }
   }
@@ -271,7 +271,7 @@ $button-size: 1.5rem;
     @include suffix(12,0.5);
   }
   @media #{$x-large} {
-    @include grid(12,6.5,right);
+    @include grid(12,6,right);
     @include suffix(12,2);
   }
   h3 {
