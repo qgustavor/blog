@@ -6,7 +6,7 @@ date: 2014-08-07 03:30:17 +0000
 redirect_from:
   - /post/94031544713/witch-craft-works-há-uma-bruxa-ao-seu-lado/
   - /post/94031544713/
-excerpt: "<img src=\"https://38.media.tumblr.com/7fe39d673b3638717ccc88172f9b8933/tumblr_inline_n9we7iFRcc1qju32f.jpg\">"
+excerpt: "Witch Craft Works mistura fantasia, ação, romance e muita comédia em um anime bem interessante. A história se dá em uma cidade comum, um colégio normal, um garoto normal."
 ---
 
 ![](https://38.media.tumblr.com/7fe39d673b3638717ccc88172f9b8933/tumblr_inline_n9we7iFRcc1qju32f.jpg)
