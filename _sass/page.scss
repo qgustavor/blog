@@ -50,7 +50,9 @@ body {
   margin-bottom: 1em;
   float: none;
   display: block;
-  margin-top: -3.5em;
+  .js & {
+    margin-top: -3.5em;
+  }
   .navtoggle {
     float: right;
   }
