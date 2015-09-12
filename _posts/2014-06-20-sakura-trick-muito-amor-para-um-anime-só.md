@@ -12,7 +12,7 @@ excerpt: "Nessa jornada que estou seguindo já encontrei vários animes. Sakura 
 Nessa jornada que estou seguindo já encontrei vários animes. Sakura
 Trick tem suas diferenças, há pontos de vista diferentes e é muito bom.
 
-![](http://33.media.tumblr.com/dafdf0fd257972192fb35524cf4ebc8a/tumblr_inline_n7ho799btM1qju32f.png)
+![](https://33.media.tumblr.com/dafdf0fd257972192fb35524cf4ebc8a/tumblr_inline_n7ho799btM1qju32f.png)
 
 Encontrei esse anime por uma recomendação na Kotaku, mas não é pelo “não
 fale que gostou por que são lésbicas” que vou falar bem: embora existam

@@ -14,7 +14,7 @@ Anos anteriores:
 
 Terminados:
 
--   [Pupa](http://qgustavor.tumblr.com/post/84019921998/)
+-   [Pupa](https://qgustavor.tk/pupa-horror-em-micro-episódios)
 -   [SakuraTrick](https://qgustavor.tk/sakura-trick-muito-amor-para-um-anime-só)
 -   [Kamisama no InaiNichiyoubi](https://qgustavor.tk/kamisama-no-inai-nichiyoubi)
 -   Witch Craft Works

@@ -9,5 +9,5 @@ redirect_from:
 excerpt: "Eu estava mexendo o AutoCad quando consegui fazer isso, me pareceu bonito, um resort no meio do deserto. Quando terminei coloquei um efeito de foto antiga no PhotoShop e está aí o resultado."
 ---
 
-![](http://36.media.tumblr.com/tumblr_lnzphbwwBd1qma17bo1_1280.png)
+![](https://36.media.tumblr.com/tumblr_lnzphbwwBd1qma17bo1_1280.png)
 

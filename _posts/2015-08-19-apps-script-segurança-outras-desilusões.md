@@ -13,7 +13,7 @@ Desde ano passado estou escrevendo scripts no apps script e estou sendo
 um doido fanático por segurança. Aliás, eu já fazia um pouco antes, mas
 foi mais ou menos nesse intervalo que a situação ficou séria.
 
-![](http://41.media.tumblr.com/6919c8ba7e9e9efc1d5bb43b6265aa6d/tumblr_inline_ntccfjqOhN1qju32f_540.jpg)
+![](https://41.media.tumblr.com/6919c8ba7e9e9efc1d5bb43b6265aa6d/tumblr_inline_ntccfjqOhN1qju32f_540.jpg)
 
 Acontece que ano passado eu tentei largar meu passado negro ~~de
 Chuunibyou~~ e procurar encontrar algo melhor para fazer. Decidi ir
@@ -39,7 +39,7 @@ protocolo Secure Remote Password. Descobri uma coisa: não dá. A questão
 do SRP é que é baseado em criptografia público-privada, que tem um
 problema: é lenta. Ah, já disse que normalmente o Apps Script é lento?
 
-![](http://41.media.tumblr.com/5f30bcb816c57b2b6745184ac76c2a0b/tumblr_inline_ntccx4sX1u1qju32f_540.jpg)
+![](https://41.media.tumblr.com/5f30bcb816c57b2b6745184ac76c2a0b/tumblr_inline_ntccx4sX1u1qju32f_540.jpg)
 
 Agora voltando aos animes e na minha planilha: semana passada
 implementei uma outra forma que a planilha pode saber se saiu episódios
@@ -78,7 +78,7 @@ nada. Também devo ter pegado um pouco do sono da Kumin.
 Acho que isso resume um pouco dos meus *side projects*, fico por aqui
 (já que também tenho que trabalhar, resolver essas coisas)…
 
-![](http://31.media.tumblr.com/e068e43321de55fb169abe579214bd3f/tumblr_inline_ntcdenqdgt1qju32f_500.gif)
+![](https://31.media.tumblr.com/e068e43321de55fb169abe579214bd3f/tumblr_inline_ntcdenqdgt1qju32f_500.gif)
 
 *Nota: o Tumblr não deixa controlar o tamanho das imagens, devem estar
 saindo todas grandes.*

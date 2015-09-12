@@ -9,7 +9,7 @@ redirect_from:
 excerpt: "How meta: HTTP shaming on Tumblr for not having a wildcard SSL certificate on*.tumblr.com. For reals, people blog privately and read things that might be quite personal on Tumblr. SSL please!"
 ---
 
-![](http://41.media.tumblr.com/975807338c327b30ab35e7bb221a0d95/tumblr_naf52uQHne1tjflgfo1_1280.jpg)
+![](https://41.media.tumblr.com/975807338c327b30ab35e7bb221a0d95/tumblr_naf52uQHne1tjflgfo1_1280.jpg)
 
 > How meta: HTTP shaming on **Tumblr** for not having a wildcard SSL
 > certificate on\*.tumblr.com. For reals, people blog privately and read

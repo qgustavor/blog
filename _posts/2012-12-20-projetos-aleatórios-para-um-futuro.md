@@ -27,6 +27,6 @@ Se alguém tiver uma ideia louca ( só a do Konther que é ), me fale,
 colocarei na lista.
 
 Lembrando que ainda estou desenvolvendo o
-[www.harpaebiblia.tk](http://www.harpaebiblia.tk), caso alguém tenha
+<del>www.harpaebiblia.tk</del>[adorai.tk](https://adorai.tk), caso alguém tenha
 alguma ideia para que eu coloque nele só falar.
 
