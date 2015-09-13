@@ -3,6 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000
+modified: 2015-09-13 13:19:32 +0000
 redirect_from:
   - /post/106793471684/animes-e-mangás-de-2015/
   - /post/106793471684/
@@ -114,11 +115,11 @@ excerpt: "Animes e mangás de 2015"
 -   Akame ga Kill!
 -   Angel Beats! Specials
 -   White Album
+-   Hellsing
 
 <!-- more -->
 
-**Em progresso**: *atualizado 7 de Setembro de 2015
-*
+**Em progresso**:
 
 -   Fairy Tail
 -   Ore Monogatari!!
@@ -126,7 +127,6 @@ excerpt: "Animes e mangás de 2015"
 -   Wakako-zake
 -   Okusama ga Seitokaichou!
 -   Nagato Yuki-chan no Shoushitsu
--   Makura no Danshi
 -   Gakkou Gurashi!
 -   Durarara!!x2 Ten
 -   Charlotte
@@ -134,7 +134,6 @@ excerpt: "Animes e mangás de 2015"
 -   Non Non Biyori Repeat
 -   Himouto! Umaru-chan
 -   Joukamachi no Dandelion
--   Hellsing
 -   Chi’s Sweet Home: Atarashii Ouchi
 -   Azumanga Daioh
 
@@ -170,6 +169,8 @@ Pausados (e a motivação):
 -   Darker than Black: assisto, desisto, assisto novamente, e
     desisto novamente. Ao visto um anime bom, só que ao estilo X-Men não
     é o meu tipo.
+-   Makura no Danshi: é bem feminino, mas estava assistindo para ficar rindo
+    e por que é bem curto. Desisti por que é mesmo uma falta de tempo.
 
 Outros animes pausados e os planejados no meu
 [MyAnimeList](http://myanimelist.net/animelist/qgustavor&status=6&order=0).
