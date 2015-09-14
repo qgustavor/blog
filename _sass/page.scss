@@ -249,13 +249,13 @@ $button-size: 1.5rem;
     @include suffix(12,1);
     margin-bottom: 2em;
     @media #{$small} {
-      @include grid(12,8.5,right);
+      @include grid(12,6.5,right);
       @include prefix(12,0);
-      @include suffix(12,0.5);
+      @include suffix(12,2.5);
     }
     @media #{$x-large} {
-      @include grid(12,6,right);
-      @include suffix(12,2);
+      @include grid(12,4,right);
+      @include suffix(12,4);
     }
   }
 }
@@ -268,13 +268,13 @@ $button-size: 1.5rem;
   @include suffix(12,1);
   margin-bottom: 2em;
   @media #{$small} {
-    @include grid(12,8.5,right);
+    @include grid(12,6.5,right);
     @include prefix(12,0);
-    @include suffix(12,0.5);
+    @include suffix(12,2.5);
   }
   @media #{$x-large} {
-    @include grid(12,6,right);
-    @include suffix(12,2);
+    @include grid(12,4,right);
+    @include suffix(12,4);
   }
   h3 {
     margin: 0;
