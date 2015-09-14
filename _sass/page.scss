@@ -287,8 +287,11 @@ $button-size: 1.5rem;
       margin-bottom: 4px;
       @include font-rem(20);
       &.link-post {
-        margin-bottom: 0px + $doc-line-height;
-        margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+        // margin-bottom: 0px + $doc-line-height;
+        // margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+        a {
+          margin-right: 0.5em;
+        }
       }
     }
     p {
