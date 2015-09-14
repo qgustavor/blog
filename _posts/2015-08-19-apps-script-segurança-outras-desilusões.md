@@ -27,7 +27,7 @@ saem novos episódios, guarda estatísticas do que assisto e tem mais
 outras 108 funções.
 
 Usei o Apps Script, que seria o equivalente aos macros do Excel porém
-usando JavaScript ao invés de VB e funcionando nos ~~lentos~~
+usando JavaScript ao invés de VB e funcionando nos <del>lentos</del>
 computadores da Google a qualquer momento sempre na hora programada.
 Assim como já ocorreu no passado considerei essa experiência como um
 desafio, já o sistema é um pouco ultrapassado: ele lembra o Internet
