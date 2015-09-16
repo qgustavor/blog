@@ -790,3 +790,63 @@ $button-size: 1.5rem;
     }
   }
 }
+
+/*
+   Search Input Styles
+   ========================================================================== */
+ 
+ #searchForm {
+  display: inline-block;
+  width: 100%;
+  svg {
+    fill: currentColor;
+    margin: -0.33em 0;
+  }
+  label {
+    display: inline-block;
+    color: inherit;
+  }
+  button {
+    width: 10%;
+  }
+}
+
+#searchInput {
+  height: 1.5em;
+  width: 90%;
+  margin-right: -4px;
+  ~ label {
+    display: none;
+  }
+}
+
+@media #{$small} {
+  #searchForm {
+    width: auto;
+  }
+  #searchInput {
+    max-width: 0;
+    opacity: 0;
+    transition: all 0.3s ease 0s;
+    border-radius: 3px;
+    ~ label {
+      display: inline-block;
+    }
+    + button {
+      display: none;
+      color: inherit;
+    }
+    &.has-focused,
+    &:focus {
+      ~ label {
+        display: none;
+        color: inherit;
+      }
+      max-width: 10em;
+      opacity: 1;
+      + button {
+        display: inline-block;
+      }
+    }
+  }
+}
