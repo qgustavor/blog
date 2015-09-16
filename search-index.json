@@ -1,8 +1,3 @@
 ---
 ---
-[
-  {% for post in site.posts %}
-    {{ post | json }},
-  {% endfor %}
-  null
-]
+[{% for post in site.posts %}{"title":{{ post.title | json }},"tags":{{ post.tags | json }},"date":{{ post.date | json }},"url":{{ post.url | json }},"content":{{ post.url | content }}},{% endfor %}0]
