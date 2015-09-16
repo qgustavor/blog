@@ -766,27 +766,27 @@ $button-size: 1.5rem;
    Home specific styles
    ========================================================================== */
 .home {
-   // needs to be updated when the image changes
-   // calc: image height * 100 / image width
-   .image-wrap img {height: 28.1112738vw;}
-   
-   @media #{$small} {
-     .top-navigation {
-       text-align: right;
-       float: right;
-     }
+  // needs to be updated when the image changes
+  // calc: image height * 100 / image width
+  .image-wrap img {height: 28.1112738vw;}
+  
+  @media #{$small} {
+    .top-navigation {
+      text-align: right;
+      float: right;
+    }
        
-      .navigation-wrapper a {
-       color: $white;
-     }
+    .navigation-wrapper a {
+      color: $white;
+    }
      
-     .image-wrap {
-       top: -5.5em;
-       z-index: -1;
-       margin-bottom: -5.5em;
-       -webkit-user-select: none;
-       -moz-user-select: none;
-       user-select: none;
-     }
-   }
+    .image-wrap {
+      top: -5.5em;
+      z-index: -1;
+      margin-bottom: -5.5em;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+  }
 }
