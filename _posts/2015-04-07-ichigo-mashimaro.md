@@ -3,6 +3,7 @@ layout: post
 tags: [1animepordia]
 title: Ichigo Mashimaro
 date: 2015-04-08 00:00:28 +0000
+modified: 2015-09-17 09:05:00 -0300
 redirect_from:
   - /post/115804183358/ichigo-mashimaro/
   - /post/115804183358/
@@ -20,9 +21,10 @@ fofas do fundamental sejam *kawaii* sendo que as vezes uma fala a outra
 que não é (invejosas)?
 
 São sim, principalmente a Anna. Dá até dó, fazem graça do nome dela, é
-Ana (アナ) porém fazem piada pois parece 穴. Daí dá para saber o que tem
-no anime: situações diárias da vida das meninas: elas na escola, elas
-visitando uma a outra, passeando, brincando.
+Ana (アナ), um nome até normal mas lembra 穴 (que também pronuncia ana,
+mas significa buraco). Daí dá para saber o que tem no anime: situações
+diárias da vida das meninas: elas na escola, elas visitando uma a outra,
+passeando, brincando.
 
 Ah, não podemos esquecer da irmã mais velha, a jovem que ora está
 arrumando um serviço, estudando, fumando, bebendo (pareceu um exemplo de
