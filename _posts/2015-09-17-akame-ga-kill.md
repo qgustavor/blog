@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: "Akame ga Kill!"
 date: 2015-09-17 12:00:00 -0300
-excerpt: "Conta-se a história de um reino liderado por pessoas cruéis e um povo que sofre mas não se dá conta disso. Os fortes guiados por um falso ideal de justiça são  levados a se unir a deturpada capital e trabalhar para aqueles que só querem o  mal para o povo."
+excerpt: "Conta-se a história de um reino liderado por pessoas cruéis e um povo que sofre mas não se dá conta disso. Os fortes guiados por um falso ideal de justiça são levados a se unir a deturpada capital e trabalhar para aqueles que só querem o mal para o povo."
 ---
 
 Conta-se a história de um reino liderado por pessoas cruéis e um povo que sofre 
