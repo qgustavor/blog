@@ -116,6 +116,8 @@ excerpt: "Animes e mangás de 2015"
 -   Angel Beats! Specials
 -   White Album
 -   Hellsing
+-   Urawa no Usagi-chan
+-   Nagato Yuki-chan no Shoushitsu
 
 <!-- more -->
 
@@ -126,7 +128,6 @@ excerpt: "Animes e mangás de 2015"
 -   Uchuu Kyoudai
 -   Wakako-zake
 -   Okusama ga Seitokaichou!
--   Nagato Yuki-chan no Shoushitsu
 -   Gakkou Gurashi!
 -   Durarara!!x2 Ten
 -   Charlotte
