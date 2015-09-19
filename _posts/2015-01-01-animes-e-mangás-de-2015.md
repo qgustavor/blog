@@ -118,13 +118,14 @@ excerpt: "Animes e mangás de 2015"
 -   Hellsing
 -   Urawa no Usagi-chan
 -   Nagato Yuki-chan no Shoushitsu
+-   Azumanga Daioh
+-   Chi’s Sweet Home: Atarashii Ouchi
 
 <!-- more -->
 
 **Em progresso**:
 
 -   Fairy Tail
--   Ore Monogatari!!
 -   Uchuu Kyoudai
 -   Wakako-zake
 -   Okusama ga Seitokaichou!
@@ -135,21 +136,17 @@ excerpt: "Animes e mangás de 2015"
 -   Non Non Biyori Repeat
 -   Himouto! Umaru-chan
 -   Joukamachi no Dandelion
--   Chi’s Sweet Home: Atarashii Ouchi
--   Azumanga Daioh
+-   Love Hina
+-   Kanon
 
 *(Só atualizo essa lista uma ou duas vezes por mês).*
 
 Esperando novos episódios serem lançados e/ou traduzidos:
 
--   Tonari no Seki-kun Specials
--   Kill la Kill Special
--   Sukitte Ii na yo. Specials
--   Isshuukan Friends. Specials
--   Ao Haru Ride OVA
--   Bokura wa Minna Kawaisou Special
--   Angel Beats! Specials
+-   Diversos especiais e OVAs
 -   Nisekoi: (estou assistindo de novo em português)
+-   Ore Monogatari!!
+-   To LOVE-Ru Darkness 2nd (esperando pelos blu-rays já que a censura é forte)
 
 Pausados (e a motivação):
 
@@ -171,7 +168,9 @@ Pausados (e a motivação):
     desisto novamente. Ao visto um anime bom, só que ao estilo X-Men não
     é o meu tipo.
 -   Makura no Danshi: é bem feminino, mas estava assistindo para ficar rindo
-    e por que é bem curto. Desisti por que é mesmo uma falta de tempo.
+    e por que é bem curto. É o único da temporada que dá para acompanhar no
+    canal oficial e até cheguei a ver um episódio lá. Desisti dele por que é
+    mesmo uma falta de tempo, de espaço no HD e de tráfego de internet.
 
 Outros animes pausados e os planejados no meu
 [MyAnimeList](http://myanimelist.net/animelist/qgustavor&status=6&order=0).
