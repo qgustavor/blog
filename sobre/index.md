@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre o blog
-tags: [about, Jekyll, theme, responsive]
+tags: []
 modified: 2015-09-10T18:39:10.716Z
 ---
 

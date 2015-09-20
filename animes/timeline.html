@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Timeline de animes assistidos nos dois últimos meses</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+  <style>
+    html, body {
+      background: #fff;
+      margin: 0;
+      padding: 0;
+      overflow: none;
+    }
+    
+    .container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: .1em;
+      bottom: .5em;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+  <body>
+    <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['timeline']}]}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
+    
+    <div id="container" class="container"></div>
+    <script>
+      google.setOnLoadCallback(function () {
+        Tabletop.init({
+          key: '1j_6G6_4EoPzSFvmJ4dbPGqRJfivsdKcPEESLeNKnCEg',
+          callback: fetchCallback
+        });
+      });
+
+      function fetchCallback(sheets, tabletop) {
+        var container = document.getElementById('container');
+
+        var chart = new google.visualization.Timeline(container);
+
+        var dataTable = new google.visualization.DataTable();
+
+        dataTable.addColumn({type: 'string', id: 'Anime'});
+        dataTable.addColumn({type: 'string', id: 'Episode'});
+        dataTable.addColumn({type: 'date', id: 'Date'});
+        dataTable.addColumn({type: 'date', id: 'Date 2'});
+
+        var padding = 30 * 60 * 1000; // 30 minutes
+
+        var keys = {
+          assistido: 'Assistido',
+          nome: 'Nome',
+          data: 'Data',
+          episodio: 'Episódio'
+        };
+
+        var assistido = sheets[keys.assistido].elements;
+
+        var names = assistido.map(function (e) {
+          return e[keys.nome];
+        });
+
+        var uniqueNames = names.filter(function (e, i) {
+          return i === names.indexOf(e);
+        });
+
+        var minTime = new Date();
+        minTime.setMonth(minTime.getMonth() - 2);
+        minTime = minTime.getTime();
+
+        var ordem = uniqueNames.sort(function (a, b) {
+          return (new Date(
+            assistido[names.lastIndexOf(b)][keys.data]
+          )).getTime() - (new Date(
+            assistido[names.lastIndexOf(a)][keys.data]
+          )).getTime();
+        });
+
+        var data = assistido.map(function (e, n) {
+          var date = new Date(e[keys.data]),
+            next = names.indexOf(e[keys.nome], n + 1);
+
+          if (next !== -1) {
+            next = new Date(assistido[next][keys.data]);
+            return [e[keys.nome], e[keys.episodio], date, new Date(+next - padding)];
+          } else {
+            return [e[keys.nome], e[keys.episodio], date, new Date(+date + padding)];
+          }
+        }).filter(function (e) {
+          return ordem.indexOf(e[0]) < 38 && e[2].getTime() > minTime && names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
+        }).sort(function (a, b) {
+          return ordem.indexOf(a[0]) - ordem.indexOf(b[0]);
+        });
+
+        dataTable.addRows(data);
+        
+        var animeColors = uniqueNames.map(function (name, count) {
+          var hash = adler32(name);
+          return tinycolor('#F11')
+            .desaturate(hash % 20)
+            .darken((hash / 20) % 20)
+            .spin((hash / 40) % 360)
+            .toString();
+        });
+
+        chart.draw(dataTable, {
+          colors: animeColors,
+          timeline: {
+            colorByRowLabel: true
+          }
+        });
+      }
+      
+      var ADLER32_MOD = 65521;
+      function adler32(data) {
+        var a = 1;
+        var b = 0;
+        for (var i = 0; i < data.length; i++) {
+          a = (a + data.charCodeAt(i)) % ADLER32_MOD;
+          b = (b + a) % ADLER32_MOD;
+        }
+        return a | (b << 16);
+      }
+    </script>
+  </body>
+</html>

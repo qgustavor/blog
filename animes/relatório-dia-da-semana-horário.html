@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Relatório de episódios assistidos por dia da semana e horário</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+  <style>
+    html, body {
+      background: #fff;
+      margin: 0;
+      padding: 0;
+      overflow: none;
+    }
+    
+    .example {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: .1em;
+      bottom: .5em;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .day-cell {
+      width: calc(100% / 7);
+      height: calc(100% / 12);
+      overflow: hidden;
+      float: left;
+    }
+    
+    .day-count {
+      text-align: center;
+      font: 1.5em sans-serif;
+    }
+    
+    .day-list {
+      display: none;
+      position: fixed;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      padding: 1em;
+      margin: 0;
+      overflow-y: auto;
+    }
+    
+    .day-cell:focus .day-list {
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
+  <div id="example1" class="example"></div>
+  <script>
+    Tabletop.init({
+      key: '1j_6G6_4EoPzSFvmJ4dbPGqRJfivsdKcPEESLeNKnCEg',
+      callback: fetchCallback
+    });
+
+    function fetchCallback(sheets, tabletop) {
+      var container = document.getElementById('example1');
+      var timeInterval = 864e5 * 7;
+      var isoFixDelta = 3456e5 - 864e5;
+      var lastEp = {};
+      var keys = {
+        assistido: 'Assistido',
+        nome: 'Nome',
+        data: 'Data',
+        episodio: 'Episódio'
+      };
+        
+      var minDate = new Date('2014-07-29T11:45:21.000Z').valueOf();
+      var intervalData = [];
+      for (var i = 0; i < 7 * 24; i++) {
+        intervalData[i] = {
+          list: {},
+          count: 0
+        };
+      }
+      invervalData = sheets[keys.assistido].elements
+        .reduce(function (acc, e) {
+          var date = new Date(e[keys.data]),
+            slot = date.getDay() +
+            date.getHours() * 7,
+            nome = e[keys.nome],
+            epNum = lastEp[nome] ?
+            (e[keys.episodio] - lastEp[nome]) :
+            1;
+          if (date < minDate) {
+            return acc;
+          }
+          // Rewatching:
+          if (epNum <= 0) {
+            epNum = +e[keys.episodio];
+          }
+          lastEp[nome] = e[keys.episodio];
+          acc[slot].count += epNum;
+          acc[slot].list[nome] = true;
+          return acc;
+        }, intervalData);
+        
+      var maxValue = Math.max.apply(
+        null,
+        intervalData.map(function (e) {
+          return e.count;
+        })
+      );
+      
+      var weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+      container.innerHTML = invervalData
+        .map(function (day, n) {
+          return '<div tabindex="0" class="day-cell" style="background-color:hsl(' +
+            Math.floor(200 * day.count / maxValue) + ', 50%, 70%);">' +
+            '<div class="day-count">' + day.count + '</div>' +
+            '<ul class="day-list" style="background-color:hsl(' +
+            Math.floor(200 * day.count / maxValue) + ', 50%, 70%);"><li>' + ['<b>' +
+              weekDays[n % 7] + ' - ' +
+              ('0' + (n / 7 | 0)).substr(-2) + ':00 → ' + day.count + ' episode(s)</b>'
+            ]
+            .concat(Object.keys(day.list))
+            .join('</li><li>') +
+            '</li></ul></div>';
+        }).join('');
+    }
+  </script>
+</body>
+</html>

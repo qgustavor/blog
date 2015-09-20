@@ -25,10 +25,10 @@ assistidos na minha lista. Também consegui acumular mais de 2800
 episódios assistidos na planilha e mais de 50 dias assistidos no total.
 
 Além desses valores ainda há as linhas do tempo
-[parcial](http://cssdeck.com/labs/full/vkfggotb) e
-[geral](http://cssdeck.com/labs/full/cvb3wgyn), gráficos
-[semanal](http://cssdeck.com/labs/full/mgdlrqlz) e
-[horário](http://cssdeck.com/labs/full/etdwwvlu); tudo baseado na
+[parcial](https://qgustavor.tk/animes/timeline.html) e
+[geral](https://qgustavor.tk/animes/timeline-geral.html), gráficos
+[semanal](https://qgustavor.tk/animes/relatório-semanal.html) e
+[horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário.html); tudo baseado na
 planilha que é alimentada na “API” do MyAnimeList. Isso deixa claro que
 eu gosto demais de números e estatísticas, mas também não podemos
 desconsiderar que também tive um ano bem produtivo.
