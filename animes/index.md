@@ -25,6 +25,7 @@ assisto como objeto de estudo.
 
 * [Timeline geral](https://qgustavor.tk/animes/timeline-geral.html);
 * [Timeline dos dois ultimos meses](https://qgustavor.tk/animes/timeline.html);
+* [Timeline por vez assistida](https://qgustavor.tk/animes/timeline-anime.html);
 * [Gráfico de episódios assistidos por semana](https://qgustavor.tk/animes/relatório-semanal.html);
 * [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário.html);
 

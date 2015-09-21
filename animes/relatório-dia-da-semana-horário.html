@@ -89,7 +89,7 @@
             date.getHours() * 7,
             nome = e[keys.nome],
             epNum = lastEp[nome] ?
-            (e[keys.episodio] - lastEp[nome]) :
+            (+e[keys.episodio] - lastEp[nome]) :
             1;
           if (date < minDate) {
             return acc;
@@ -98,7 +98,7 @@
           if (epNum <= 0) {
             epNum = +e[keys.episodio];
           }
-          lastEp[nome] = e[keys.episodio];
+          lastEp[nome] = +e[keys.episodio];
           acc[slot].count += epNum;
           acc[slot].list[nome] = true;
           return acc;

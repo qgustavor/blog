@@ -52,7 +52,7 @@
           .reduce(function (acc, e) {
             var date = new Date(e[keys.data]),
               nome = e[keys.nome],
-              epNum = lastEp[nome] ? (e[keys.episodio] - lastEp[nome]) : 1,
+              epNum = lastEp[nome] ? (+e[keys.episodio] - lastEp[nome]) : 1,
               day;
               
             date.setDate(date.getDate() - date.getDay() + 1);
@@ -67,7 +67,7 @@
               epNum = +e[keys.episodio];
             }
             
-            lastEp[nome] = e[keys.episodio];
+            lastEp[nome] = +e[keys.episodio];
             acc[day] = (acc[day] || 0) + epNum;
             return acc;
           }, {});
