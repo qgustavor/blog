@@ -136,6 +136,7 @@ excerpt: "Animes e mangás de 2015"
 -   Non Non Biyori Repeat
 -   Himouto! Umaru-chan
 -   Joukamachi no Dandelion
+-   Working!!!
 -   Love Hina
 -   Kanon
 
