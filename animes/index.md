@@ -2,7 +2,8 @@
 layout: page
 title: Animes
 tags: []
-modified: 2015-09-10T18:39:10.716Z
+date: 2015-09-19 20:40:11 +0000
+modified: 2015-09-21 19:38:10 +0000
 ---
 
 Nessa seção ficam páginas com conteúdos relacionado a animes que venho trabalhando. Uma parte
@@ -23,9 +24,9 @@ assisto como objeto de estudo.
 
 ## Relatórios baseado no meu histórico de animes:
 
-* [Timeline geral](https://qgustavor.tk/animes/timeline-geral.html);
-* [Timeline dos dois ultimos meses](https://qgustavor.tk/animes/timeline.html);
-* [Timeline por vez assistida](https://qgustavor.tk/animes/timeline-anime.html);
+* [Linha do tempo dos episódios](https://qgustavor.tk/animes/timeline-geral.html);
+* [Linha do tempo, somente os dois últimos meses](https://qgustavor.tk/animes/timeline.html);
+* [Linha do tempo por vez assistida](https://qgustavor.tk/animes/timeline-anime.html);
 * [Gráfico de episódios assistidos por semana](https://qgustavor.tk/animes/relatório-semanal.html);
 * [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário.html);
 
