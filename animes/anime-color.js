@@ -11,9 +11,9 @@ function adler32(data) {
 
 function getAnimeColor(name) {
   var hash = adler32(name);
-  return tinycolor('#F11')
-    .desaturate(hash % 50)
-    .darken((hash / 50) % 50)
-    .spin((hash / 2500) % 360)
+  return tinycolor('#F00')
+    .desaturate(hash % 20)
+    .darken((hash / 20) % 20)
+    .spin((hash / 400) % 360)
     .toString();
 }
