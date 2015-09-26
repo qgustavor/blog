@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Farei list...
+title: Farei listas de URLs de download de animes e enviarei às produtoras...
 date: 2014-12-29 11:17:00 +0000
 redirect_from:
   - /post/106503039649/farei-listas-de-urls-de-download-de-animes-e/
