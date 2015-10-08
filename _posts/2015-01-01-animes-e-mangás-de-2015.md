@@ -120,6 +120,14 @@ excerpt: "Animes e mangás de 2015"
 -   Nagato Yuki-chan no Shoushitsu
 -   Azumanga Daioh
 -   Chi’s Sweet Home: Atarashii Ouchi
+-   Mononoke Hime
+-   Gakkou Gurashi!
+-   Charlotte
+-   Okusama ga Seitokaichou!
+-   Love Hina
+-   Kanon
+-   Durarara!!x2 Ten
+-   Yuru Yuri Nachuyachumi!
 
 <!-- more -->
 
@@ -128,17 +136,14 @@ excerpt: "Animes e mangás de 2015"
 -   Fairy Tail
 -   Uchuu Kyoudai
 -   Wakako-zake
--   Okusama ga Seitokaichou!
--   Gakkou Gurashi!
--   Durarara!!x2 Ten
--   Charlotte
 -   Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
 -   Non Non Biyori Repeat
 -   Himouto! Umaru-chan
 -   Joukamachi no Dandelion
 -   Working!!!
--   Love Hina
--   Kanon
+-   Bakuman
+-   To LOVE-Ru Darkness 2nd
+-   Code Geass: Hangyaku no Lelouch
 
 *(Só atualizo essa lista uma ou duas vezes por mês).*
 
@@ -147,7 +152,6 @@ Esperando novos episódios serem lançados e/ou traduzidos:
 -   Diversos especiais e OVAs
 -   Nisekoi: (estou assistindo de novo em português)
 -   Ore Monogatari!!
--   To LOVE-Ru Darkness 2nd (esperando pelos blu-rays já que a censura é forte)
 
 Pausados (e a motivação):
 
