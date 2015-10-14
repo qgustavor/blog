@@ -33,4 +33,10 @@ assisto como objeto de estudo.
 
 ----------
 
+* [O que é o #1animepordia?](https://qgustavor.tk/o-que-%C3%A9-o-1animepordia/)
+* [Extração de legendas de animes](https://qgustavor.tk/extra%C3%A7%C3%A3o-de-legendas-de-animes/)
+* [Pesquisa reversa de animes](https://qgustavor.tk/pesquisa-reversa-de-animes/)
+
+----------
+
 Mais conteúdo será postado com o tempo.
