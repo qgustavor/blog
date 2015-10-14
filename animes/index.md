@@ -24,12 +24,12 @@ assisto como objeto de estudo.
 
 ## Relatórios baseado no meu histórico de animes:
 
-* [Linha do tempo dos episódios](https://qgustavor.tk/animes/timeline-geral.html);
-* [Linha do tempo, somente os dois últimos meses](https://qgustavor.tk/animes/timeline.html);
-* [Linha do tempo por vez assistida](https://qgustavor.tk/animes/timeline-anime.html);
-* [Gráfico de episódios assistidos por semana](https://qgustavor.tk/animes/relatório-semanal.html);
-* [Gráfico das horas assistidas por semana](https://qgustavor.tk/animes/relatório-semanal-horas.html);
-* [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário.html);
+* [Linha do tempo dos episódios](https://qgustavor.tk/animes/timeline-geral);
+* [Linha do tempo, somente os dois últimos meses](https://qgustavor.tk/animes/timeline);
+* [Linha do tempo por vez assistida](https://qgustavor.tk/animes/timeline-anime);
+* [Gráfico de episódios assistidos por semana](https://qgustavor.tk/animes/relatório-semanal);
+* [Gráfico das horas assistidas por semana](https://qgustavor.tk/animes/relatório-semanal-horas);
+* [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário);
 
 ----------
 
