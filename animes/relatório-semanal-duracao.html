@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
-  <title>Gráfico das horas assistidas por semana</title>
+  <title>Gráfico da duração média de cada episódio por semana</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
   <style>
     html, body {
@@ -76,14 +76,15 @@
             }
             
             lastEp[nome] = +e[keys.episodio];
-            acc[day] = (acc[day] || 0) + (epNum *
+            acc.horas[day] = (acc.horas[day] || 0) + (epNum *
               animeInfo[animeNames.indexOf(nome)][keys.duracao]
             );
+            acc.episodios[day] = (acc.episodios[day] || 0) + epNum;
             return acc;
-          }, {});
+          }, {horas: {}, episodios: {}});
           
         var now = Date.now();
-        var invervalData = Object.keys(invervalDataObj)
+        var invervalData = Object.keys(invervalDataObj.horas)
           .map(function (e) {
             var startDate = new Date(+e);
             var lastDate = new Date(+e);
@@ -96,26 +97,13 @@
               '...' +
               formatLocalDate(lastDate)
               .substr(8, 2),
-              parseFloat((invervalDataObj[e] / 60).toFixed(2)),
-              lastDate < now,
-              lastDate < now ?
-              null :
-              Math.round(
-                (invervalDataObj[e] / 60) *
-                (lastDate - startDate) /
-                (now - startDate)
-              )
+              parseFloat((invervalDataObj.horas[e] / invervalDataObj.episodios[e]).toFixed(2))
             ];
           });
           
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Semana');
-        data.addColumn('number', 'Horas');
-        data.addColumn({
-          type: 'boolean',
-          role: 'certainty'
-        });
-        data.addColumn('number', 'Previsão');
+        data.addColumn('number', 'Minutos por episódio');
         data.addRows(invervalData.slice(1));
         
         var options = {

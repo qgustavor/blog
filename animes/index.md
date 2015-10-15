@@ -29,6 +29,7 @@ assisto como objeto de estudo.
 * [Linha do tempo por vez assistida](https://qgustavor.tk/animes/timeline-anime);
 * [Gráfico de episódios assistidos por semana](https://qgustavor.tk/animes/relatório-semanal);
 * [Gráfico das horas assistidas por semana](https://qgustavor.tk/animes/relatório-semanal-horas);
+* [Gráfico da duração média de cada episódio por semana](https://qgustavor.tk/animes/relatório-semanal-duracao);
 * [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário);
 
 ----------
@@ -36,7 +37,3 @@ assisto como objeto de estudo.
 * [O que é o #1animepordia?](https://qgustavor.tk/o-que-%C3%A9-o-1animepordia/)
 * [Extração de legendas de animes](https://qgustavor.tk/extra%C3%A7%C3%A3o-de-legendas-de-animes/)
 * [Pesquisa reversa de animes](https://qgustavor.tk/pesquisa-reversa-de-animes/)
-
-----------
-
-Mais conteúdo será postado com o tempo.
