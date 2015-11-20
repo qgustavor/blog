@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000
-modified: 2015-09-13 13:19:32 +0000
+modified: 2015-11-20 13:19:32 +0000
 redirect_from:
   - /post/106793471684/animes-e-mangás-de-2015/
   - /post/106793471684/
@@ -128,22 +128,33 @@ excerpt: "Animes e mangás de 2015"
 -   Kanon
 -   Durarara!!x2 Ten
 -   Yuru Yuri Nachuyachumi!
+-   Non Non Biyori Repeat
+-   Wakako-zake
+-   Ameiro Cocoa
+-   Bakuman
+-   Code Geass: Hangyaku no Lelouch
+-   Rosario + Vampire
+-   Mujaki no Rakuen
+-   Fumiko no Kokuhaku, Rain Town e vários OVAs e especiais
+-   Issho ni Training
+-   Kaze no Tani no Nausicaa
+-   Darker than Black
 
 <!-- more -->
 
 **Em progresso**:
 
 -   Fairy Tail
--   Uchuu Kyoudai
--   Wakako-zake
--   Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
--   Non Non Biyori Repeat
--   Himouto! Umaru-chan
--   Joukamachi no Dandelion
--   Working!!!
--   Bakuman
--   To LOVE-Ru Darkness 2nd
--   Code Geass: Hangyaku no Lelouch
+-   Shugo Chara!
+-   Suzumiya Haruhi no Yuutsu
+-   Noragami Aragoto
+-   Yuru Yuri San☆Hai!
+-   Subete ga F ni Naru: The Perfect Insider
+-   Owarimonogatari
+-   Onsen Yousei Hakone-chan
+-   Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
+-   One Punch Man
+-   Hacka Doll
 
 *(Só atualizo essa lista uma ou duas vezes por mês).*
 
@@ -152,12 +163,19 @@ Esperando novos episódios serem lançados e/ou traduzidos:
 -   Diversos especiais e OVAs
 -   Nisekoi: (estou assistindo de novo em português)
 -   Ore Monogatari!!
+-   Himouto! Umaru-chan
+-   To LOVE-Ru Darkness 2nd
+-   Working!!!
+-   Joukamachi no Dandelion
+-   Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+-   Uchuu Kyoudai
 
 Pausados (e a motivação):
 
 -   To LOVE-Ru Darkness: acabei lendo todos os capítulos que encontrei.
--   Suzumiya Haruhi no Yuutsu: consegui achar o primeiro episódio, mas
-    não me lembro onde;
+-   Suzumiya Haruhi no Yuutsu: <del>consegui achar o primeiro episódio, mas
+    não me lembro onde;</del> Eu já tinha assistido, mas não sabia por que
+    os episódios podem ser numerados de várias formas.
 -   ChäoS;HEAd: <del>suponho que a fansub ter usado material americano me
     desmotivou a assistir o desenho. Por exemplo nas músicas, que nesse
     anime eu gosto, simplesmente tirava o vídeo e cantava a música, isso
@@ -169,9 +187,9 @@ Pausados (e a motivação):
 -   Baccano!: <del>achei que seria tão bom quanto Sakamichi no Apollon pela
     temática mas ao menos pro enquanto não me interessei por enquanto.</del>
     Me interessei depois de assistir Durarara!!
--   Darker than Black: assisto, desisto, assisto novamente, e
+-   Darker than Black: <del>assisto, desisto, assisto novamente, e
     desisto novamente. Ao visto um anime bom, só que ao estilo X-Men não
-    é o meu tipo.
+    é o meu tipo.</del> Me interessei depois de assistir Charlotte
 -   Makura no Danshi: é bem feminino, mas estava assistindo para ficar rindo
     e por que é bem curto. É o único da temporada que dá para acompanhar no
     canal oficial e até cheguei a ver um episódio lá. Desisti dele por que é
