@@ -87,7 +87,7 @@
             next = names.indexOf(e[keys.nome], n + 1);
 
           if (next !== -1) {
-            if (assistido[next][keys.episodio] < e[keys.episodio]) {
+            if (+assistido[next][keys.episodio] < +e[keys.episodio]) {
               return false;
             }
             next = new Date(assistido[next][keys.data]);
