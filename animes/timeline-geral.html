@@ -84,12 +84,15 @@
 
           if (next !== -1) {
             next = new Date(assistido[next][keys.data]);
+            if (assistido[next][keys.episodio] < e[keys.episodio]) {
+              return false;
+            }
             return [e[keys.nome], e[keys.episodio], date, new Date(+next - padding)];
           } else {
             return [e[keys.nome], e[keys.episodio], date, new Date(+date + padding)];
           }
         }).filter(function (e) {
-          return names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
+          return e && names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
         }).sort(function (a, b) {
           return ordem.indexOf(a[0]) - ordem.indexOf(b[0]);
         });
