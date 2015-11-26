@@ -3,6 +3,7 @@ layout: post
 tags: []
 title: "Pesquisa Reversa de Animes"
 date: 2015-10-08 12:00:00 -0300
+updated: 2015-11-26 16:32:44 -0300
 excerpt: "Desde ano passado estou desenvolvendo um projeto onde procuro criar um script especializado em pesquisa reversa de animes."
 ---
 
@@ -15,3 +16,5 @@ Como eu escrevo JavaScript praticamente todos os dias desde que saí do fundamen
 Praticamente todos os animes que assisti no último ano são indexados por essa ferramenta e ela já me ajudou algumas vezes nesses jogos. Claro que não é um sistema perfeito com um número considerável de falsos positivos (imagens de forma semelhante, como um rosto e uma bola por exemplo) e falsos negativos (como cenas com muita animação), muito menos dá emoção ou graça ao jogo, mas é um desafio quanto a programá-lo e resolver esses problemas que acabo de mostrar (além de me ajudar quando a memória falha).
 
 Estou postando isso na quarta e não na terça (como seria o planejado) por vários motivos (volta as aulas, serviço, etc). Se houver interesse pelo código-fonte da ferramenta é possível que eu o torne público, porém duvido que alguém se interessaria por isso.
+
+Atualização: [o código da ferramenta está no GitHub](https://github.com/qgustavor/what-is-that-anime).
