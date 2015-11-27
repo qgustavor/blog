@@ -44,6 +44,7 @@
         dataTable.addColumn({type: 'string', id: 'Anime'});
         dataTable.addColumn({type: 'string', id: 'Episode'});
         dataTable.addColumn({type: 'string', id: 'Count', role: 'tooltip', 'p': {'html': true}});
+        dataTable.addColumn({type: 'string', role: 'style'});
         dataTable.addColumn({type: 'date', id: 'Date'});
         dataTable.addColumn({type: 'date', id: 'Date 2'});
 
@@ -115,14 +116,13 @@
                 )) +
                 (interval < 6e4 ? // Less than 60 seconds don't show the interval
                   '' : (' (' + formatTimeInterval(interval) + ')')),
+              getAnimeColor(anime),
               minDate, maxDate
             ];
           }));
         }, []);
 
         dataTable.addRows(data);
-        
-        var animeColors = uniqueNames.map(getAnimeColor);
         
         var nextRender;
         var renderTimer = null;
@@ -136,8 +136,7 @@
         function doDraw () {
           nextRender = Date.now() + 1e3;
           chart.draw(dataTable, {
-            timeline: { showRowLabels: false },
-            colors: animeColors
+            timeline: { showRowLabels: false }
           });
         }
       }

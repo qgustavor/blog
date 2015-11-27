@@ -48,6 +48,7 @@
 
         dataTable.addColumn({type: 'string', id: 'Anime'});
         dataTable.addColumn({type: 'string', id: 'Episode'});
+        dataTable.addColumn({type: 'string', role: 'style'});
         dataTable.addColumn({type: 'date', id: 'Date'});
         dataTable.addColumn({type: 'date', id: 'Date 2'});
 
@@ -91,26 +92,31 @@
               return false;
             }
             next = new Date(assistido[next][keys.data]);
-            return [e[keys.nome], e[keys.episodio], date, new Date(+next - padding)];
+            return [e[keys.nome], e[keys.episodio], getAnimeColor(e[keys.nome]), date, new Date(+next - padding)];
           } else {
-            return [e[keys.nome], e[keys.episodio], date, new Date(+date + padding)];
+            return [e[keys.nome], e[keys.episodio], getAnimeColor(e[keys.nome]), date, new Date(+date + padding)];
           }
         }).filter(function (e) {
-          return e && ordem.indexOf(e[0]) < 38 && e[2].getTime() > minTime && names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
+          return e && ordem.indexOf(e[0]) < 38 && e[3].getTime() > minTime && names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
         }).sort(function (a, b) {
           return ordem.indexOf(a[0]) - ordem.indexOf(b[0]);
         });
 
         dataTable.addRows(data);
-        
-        var animeColors = uniqueNames.map(getAnimeColor);
 
-        chart.draw(dataTable, {
-          colors: animeColors,
-          timeline: {
-            colorByRowLabel: true
-          }
+        var nextRender;
+        var renderTimer = null;
+        window.addEventListener('resize', function () {
+          clearTimeout(renderTimer);
+          renderTimer = setTimeout(doDraw, nextRender - Date.now());
         });
+        
+        doDraw();
+
+        function doDraw () {
+          nextRender = Date.now() + 1e3;
+          chart.draw(dataTable);
+        }
       }
     </script>
   </body>
