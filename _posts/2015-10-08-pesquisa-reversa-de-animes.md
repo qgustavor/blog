@@ -17,4 +17,4 @@ Praticamente todos os animes que assisti no último ano são indexados por essa 
 
 Estou postando isso na quarta e não na terça (como seria o planejado) por vários motivos (volta as aulas, serviço, etc). Se houver interesse pelo código-fonte da ferramenta é possível que eu o torne público, porém duvido que alguém se interessaria por isso.
 
-Atualização: [o código da ferramenta está no GitHub](https://github.com/qgustavor/what-is-that-anime).
+Atualização: [o código da ferramenta está no GitHub](https://github.com/qgustavor/what-is-this-anime).
