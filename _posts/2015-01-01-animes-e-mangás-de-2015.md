@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000
-modified: 2015-11-20 13:19:32 +0000
+modified: 2015-12-23 13:19:32 +0000
 redirect_from:
   - /post/106793471684/animes-e-mangás-de-2015/
   - /post/106793471684/
@@ -139,14 +139,17 @@ excerpt: "Animes e mangás de 2015"
 -   Issho ni Training
 -   Kaze no Tani no Nausicaa
 -   Darker than Black
+-   Working!!!
+-   Suzumiya Haruhi no Yuutsu
+-   Chocotan, Cross Road e Kanamewo (alguns curtas)
+-   Steins;Gate
+-   Shugo Chara!
+-   Fairy Tail
 
 <!-- more -->
 
 **Em progresso**:
 
--   Fairy Tail
--   Shugo Chara!
--   Suzumiya Haruhi no Yuutsu
 -   Noragami Aragoto
 -   Yuru Yuri San☆Hai!
 -   Subete ga F ni Naru: The Perfect Insider
@@ -155,6 +158,8 @@ excerpt: "Animes e mangás de 2015"
 -   Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 -   One Punch Man
 -   Hacka Doll
+-   Ore, Twintails ni Narimasu.
+-   Yojouhan Shinwa Taikei
 
 *(Só atualizo essa lista uma ou duas vezes por mês).*
 
@@ -165,7 +170,6 @@ Esperando novos episódios serem lançados e/ou traduzidos:
 -   Ore Monogatari!!
 -   Himouto! Umaru-chan
 -   To LOVE-Ru Darkness 2nd
--   Working!!!
 -   Joukamachi no Dandelion
 -   Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
 -   Uchuu Kyoudai
