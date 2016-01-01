@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000
-modified: 2015-12-23 13:19:32 +0000
+modified: 2016-01-01 13:19:32 +0000
 redirect_from:
   - /post/106793471684/animes-e-mangás-de-2015/
   - /post/106793471684/
@@ -145,36 +145,20 @@ excerpt: "Animes e mangás de 2015"
 -   Steins;Gate
 -   Shugo Chara!
 -   Fairy Tail
-
-<!-- more -->
-
-**Em progresso**:
-
--   Noragami Aragoto
--   Yuru Yuri San☆Hai!
--   Subete ga F ni Naru: The Perfect Insider
--   Owarimonogatari
--   Onsen Yousei Hakone-chan
--   Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
--   One Punch Man
--   Hacka Doll
 -   Ore, Twintails ni Narimasu.
 -   Yojouhan Shinwa Taikei
+-   FLCL
+-   Komori-san wa Kotowarenai!
+-   Owarimonogatari
+-   Kono Naka ni Hitori, Imouto ga Iru!
+-   Hourou Musuko
+-   Pupipo!
+-   Bakuman. 2
 
-*(Só atualizo essa lista uma ou duas vezes por mês).*
+Termino o ano com 333 animes na lista geral e 140 na lista acima. Espero manter
+o mesmo ritmo ano que vem, ainda que será difícil, já que será um ano complicado.
 
-Esperando novos episódios serem lançados e/ou traduzidos:
-
--   Diversos especiais e OVAs
--   Nisekoi: (estou assistindo de novo em português)
--   Ore Monogatari!!
--   Himouto! Umaru-chan
--   To LOVE-Ru Darkness 2nd
--   Joukamachi no Dandelion
--   Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
--   Uchuu Kyoudai
-
-Pausados (e a motivação):
+Pausados nesse ano (e a motivação):
 
 -   To LOVE-Ru Darkness: acabei lendo todos os capítulos que encontrei.
 -   Suzumiya Haruhi no Yuutsu: <del>consegui achar o primeiro episódio, mas
@@ -199,10 +183,5 @@ Pausados (e a motivação):
     canal oficial e até cheguei a ver um episódio lá. Desisti dele por que é
     mesmo uma falta de tempo, de espaço no HD e de tráfego de internet.
 
-Outros animes pausados e os planejados no meu
-[MyAnimeList](http://myanimelist.net/animelist/qgustavor&status=6&order=0).
-
 ¹ Foi iniciado em 2014, desconsiderando o último dia do ano, qual
 comecei a assistir os sete primeiros animes de 2015.
-
-
