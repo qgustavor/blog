@@ -17,8 +17,9 @@ assisto como objeto de estudo.
 ## Listagens anuais de animes assistidos:
 
 [2013](https://qgustavor.tk/animes-assistidos-e-mangás-de-2013/), 
-[2014](https://qgustavor.tk/animes-e-mangás-de-2014/) e 
-[2015](https://qgustavor.tk/animes-e-mangás-de-2015/).
+[2014](https://qgustavor.tk/animes-e-mangás-de-2014/),
+[2015](https://qgustavor.tk/animes-e-mangás-de-2015/) e 
+[2016](https://qgustavor.tk/animes-e-mangás-de-2016/).
 
 ----------
 
