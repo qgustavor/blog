@@ -24,10 +24,15 @@
     }
     
     .day-cell {
-      width: calc(100% / 7);
-      height: calc(100% / 12);
+      width: 12.5%;  width: calc(100% / 8);
+      height: 8.33%; height: calc(100% / 12);
       overflow: hidden;
       float: left;
+    }
+    
+    .table-title {
+      background: #444;
+      color: #F4F4F4;
     }
     
     .day-count {
@@ -43,12 +48,17 @@
       right: 0;
       bottom: 0;
       padding: 1em;
+      padding: 5vh 10vw;
       margin: 0;
       overflow-y: auto;
     }
     
     .day-cell:focus .day-list {
       display: block;
+    }
+    
+    .day-list li:last-of-type {
+      padding-bottom: 20vh;
     }
   </style>
 </head>
@@ -76,7 +86,7 @@
         
       var minDate = new Date('2014-07-29T11:45:21.000Z').valueOf();
       var intervalData = [];
-      for (var i = 0; i < 7 * 24; i++) {
+      for (var i = 0; i < 8 * 24; i++) {
         intervalData[i] = {
           list: {},
           count: 0
@@ -85,8 +95,7 @@
       invervalData = sheets[keys.assistido].elements
         .reduce(function (acc, e) {
           var date = new Date(e[keys.data]),
-            slot = date.getDay() +
-            date.getHours() * 7,
+            slot = date.getDay() + date.getHours() * 8 + 1,
             nome = e[keys.nome],
             epNum = lastEp[nome] ?
             (+e[keys.episodio] - lastEp[nome]) :
@@ -111,21 +120,31 @@
         })
       );
       
-      var weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-      container.innerHTML = invervalData
+      var weekDays = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
+      container.innerHTML = '<div class="day-cell table-title"></div>' + weekDays.map(function (day) {
+        return '<div class="day-cell table-title"><div class="day-count">' + day + '</div></div>';
+      }).join('')
+      + invervalData
         .map(function (day, n) {
-          return '<div tabindex="0" class="day-cell" style="background-color:hsl(' +
-            Math.floor(200 * day.count / maxValue) + ', 50%, 70%);">' +
+          if (n % 8 === 0) {
+            return '<div class="day-cell table-title"><div class="day-count">' +
+              ('0' + Math.floor(n / 8)).substr(-2) + ':00</div></div>';
+          }
+          return '<div tabindex="0" class="day-cell" style="background-color:' + heatMapColorforValue(day.count / maxValue) + ';">' +
             '<div class="day-count">' + day.count + '</div>' +
-            '<ul class="day-list" style="background-color:hsl(' +
-            Math.floor(200 * day.count / maxValue) + ', 50%, 70%);"><li>' + ['<b>' +
-              weekDays[n % 7] + ' - ' +
-              ('0' + (n / 7 | 0)).substr(-2) + ':00 → ' + day.count + ' episode(s)</b>'
+            '<ul class="day-list" style="background-color:' + heatMapColorforValue(day.count / maxValue, 80) + ';"><li>' + ['<b>' +
+              weekDays[n % 8 - 1] + ' - ' +
+              ('0' + Math.floor(n / 8)).substr(-2) + ':00 → ' + day.count + ' episódio' + ( day.count === 1 ? '' : 's' ) + '</b>'
             ]
             .concat(Object.keys(day.list))
             .join('</li><li>') +
             '</li></ul></div>';
         }).join('');
+    }
+    
+    function heatMapColorforValue(value, luminosity){
+      var h = (1.0 - value) * 240;
+      return 'hsl(' + h + ', 66%, ' + (luminosity || 70) + '%)';
     }
   </script>
 </body>
