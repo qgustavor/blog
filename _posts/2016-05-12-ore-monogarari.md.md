@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: "Ore Monogarari!!"
-date: 2015-05-12 12:00:00 -0300
+date: 2016-05-12 12:00:00 -0300
 excerpt: "Um cara educado, forte e com um coração tão grande que só cabe
 nele porque ele é enorme."
 ---
