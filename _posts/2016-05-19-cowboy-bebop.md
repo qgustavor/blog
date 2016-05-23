@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: "Cowboy Bebop"
-date: 2016-05-19 12:00:00 -0300
+date: 2016-05-19 00:00:00 -0300
 excerpt: "Um caçador de recompensas atravessa o espaço em busca das mais
 diversas aventuras. Ele e sua divertida equipe passam por várias situações
 juntos, em diversos planetas e galáxias."
