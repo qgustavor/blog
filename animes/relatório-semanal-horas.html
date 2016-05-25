@@ -80,7 +80,7 @@
               console.log("%s episode duration isn't defined, using 24 minutes.", nome);
             }
             acc[day] = (acc[day] || 0) + (epNum *
-              index === -1 ? 24 : animeInfo[index][keys.duracao]
+              (index === -1 ? 24 : animeInfo[index][keys.duracao])
             );
             return acc;
           }, {});
