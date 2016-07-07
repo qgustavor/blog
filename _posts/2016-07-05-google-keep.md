@@ -12,7 +12,7 @@ Os pontos positivos dele que não consegui encontrar em outro aplicativo são: s
 
 Só que ultimamente ele vem piorando com o tempo: antigamente havia uma opção bem customizável para criar listas, mas como levaram a simplicidade ao extremo agora é mais fácil criar uma nota de texto e fazer a lista manualmente:
 
-![inline image](null)
+![inline image](https://i.imgur.com/g1hqUhR.jpg)
 
 No caso fazer a lista manualmente só dificulta reordenar itens - para isso tem que recortar o item e colar na nova posição - mesmo assim para mim isso é muito melhor do que o jeito automático: posso criar marcadores além de só "marcado" e “desmarcado”; posso ter ter configurações diferentes, como uma lista onde os items novos vão para cima, outra que os items novos vão para baixo, e mais outra onde os items marcados ficam no lugar.
 
@@ -22,6 +22,6 @@ Desses problemas o que mais me incomodou foi a mudança no cálculo do número d
 
 Ainda houve um segundo problema que veio dessa atualização: embore não atrapalhe tanto conseguiram deixar o aplicativo mais feio desalinhando as partes que formam o logotipo. Criei um userstyle para resolver esse problema de alinhamento:
 
-![inline image](null)
+![inline image](https://i.imgur.com/NXcITnL.jpg)
 
 Aliás, resolver não resolveu tanto: não procurei corrigir precisamente, apenas visualmente, e apenas o logotipo, pois estava deixando o aplicativo com cara de desleixado. Espero que no futuro arrumem isso, assim como os outros bugs do site. Acho que isso é tudo o que tenho para falar.
