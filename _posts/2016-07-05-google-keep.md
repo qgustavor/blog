@@ -2,7 +2,7 @@
 layout: post
 tags: []
 title: "Google Keep"
-date: 2016-07-07 14:02:04 +0000
+date: 2016-07-05 14:02:04 +0000
 excerpt: "Embora eu use ele para me organizar em coisas como o que tenho que fazer e as postagens do blog no fim das contas há pontos positivos e..."
 ---
 
