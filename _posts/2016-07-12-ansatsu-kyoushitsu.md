@@ -8,7 +8,7 @@ excerpt: "Já tinha postado sobre esse anime, por que de novo? Bem, terminei de 
 
 Já tinha postado sobre esse anime, por que de novo? Bem, terminei de assistir a segunda temporada, episódio por episódio, em Japonês.
 
-Tudo bem que não é a primeira vez que.faço isso: já assisti Nisekoi e Oregairu dessa forma. Por outro lado foi o que mais assisti dessa forma ― 25 eposódios ― e mais episódios seguidos sem ver tradução ― uns 19.
+Tudo bem que não é a primeira vez que faço isso: já assisti Nisekoi e Oregairu dessa forma. Por outro lado foi o que mais assisti dessa forma ― 25 eposódios ― e mais episódios seguidos sem ver tradução ― uns 19.
 
 Agora se me perguntarem se entendi tudo a resposta é um claro não. Mas tudo bem já que não coloquei muita fé na história. Já se perguntar se aprendi algo: também não. Foi bom para revisar e acostumar com a pronúncia.
 
