@@ -4,6 +4,8 @@ title: Animes
 tags: []
 date: 2015-09-19 20:40:11 +0000
 modified: 2015-10-14 11:30:00 -3000
+redirect_from:
+  - /anime/
 ---
 
 Nessa seção ficam páginas com conteúdos relacionado a animes que venho trabalhando. Uma parte
