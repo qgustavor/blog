@@ -16,6 +16,12 @@ assisto como objeto de estudo.
 
 ----------
 
+## Projetos isolados:
+
+* [HummingStats](https://qgustavor.github.io/HummingStats/)
+
+----------
+
 ## Listagens anuais de animes assistidos:
 
 [2013](https://qgustavor.tk/animes-assistidos-e-mangás-de-2013/), 
@@ -35,6 +41,8 @@ assisto como objeto de estudo.
 * [Gráfico das horas assistidas por semana](https://qgustavor.tk/animes/relatório-semanal-horas);
 * [Gráfico da duração média de cada episódio por semana](https://qgustavor.tk/animes/relatório-semanal-duracao);
 * [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário);
+* [Relação da velocidade em que um anime foi assistido em relação ao número de episódios](https://qgustavor.tk/animes/velocidade-anime);
+* [Relação da velocidade em que um anime foi assistido em relação ao tempo de exibição](https://qgustavor.tk/animes/velocidade-anime-temporada);
 
 ----------
 

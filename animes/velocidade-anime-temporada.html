@@ -30,6 +30,7 @@
     <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['corechart']}]}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
     <script src="anime-color.js"></script>
     
     <div id="container" class="container"></div>
@@ -60,10 +61,36 @@
           assistido: 'Assistido',
           nome: 'Nome',
           data: 'Data',
-          episodio: 'Episódio'
+          episodio: 'Episódio',
+          episodios: 'Episódios',
+          animes: 'Animes',
+          inicio: 'Início',
+          fim: 'Fim'
         };
 
         var assistido = sheets[keys.assistido].elements;
+        var animes = sheets[keys.animes].elements;
+        
+        var animeDataNames = animes.map(function (anime) {
+          return anime[keys.nome];
+        });
+        
+        var toDate = function(date) {
+          var formats = [
+            'DD-MM-YYYY',
+            'YYYY-MM-DD',
+            'DD/MM/YYYY'
+          ];
+          
+          while (formats.length) {
+            var date = moment(date, formats.pop(), true);
+            if (date.isValid) {
+              break;
+            }
+          }
+          
+          return date;
+        };
 
         var names = assistido.map(function (e) {
           return e[keys.nome];
@@ -92,7 +119,8 @@
           var animeSeasons = seasons[e[keys.nome]];
           var lastSeason = animeSeasons[animeSeasons.length - 1];
           
-          if (!lastSeason || lastSeason.episodio > +e[keys.episodio]) {
+          if (!lastSeason || +lastSeason.episodio > +e[keys.episodio]) {
+            if (lastSeason) console.log(e[keys.nome], +lastSeason.episodio, +e[keys.episodio], e[keys.data])
             animeSeasons.push({
               minDate: e[keys.data],
               maxDate: e[keys.data],
@@ -113,15 +141,24 @@
             var minDate = new Date(seasonData.minDate);
             var maxDate = new Date(seasonData.maxDate);
             var interval = maxDate - minDate;
-            var episodios = seasonData.episodio - seasonData.episodioMin;
+            var animeData = animes[animeDataNames.indexOf(anime)];
+            var intervalSeason = toDate(animeData[keys.fim]) - toDate(animeData[keys.inicio])
+            var title = formatTimeInterval(intervalSeason) + ' em ' + formatTimeInterval(interval);
+            var ratio = intervalSeason / interval;
+            
+            if (seasonData.episodio !== animeData[keys.episodios]) {
+              return [];
+            }
             
             return [
-              anime + (seasonData.count === 1 ? '' : '[' + seasonData.count + ']'),
-              episodios * 31556926e3 / interval,
-              episodios + ' episódios em ' + formatTimeInterval(interval),
+              anime + (seasonData.count === 1 ? '' : '[' + seasonData.count + ']'), // nome
+              ratio, // valor
+              title, // valor formatado
               '<div class="anime-title"><strong>' + (
                 anime + '</strong>'  + (seasonData.count === 1 ? '' : ' ' + seasonData.count + 'ª vez')
-              ) + '</div><div class="anime-data">' + episodios + ' episódios em ' + formatTimeInterval(interval) + '</div>',
+              ) + '</div><div class="anime-data">' + title + '<br>' +
+                animeData[keys.episodios] + ' episódio' + (animeData[keys.episodios] === 1 ? '' : 's') +
+              '<br>Tempo assistindo / exibindo: ' + ratio.toFixed(3) + '</div>',
               getAnimeColor(anime)
             ];
           }));
