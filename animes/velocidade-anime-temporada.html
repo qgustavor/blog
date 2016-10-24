@@ -142,6 +142,7 @@
             var maxDate = new Date(seasonData.maxDate);
             var interval = maxDate - minDate;
             var animeData = animes[animeDataNames.indexOf(anime)];
+            if (!animeData) return [];
             var intervalSeason = toDate(animeData[keys.fim]) - toDate(animeData[keys.inicio])
             var title = formatTimeInterval(intervalSeason) + ' em ' + formatTimeInterval(interval);
             var ratio = intervalSeason / interval;
