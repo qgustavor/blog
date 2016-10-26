@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2016
 date: 2016-01-01 13:27:00 +0000
-modified: 2016-06-06 12:00:00 +0000
+modified: 2016-10-26 12:00:00 +0000
 excerpt: "Animes e mangás de 2016"
 ---
 
@@ -68,21 +68,45 @@ excerpt: "Animes e mangás de 2016"
 -   Ouran Koukou Host Club
 -   One Outs
 -   Mirai Nikki
+-   Inou-Battle wa Nichijou-kei no Naka de
+-   Natsume Yuujinchou
+-   Ansatsu Kyoushitsu (TV) 2nd Season (a partir do episódio 8 assisti só em Japonês)
+-   Tanaka-kun wa Itsumo Kedaruge
+-   Pan de Peace!
+-   Sakamoto desu ga?
+-   Sansha Sanyou
+-   Ping Pong The Animation
+-   11eyes (depois de um ano enrolando)
+-   Tamayura: Hitotose
+-   Netoge no Yome wa Onnanoko ja Nai to Omotta
+-   Flying Witch
+-   Bishoujo Senshi Sailor Moon
+-   Makura no Danshi (depois de 11 meses enrolando... não no cobertor, para ver)
+-   Dagashi Kashi (traduzi os episódios que faltavam)
+-   Mushishi
+-   Tengen Toppa Gurren Lagann (row row fight the power)
+-   Jinrui wa Suitai Shimashita
+-   Planetarian: Chiisana Hoshi no Yume
+-   Mekakucity Actors
+-   Denpa Onna to Seishun Otoko
+-   Twilight Q, Time Bokan Oudou Fukko, e outros animes curtos
+-   Jinsei
+-   Koyomimonogatari
+-   Hidamari Sketch x 365
+-   Ao no Exorcist
+-   Re:Zero kara Hajimeru Isekai Seikatsu
+-   New Game!
+-   Zoku Sayonara Zetsubou Sensei
+-   Orange
+-   ReLIFE
+-   Amaama to Inazuma
 
-Não estarei mais listando animes em progresso.
-
-*(Só atualizo essa lista uma ou duas vezes por mês).*
-
-Esperando novos episódios serem lançados e/ou traduzidos:
-
--   Diversos especiais e OVAs
--   Yuru Yuri San☆Hai!
--   Dagashi Kashi
+*Não estarei mais listando animes em progresso ou que estou esperando sair episódios:
+a lista no MyAnimeList está bem organizada.*
 
 Pausados esse ano (e a motivação):
 
 -   [nenhum no momento]
 
-Outros animes pausados e os planejados no meu
-[MyAnimeList](http://myanimelist.net/animelist/qgustavor&status=6&order=0)
-e no meu [HummingBird](https://hummingbird.me/users/qgustavor).
+Animes pausados e os planejados no meu
+[MyAnimeList](https://myanimelist.net/animelist/qgustavor).
