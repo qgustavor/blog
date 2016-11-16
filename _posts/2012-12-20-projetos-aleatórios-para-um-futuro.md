@@ -15,8 +15,7 @@ serem feitos.
 
 -   War de figuras aleatórias, por Konther: “Você tem que dominar a
     Picanha, a Maminha e o Cupim.”;
--   [Rede
-    Anti-Social](http://www.theantisocialnetwork.tk "A rede antissocial"),
+-   Rede Anti-Social (fechada por problemas com o domínio),
     por Vida de Programador: eles fizeram um site, que não tem nada além
     de uma propaganda, podia ser melhor;
 -   O clipe de Somos Heróis: o encontro de jovens marcou minha vida e
