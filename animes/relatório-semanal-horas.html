@@ -86,8 +86,9 @@
           }, {});
           
         var now = Date.now();
-        var invervalData = Object.keys(invervalDataObj)
-          .map(function (e) {
+        var invervalKeys = Object.keys(invervalDataObj);
+        var invervalData = invervalKeys
+          .map(function (e, i) {
             var startDate = new Date(+e);
             var lastDate = new Date(+e);
             startDate.setDate(startDate.getDate() - 1);
@@ -99,15 +100,16 @@
               '...' +
               formatLocalDate(lastDate)
               .substr(8, 2),
-              parseFloat((invervalDataObj[e] / 60).toFixed(2)),
+              Math.round(invervalDataObj[e] * 100 / 60) / 100,
               lastDate < now,
-              lastDate < now ?
-              null :
-              Math.round(
-                (invervalDataObj[e] / 60) *
-                (lastDate - startDate) /
-                (now - startDate)
-              )
+              lastDate < now
+                ? null
+                : Math.round((invervalDataObj[e] / 60) * (lastDate - startDate) / (now - startDate)),
+              i > 3 && i < invervalKeys.length - 4
+              ? Math.round(invervalKeys.slice(i - 3, i + 4).reduce(function (sum, e) {
+                return sum + invervalDataObj[e] / 60
+              }, 0) * 100 / 7) / 100
+              : null
             ];
           });
           
@@ -119,6 +121,7 @@
           role: 'certainty'
         });
         data.addColumn('number', 'Previsão');
+        data.addColumn('number', 'Média de sete semanas');
         data.addRows(invervalData.slice(1));
         
         var options = {
@@ -130,6 +133,12 @@
             top: 0,
             width: '97%',
             height: '100%'
+          },
+          series: {
+            2: {
+              curveType: 'function',
+              lineDashStyle: [2, 3]
+            }
           }
         };
         
