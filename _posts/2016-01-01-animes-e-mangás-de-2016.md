@@ -100,13 +100,30 @@ excerpt: "Animes e mangás de 2016"
 -   Orange
 -   ReLIFE
 -   Amaama to Inazuma
+-   Yamada-kun to 7-nin no Majo
+-   Gin no Saji
+-   Kiznaiver
+-   Code Geass: Hangyaku no Lelouch R2
+-   Nagi no Asukara (depois de enrolar por dois anos)
+-   Tantei Opera Milky Holmes
+-   Tonari no Kaibutsu-kun
+-   Gunslinger Girl
+-   Death Parade
+-   Maria†Holic
+-   Shinsekai yori
+-   Yuuki Yuuna wa Yuusha de Aru
+-   Hataraki Man
+-   Aoi Hana
+-   Ben-To
+-   Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+-   07-Ghost
+-   Howl no Ugoku Shiro
 
-*Não estarei mais listando animes em progresso ou que estou esperando sair episódios:
-a lista no MyAnimeList está bem organizada.*
+Terminei o ano com 527 animes na lista geral e 107 na lista acima. Já era previsto que seria difícil manter o ritmo do ano passado. Espero que ele não continue caindo no ano que vem.
 
-Pausados esse ano (e a motivação):
+A partir dessa lista não estarei mais listando animes em progresso ou que estou esperando sair episódios:
+a lista no MyAnimeList está bem organizada.
 
--   [nenhum no momento]
+Não pausei nenhum anime nesse ano já que uma das minhas metas foi assistir todos os animes pausados.
 
-Animes pausados e os planejados no meu
-[MyAnimeList](https://myanimelist.net/animelist/qgustavor).
+Animes pausados e os planejados no meu [MyAnimeList](https://myanimelist.net/animelist/qgustavor).
