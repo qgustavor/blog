@@ -75,9 +75,9 @@
             }
             
             lastEp[nome] = +e[keys.episodio];
-            acc.horas[day] = (acc.horas[day] || 0) + (epNum *
-              animeInfo[animeNames.indexOf(nome)][keys.duracao]
-            );
+            var animeIndex = animeNames.indexOf(nome);
+            var duracao = animeIndex === -1 ? 23 : (animeInfo[animeIndex][keys.duracao] || 23);
+            acc.horas[day] = (acc.horas[day] || 0) + (epNum * duracao);
             acc.episodios[day] = (acc.episodios[day] || 0) + epNum;
             return acc;
           }, {horas: {}, episodios: {}});
