@@ -20,6 +20,6 @@ Enfim, é muita coisa, foram mais de 200 animes por ano e ainda quero terminar e
 
 Por último queria mostrar uma coisinha sobre esse último gráfico (que fiz no Paint… sim, eu li tutoriais de pixel art quando era criança… e sei que mesmo assim não ficou tão bom):
 
-![inline image](http://i.imgur.com/UwQfU23.png)
+![inline image](https://i.imgur.com/UwQfU23.png)
 
 ¹ Tenho que melhorar eles: na época que criei eram poucos dados para serem mostrados, agora com dois anos de animes é muita coisa. O mínimo que preciso fazer no momento é colocar limites de data.
