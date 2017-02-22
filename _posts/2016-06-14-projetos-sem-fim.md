@@ -14,15 +14,15 @@ No site a versão que aparece é a 0.2.6, só que essa numeração começou assi
 
 Eu perdi os arquivos da primeira versão, mas ainda tenho os da segunda versão: eles são de 2013. Essa versão teve essa pesquisa movida para uma barra superior, quando o site perdeu uma página inicial, que foi substituida por Chuvas de Graça. Depois a barra superior virou uma lateral e a página inicial foi recuperada, ainda que só um uma introdução sobre o que é o site. Essa versão foi a primeira que funcionou offline, permitiu baixar conteúdos para serem lidos offline. Era possível abrir duas guias e simular um modo de apresentação, igual acontece com slides. Também tinha música, comentários, histórico e favoritos:
 
-![inline image](http://i.imgur.com/nTdQWkd.png)
+![inline image](https://i.imgur.com/nTdQWkd.png)
 
 A versão que está online é de 2014. Foi criada para organizar melhor o código, separando em módulos. Foi nessa atualização que o site mudou de nome, com o objetivo de ter um nome mais único e ao mesmo tempo fácil de lembrar. Embora o objetivo disso fosse melhorar os resultados do site nos sites de pesquisa não adiantou nada, por causa do conteúdo. É a única versão que conta com sincronização via Firebase (i.e. WebSockets). A última atualização foi esse ano, onde Service Workers foram adicionados e houve a correção de alguns bugs que foram surgindo por causa de alterações nos navegadores assim como serviços que o site dependia e fecharam. Um *screenshot* , para a posteridade:
 
-![inline image](http://i.imgur.com/fNBOm3B.png)
+![inline image](https://i.imgur.com/fNBOm3B.png)
 
 Em 2015 resolvi fazer mais uma versão, dessa vez baseada no React. Meu objetivo nessa versão era criar um sistema que funcionasse com todo o código funcionando no cliente com o mínimo de confiança em qualquer servidor, possibilitando assim o site funcionar em cima de uma estrutura descentralizada e de certa forma resolvendo o grande problema do site: os custos do servidor, já que a Harpa tem 640 hinos e cada versão da Bíblia tem 1189 capítulos, ou seja, é muita coisa para colocar no plano gratuíto de alguma hospedagem. Acontece que por querer algo tão complicado o código ficou enorme e bem bagunçado, então depois de quatro meses desisti.
 
-![inline image](http://i.imgur.com/hVj1Jvm.png?1)
+![inline image](https://i.imgur.com/hVj1Jvm.png?1)
 
 Acontece que no início desse ano o site que está online começou a dar problemas: usávamos o site offline então o o computador que usávamos ficou sem espaço no disco e o Chrome simplesmente apagou tudo. Me vi em um dilema: eu poderia restaurar esses dados sem eliminar o risco de perdê-los, ou pensar em outra solução. Foi nisso que eu peguei a versão do React, eliminei a parte de criptografia que tinha deixado o código complicado e *fiz mais outra versão do site! * Dessa vez ao invés ao invés do aplicativo funcionar como um site e sofrer as limitações de um fiz ele funcionar no Electron, o que elimina o risco dos dados serem apagados automaticamente.
 
