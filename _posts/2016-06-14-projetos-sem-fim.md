@@ -10,7 +10,7 @@ Por definição um projeto seria algo que tem um início, um desenvolvimento e u
 
 No site a versão que aparece é a 0.2.6, só que essa numeração começou assim que eu comecei uma versão baseada em módulos AMD. Acontece que da primeira versão antes de começar essa numeração ainda houveram duas versões! A primeira era assim: duas páginas, uma para a Harpa e outra para a Bíblia, com uma caixa de texto no meio tipo o Google. Era complicado ficar passando de uma página para a outra, então na segunda versão unindo as duas. Eu tinha planejado de chamar ele de "Culto Online", mas eu perdi o domínio que eu tinha registrado (alguém de site de streaming de vídeos de cultos pegou ele). Então, *com muita criatividade,* chamei essa versão de “Harpa e Bíblia”. Ainda tenho um *mockup* que fiz enquanto fazia ele:
 
-![inline image](http://i.imgur.com/QZsPWfi.png)
+![inline image](https://i.imgur.com/QZsPWfi.png)
 
 Eu perdi os arquivos da primeira versão, mas ainda tenho os da segunda versão: eles são de 2013. Essa versão teve essa pesquisa movida para uma barra superior, quando o site perdeu uma página inicial, que foi substituida por Chuvas de Graça. Depois a barra superior virou uma lateral e a página inicial foi recuperada, ainda que só um uma introdução sobre o que é o site. Essa versão foi a primeira que funcionou offline, permitiu baixar conteúdos para serem lidos offline. Era possível abrir duas guias e simular um modo de apresentação, igual acontece com slides. Também tinha música, comentários, histórico e favoritos:
 
@@ -26,7 +26,7 @@ Em 2015 resolvi fazer mais uma versão, dessa vez baseada no React. Meu objetivo
 
 Acontece que no início desse ano o site que está online começou a dar problemas: usávamos o site offline então o o computador que usávamos ficou sem espaço no disco e o Chrome simplesmente apagou tudo. Me vi em um dilema: eu poderia restaurar esses dados sem eliminar o risco de perdê-los, ou pensar em outra solução. Foi nisso que eu peguei a versão do React, eliminei a parte de criptografia que tinha deixado o código complicado e *fiz mais outra versão do site! * Dessa vez ao invés ao invés do aplicativo funcionar como um site e sofrer as limitações de um fiz ele funcionar no Electron, o que elimina o risco dos dados serem apagados automaticamente.
 
-![inline image](http://i.imgur.com/FV96sMw.png)
+![inline image](https://i.imgur.com/FV96sMw.png)
 
 Então um projeto que começou antes de 2013 até hoje está sendo desenvolvido. Não sei se eu sou péssimo com projetos ou posso considerar que são vários projetos diferentes. Acho que essa segunda opção é ao mesmo tempo válida porém uma desculpa. Acontece que não é só esse site que sofre com esse problema, porém até projetos da área de engenharia que se deixar logo estarão completando um ano desde que começaram e nada de terminar.
 
