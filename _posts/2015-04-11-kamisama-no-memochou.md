@@ -19,7 +19,7 @@ problemas liderados pela Detetive NEET, Alice. Ah, não podemos esquecer
 NEET.
 
 E o que eles resolvem? Por acaso eles usam
-[*Toys*](http://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes)
+[*Toys*](https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes)
 para acabar com os vilões? Claro que não, são detetives normais, que
 usam de equipamentos de vigilância e até a força, se necessário. A
 diferença é que são NEETS e como disse antes a diferença disso com gente
