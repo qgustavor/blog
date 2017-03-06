@@ -7,11 +7,25 @@ modified: 2017-01-01 11:39:54 +0000
 excerpt: "Animes e mangás de 2017"
 ---
 
-[Lista do ano passado](https://qgustavor.tk/animes-assistidos-e-mangás-de-2016)
+[Lista do ano passado](https://qgustavor.tk/animes-e-mang%C3%A1s-de-2016/)
 
 **Terminados**:
 
--   [nenhum no momento]
+- Yuru Yuri San☆Hai!
+- Prison School
+- Paradise Kiss
+- So Ra No Wo To
+- Hanasaku Iroha
+- Kaichou wa Maid-sama!
+- True Tears
+- Sasameki Koto
+- Hagane no Renkinjutsushi (Fullmetal Alchemist Brotherhood)
+- ViVid Strike!
+- Okusama ga Seitokaichou!+!
+- Watashi ga Motete Dousunda
+- Anitore! XX
+- WWW.Working!!
+- Flip Flappers
 
 Animes pausados nesse ano e a motivação:
 
