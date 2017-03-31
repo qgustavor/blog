@@ -3,10 +3,10 @@ layout: post
 tags: []
 title: "Arrumando legendas"
 date: 2017-03-14 03:51:38 +0000
-excerpt: "*Isso moe minhas engrenagens * quando estou assistindo *uma* anime e leio *um subtítulo* escrito desse jeito. Cansei disso e resolvi..."
+excerpt: "*Isso moe minhas engrenagens* quando estou assistindo *uma* anime e leio *um subtítulo* escrito desse jeito. Cansei disso e resolvi..."
 ---
 
-*Isso moe minhas engrenagens * quando estou assistindo *uma* anime e leio *um subtítulo* escrito desse jeito. Cansei disso e resolvi *corrijir* esses *problema* eu mesmo.
+*Isso moe minhas engrenagens* quando estou assistindo *uma* anime e leio *um subtítulo* escrito desse jeito. Cansei disso e resolvi *corrijir* esses *problema* eu mesmo.
 
 Tive essa ideia quando fui assistir [OreShura](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) e vi uma situação meio estranha: o pessoal estava na aula de educação física e estavam nadando, quando perto da piscina aparece uma placa dizendo "Hoje: nado grátis!".
 
