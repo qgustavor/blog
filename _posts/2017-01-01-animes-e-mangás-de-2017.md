@@ -26,6 +26,17 @@ excerpt: "Animes e mangás de 2017"
 - Anitore! XX
 - WWW.Working!!
 - Flip Flappers
+- Danna ga Nani wo Itteiru ka Wakaranai Ken (de novo)
+- Bananya (nya, nya, nya...)
+- Alguns especiais e OVAs
+- Maria-sama ga Miteru
+- K-On!
+- Gi(a)rlish Number
+- Tamako Market
+- Outbreak Company
+- Himouto! Umaru-chanS (só depois de um ano vi que tinha terminado)
+- Shuumatsu no Izetta
+- Soushin Shoujo Matoi
 
 Animes pausados nesse ano e a motivação:
 
