@@ -37,6 +37,21 @@ excerpt: "Animes e mangás de 2017"
 - Himouto! Umaru-chanS (só depois de um ano vi que tinha terminado)
 - Shuumatsu no Izetta
 - Soushin Shoujo Matoi
+- Gabriel DropOut
+- Nyanko Days
+- Urara Meirochou
+- Mahou Shoujo Nante Mou Ii Desukara (a 2ª temporada)
+- Kuzu no Honkai
+- Danganronpa 3: Zetsubou-hen e Mirai-hen
+- One Room
+- Shinryaku! Ika Musume
+- Fruits Basket
+- Danganronpa 3: Kibou-hen
+- Honobono Log
+- Minami-ke
+- Ichigo 100%
+- Eureka Seven
+- Amagi Brilliant Park
 
 Animes pausados nesse ano e a motivação:
 
