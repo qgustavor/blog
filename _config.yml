@@ -26,6 +26,13 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
 
 # Site owner
 owner:
