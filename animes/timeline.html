@@ -30,7 +30,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
     <script src="anime-color.js"></script>
     
-    <div id="container" class="container"></div>
+    <div id="container" class="container">Carregando...</div>
     <script>
       google.setOnLoadCallback(function () {
         Tabletop.init({
@@ -51,8 +51,6 @@
         dataTable.addColumn({type: 'string', role: 'style'});
         dataTable.addColumn({type: 'date', id: 'Date'});
         dataTable.addColumn({type: 'date', id: 'Date 2'});
-
-        var padding = 30 * 60 * 1000; // 30 minutes
 
         var keys = {
           assistido: 'Assistido',
@@ -84,18 +82,22 @@
         });
 
         var data = assistido.map(function (e, n) {
-          var date = new Date(e[keys.data]),
-            next = names.indexOf(e[keys.nome], n + 1);
+          var date = new Date(e[keys.data])
+          var next = names.indexOf(e[keys.nome], n + 1)
+          var date2 = date
 
           if (next !== -1) {
             if (+assistido[next][keys.episodio] < +e[keys.episodio]) {
               return false;
             }
-            next = new Date(assistido[next][keys.data]);
-            return [e[keys.nome], e[keys.episodio], getAnimeColor(e[keys.nome]), date, new Date(+next - padding)];
-          } else {
-            return [e[keys.nome], e[keys.episodio], getAnimeColor(e[keys.nome]), date, new Date(+date + padding)];
+            date2 = new Date(assistido[next][keys.data])
           }
+          var color = getAnimeColor(e[keys.nome])
+          if (e[keys.episodio] % 2 === 0) {
+            color = color.darken(8)
+          }
+          var style = 'fill-color: ' + color.toString()
+          return [e[keys.nome], e[keys.episodio], style, date, date2];
         }).filter(function (e) {
           return e && ordem.indexOf(e[0]) < 38 && e[3].getTime() > minTime && names.indexOf(e[0]) !== names.lastIndexOf(e[0]);
         }).sort(function (a, b) {

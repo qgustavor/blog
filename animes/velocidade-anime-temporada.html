@@ -33,7 +33,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
     <script src="anime-color.js"></script>
     
-    <div id="container" class="container"></div>
+    <div id="container" class="container">Carregando...</div>
     <script>
       google.setOnLoadCallback(function () {
         Tabletop.init({
@@ -160,7 +160,7 @@
               ) + '</div><div class="anime-data">' + title + '<br>' +
                 animeData[keys.episodios] + ' episódio' + (animeData[keys.episodios] === 1 ? '' : 's') +
               '<br>Tempo assistindo / exibindo: ' + ratio.toFixed(3) + '</div>',
-              getAnimeColor(anime)
+              getAnimeColor(anime).toString()
             ];
           }));
         }, [])

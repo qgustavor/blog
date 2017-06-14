@@ -13,7 +13,7 @@
       overflow: none;
     }
     
-    .example {
+    .container {
       position: absolute;
       top: 0;
       left: 0;
@@ -65,7 +65,7 @@
 
 <body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
-  <div id="example1" class="example"></div>
+  <div id="container" class="container">Carregando...</div>
   <script>
     Tabletop.init({
       key: '1kW8dzToIjyumRM5US4o2dHB8mwBhuOw81KPKGMy6YZE',
@@ -73,7 +73,7 @@
     });
 
     function fetchCallback(sheets, tabletop) {
-      var container = document.getElementById('example1');
+      var container = document.getElementById('container');
       var timeInterval = 864e5 * 7;
       var isoFixDelta = 3456e5 - 864e5;
       var lastEp = {};

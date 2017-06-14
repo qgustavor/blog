@@ -25,7 +25,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
     <script src="anime-color.js"></script>
     
-    <div id="container" class="container"></div>
+    <div id="container" class="container">Carregando...</div>
     <script>
       google.setOnLoadCallback(function () {
         Tabletop.init({
@@ -95,7 +95,7 @@
               )) +
               (interval < 6e4 || maxDate === globalMaxDate ? // Less than 60 seconds don't show the interval
                 '' : (' (' + formatTimeInterval(interval) + ')')),
-            getAnimeColor(anime[keys.nome]),
+            getAnimeColor(anime[keys.nome]).toString(),
             minDate, maxDate
           ];
         }).filter(function(e) {return e;});
