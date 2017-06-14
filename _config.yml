@@ -26,6 +26,13 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
 
 # Site owner
 owner:
@@ -33,7 +40,7 @@ owner:
   avatar: https://i.imgur.com/EEiJYYE.png
   bio: "Escrevo sobre programas, animes e um pouco mais."
   email:
-  disqus-shortname:
+  disqus-shortname: qgustavor
   twitter: qgustavor #username
   facebook: #username
   google:
