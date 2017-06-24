@@ -12,7 +12,7 @@
       padding: 0;
       overflow: none;
     }
-    
+
     .container {
       position: absolute;
       top: 0;
@@ -29,7 +29,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
     <script src="anime-color.js"></script>
-    
+
     <div id="container" class="container">Carregando...</div>
     <script>
       google.setOnLoadCallback(function () {
@@ -43,7 +43,6 @@
         var container = document.getElementById('container');
 
         var chart = new google.visualization.Timeline(container);
-
         var dataTable = new google.visualization.DataTable();
 
         dataTable.addColumn({type: 'string', id: 'Anime'});
@@ -92,10 +91,7 @@
             }
             date2 = new Date(assistido[next][keys.data])
           }
-          var color = getAnimeColor(e[keys.nome])
-          if (e[keys.episodio] % 2 === 0) {
-            color = color.darken(8)
-          }
+          var color = getAnimeColor(e[keys.nome], e[keys.episodio] % 2 === 0, sheets)
           var style = 'fill-color: ' + color.toString()
           return [e[keys.nome], e[keys.episodio], style, date, date2];
         }).filter(function (e) {
@@ -112,7 +108,7 @@
           clearTimeout(renderTimer);
           renderTimer = setTimeout(doDraw, nextRender - Date.now());
         });
-        
+
         doDraw();
 
         function doDraw () {

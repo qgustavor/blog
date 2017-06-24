@@ -95,7 +95,7 @@
               )) +
               (interval < 6e4 || maxDate === globalMaxDate ? // Less than 60 seconds don't show the interval
                 '' : (' (' + formatTimeInterval(interval) + ')')),
-            getAnimeColor(anime[keys.nome]).toString(),
+            getAnimeColor(anime[keys.nome], false, sheets).toString(),
             minDate, maxDate
           ];
         }).filter(function(e) {return e;});

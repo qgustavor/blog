@@ -160,7 +160,7 @@
               ) + '</div><div class="anime-data">' + title + '<br>' +
                 animeData[keys.episodios] + ' episódio' + (animeData[keys.episodios] === 1 ? '' : 's') +
               '<br>Tempo assistindo / exibindo: ' + ratio.toFixed(3) + '</div>',
-              getAnimeColor(anime).toString()
+              getAnimeColor(anime, false, sheets).toString()
             ];
           }));
         }, [])
