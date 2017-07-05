@@ -52,6 +52,16 @@ excerpt: "Animes e mangás de 2017"
 - Ichigo 100%
 - Eureka Seven
 - Amagi Brilliant Park
+- Nana
+- Stella no Mahou
+- Fate/stay night
+- Yuyushiki
+- Carnival Phantasm
+- Haikyuu!!
+- Shibainuko-san
+- Udon no Kuni no Kiniro Kemari
+- Mushishi Zoku Shou
+- Suzumiya Haruhi-chan no Yuuutsu
 
 Animes pausados nesse ano e a motivação:
 
