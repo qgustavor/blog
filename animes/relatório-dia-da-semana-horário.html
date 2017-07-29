@@ -43,7 +43,8 @@
     .day-list {
       display: none;
       position: fixed;
-      left: 0;
+      left: 12.5%;
+      left: calc(100% / 8);
       top: 0;
       right: 0;
       bottom: 0;
@@ -51,6 +52,25 @@
       padding: 5vh 10vw;
       margin: 0;
       overflow-y: auto;
+      pointer-events: none;
+    }
+    
+    .day-list::before {
+      content: 'x';
+      position: fixed;
+      left: 0;
+      width: 12.5%;
+      width: calc(100% / 8);
+      top: 0;
+      bottom: 0;
+      background: #444;
+      color: #F4F4F4;
+      font-size: 5em;
+      text-align: center;
+    }
+    
+    .day-list li:first-child {
+      list-style: none;
     }
     
     .day-cell:focus .day-list {
