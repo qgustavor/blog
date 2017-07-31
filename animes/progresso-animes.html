@@ -133,7 +133,7 @@
             index = days.length
             var line = [watchedDate]
             names.forEach(function (name) {
-              line.push(-1, name)
+              line.push(-1, name + ' - ' + watchedDate.toLocaleDateString())
             })
             data.push(line)
             days.push(roundedDate)
