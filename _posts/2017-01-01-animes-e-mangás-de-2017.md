@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2017
 date: 2016-01-01 11:39:54 +0000
-modified: 2017-01-01 11:39:54 +0000
+modified: 2017-08-02 11:44:00 +0000
 excerpt: "Animes e mangás de 2017"
 ---
 
@@ -62,9 +62,21 @@ excerpt: "Animes e mangás de 2017"
 - Udon no Kuni no Kiniro Kemari
 - Mushishi Zoku Shou
 - Suzumiya Haruhi-chan no Yuuutsu
+- Choboraunyopomi Gekijou Ai Mai Mii
+- School Days
+- Air
+- Shokugeki no Souma
+- Hikaru no Go
+- Omoide no Marnie
+- Kizumonogatari I: Tekketsu-hen
+- Inugami-san to Nekoyama-san
+- Strawberry Panic (♥)
+- Acchi Kocchi
+- Kanamemo
+- Coquelicot-zaka kara
 
 Animes pausados nesse ano e a motivação:
 
--   [nenhum no momento]
+-   Sekirei: não estou com vontade de assistir ecchi...
 
 Outros animes podem ser encontrados no meu [MyAnimeList](https://myanimelist.net/animelist/qgustavor).
