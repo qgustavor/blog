@@ -1,9 +1,9 @@
 ---
 layout: post
 tags: []
-title: "Aoi Hana"
+title: "Sasameki Koto"
 date: 2017-08-01 03:51:38 +0000
-excerpt: "Duas garotas que eram por muito tempo grandes amigas. Uma delas resolveu declarar ao mundo que gostava de garotas. A outra não tinha..."
+excerpt: ""
 ---
 
 Duas garotas que eram por muito tempo grandes amigas. Uma delas resolveu declarar ao mundo que gostava de garotas. A outra não tinha coragem de confessar o amor dela.
@@ -14,4 +14,6 @@ Então ela resolveu falar com aquelas duas garotas. As duas não esconderam que 
 
 Só que a garota tímida não estava tão animada assim: ela se achava um pouco feia e pensava que sua amiga não iria aceitá-la. Ficou inventando desculpas para não participar.
 
-Gostei da história, decorei a letra da abertura, é tudo tão bonitinho, fofo, um romance bem interessante.
+Gostei da história, <strike>decorei a letra da abertura,</strike> é tudo tão bonitinho, fofo, um romance bem interessante.
+
+Nota: era para ser Aoi Hana, mas eu tinha confundi esse anime com Sasameki Koto (menos pela parte da letra) já que as protagonistas são uma a cada da outra e resolvi deixar assim mesmo e mudar a ordem das postagens!
