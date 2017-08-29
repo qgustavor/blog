@@ -2,7 +2,8 @@
 layout: post
 tags: []
 title: "Mania de \"english\""
-date: 2017-08-22 03:51:37 +0000
+date: 2017-08-29 03:51:37 +0000
+last-modified: 2017-08-22 03:51:37 +0000
 excerpt: "Falar em inglês quando não é necessário é muita modinha. E não me refiro as enormes listas de estrangeirismos desnecessários, todo mundo..."
 ---
 
