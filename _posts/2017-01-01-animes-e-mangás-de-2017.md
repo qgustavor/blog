@@ -74,6 +74,16 @@ excerpt: "Animes e mangás de 2017"
 - Acchi Kocchi
 - Kanamemo
 - Coquelicot-zaka kara
+- Shokupan Mimi
+- Fate/kaleid liner Prisma☆Illya
+- Oshiete! Galko-chan
+- Yuri Kuma Arashi (♥)
+- Ookami Kodomo no Ame to Yuki
+- 3-gatsu no Lion
+- Katanagatari (como uma katana é longo e <strike>chato</strike> maneiro)
+- Aria The Animation
+- Recorder to Randoseru Do♪
+- Tonari no Kaibutsu-kun: Tonari no Gokudou-kun, Yurumates, Yuyushiki: Komarasetari, Komarasaretari e Hiyokoi
 
 Animes pausados nesse ano e a motivação:
 
