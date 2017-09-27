@@ -84,9 +84,18 @@ excerpt: "Animes e mangás de 2017"
 - Aria The Animation
 - Recorder to Randoseru Do♪
 - Tonari no Kaibutsu-kun: Tonari no Gokudou-kun, Yurumates, Yuyushiki: Komarasetari, Komarasaretari e Hiyokoi
+- Shuffle! (wow)
+- Morita-san wa Mukuchi.
+- Tari Tari
+- K-On!!
+- Love Live! School Idol Project (nico nico nii!)
+- Fushigi no Kuni no Miyuki-chan, Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland, Hiyokoi (2012), Anime Tenchou e Uma no Friends
+- Koneko no Chii: Ponponra Daibouken (assisti tudo em japonês, yeay!)
+- Chitose Get You!!
+- Nyanpire The Animation
 
 Animes pausados nesse ano e a motivação:
 
--   Sekirei: não estou com vontade de assistir ecchi...
+-   Sekirei: não estou com vontade de assistir...
 
 Outros animes podem ser encontrados no meu [MyAnimeList](https://myanimelist.net/animelist/qgustavor).
