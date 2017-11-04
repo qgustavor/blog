@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Animes e mangás de 2017
 date: 2016-01-01 11:39:54 +0000
-modified: 2017-08-02 11:44:00 +0000
+modified: 2017-11-04 11:44:00 +0000
 excerpt: "Animes e mangás de 2017"
 ---
 
@@ -93,9 +93,23 @@ excerpt: "Animes e mangás de 2017"
 - Koneko no Chii: Ponponra Daibouken (assisti tudo em japonês, yeay!)
 - Chitose Get You!!
 - Nyanpire The Animation
+- Stella Jogakuin Koutou-ka C³-bu
+- Kizumonogatari II: Nekketsu-hen
+- Hinako Note
+- Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
+- Eromanga-sensei
+- Hajimete no Gal
+- Maburaho
+- Kono Subarashii Sekai ni Shukufuku wo! 2
+- Kimi no Na wa. (♥♥♥!)
+- Koi to Uso
+- xxxHOLIC
+- Mangirl!
+- Sagrada Reset
+- Kemono Friends (♥)
 
 Animes pausados nesse ano e a motivação:
 
--   Sekirei: não estou com vontade de assistir...
+-   Sekirei e Machine-Doll wa Kizutsukanai: não estou com vontade de assistir ecchi no momento...
 
 Outros animes podem ser encontrados no meu [MyAnimeList](https://myanimelist.net/animelist/qgustavor).
