@@ -44,6 +44,8 @@ assisto como objeto de estudo.
 * [Relação de episódios por dia da semana e horário](https://qgustavor.tk/animes/relatório-dia-da-semana-horário);
 * [Relação da velocidade em que um anime foi assistido em relação ao número de episódios](https://qgustavor.tk/animes/velocidade-anime);
 * [Relação da velocidade em que um anime foi assistido em relação ao tempo de exibição](https://qgustavor.tk/animes/velocidade-anime-temporada);
+* [Média móvel das notas de animes por mês](https://qgustavor.tk/animes/media-notas-por-mes);
+* [Gráfico da porcentagem de gêneros de animes por mês](https://qgustavor.tk/animes/generos-por-mes);
 
 ----------
 
