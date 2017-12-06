@@ -96,7 +96,7 @@ excerpt: "Animes e mangás de 2017"
 - Stella Jogakuin Koutou-ka C³-bu
 - Kizumonogatari II: Nekketsu-hen
 - Hinako Note
-- Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
+- Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka? (eita nome grande)
 - Eromanga-sensei
 - Hajimete no Gal
 - Maburaho
@@ -107,9 +107,21 @@ excerpt: "Animes e mangás de 2017"
 - Mangirl!
 - Sagrada Reset
 - Kemono Friends (♥)
+- Owarimonogatari 2nd Season (a CR BR não é tão ruim assim)
+- Osomatsu-san
+- Tsukuyomi: Moon Phase (😺)
+- Recorder to Randoseru Re♪
+- Teekyuu
+- Goku Sayonara Zetsubou Sensei
+- Aho Girl
+- Nyoro-n Churuya-san
+- Boku no Hero Academia
+- Lovely★Complex (♥)
+- Kill Me Baby
 
 Animes pausados nesse ano e a motivação:
 
--   Sekirei e Machine-Doll wa Kizutsukanai: não estou com vontade de assistir ecchi no momento...
+- Sekirei e Machine-Doll wa Kizutsukanai: não estou com vontade de assistir ecchi no momento...
+- Gintama: começou a ficar chato e a fansub que eu estava assistindo estava bem ruim.
 
 Outros animes podem ser encontrados no meu [MyAnimeList](https://myanimelist.net/animelist/qgustavor).
