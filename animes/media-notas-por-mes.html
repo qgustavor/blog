@@ -19,11 +19,24 @@ html, body {
   margin: 0;
   padding: 0;
 }
+path[fill="#3366cc"] {
+  fill: url(#area-gradient);
+  fill-opacity: 0.5;
+}
 </style>
 
 <script src="https://www.gstatic.com/charts/loader.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.2/tabletop.min.js"></script>
 <div id="container" class="container">Carregando...</div>
+
+<svg width="0" height="0">
+  <defs>
+    <linearGradient id="area-gradient" x1="0%" y1="0%" x2="0%" y2="20%">
+      <stop offset="0%"   stop-color="#36c"/>
+      <stop offset="100%" stop-color="rgba(51, 102, 204, 0.01)"/>
+    </linearGradient>
+  </defs>
+</svg>
 
 <script>
 google.charts.load('current', {'packages': ['corechart']})
@@ -130,7 +143,7 @@ function fetchCallback (sheets, tabletop) {
     }
   }
 
-  var chart = new google.visualization.LineChart(container)
+  var chart = new google.visualization.AreaChart(container)
   var nextRender
   var renderTimer = null
   window.addEventListener('resize', function () {

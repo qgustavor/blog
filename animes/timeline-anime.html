@@ -78,7 +78,7 @@ function fetchCallback (sheets, tabletop) {
   }, {})
 
   assistido.sort(function (a, b) {
-    return a[keys.data] > b[keys.data]
+    return a[keys.data].localeCompare(b[keys.data])
   }).forEach(function (e) {
     var animeSeasons = seasons[e[keys.nome]]
     var lastSeason = animeSeasons[animeSeasons.length - 1]
