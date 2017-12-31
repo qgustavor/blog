@@ -118,6 +118,15 @@ excerpt: "Animes e mangás de 2017"
 - Boku no Hero Academia
 - Lovely★Complex (♥)
 - Kill Me Baby
+- Mawaru Penguindrum
+- Teekyuu 2
+- Aiura
+- GJ-bu
+- Nichijou
+- Ai Mai Mii (assisti a maratona do anime que passou na TV)
+- New Game!!
+
+Termino o ano com 689 animes completos na lista geral e 115 na lista acima. Consegui melhorar um pouco o ritmo em relação ao ano passado, apesar das dificuldades. Ficou faltando três animes apenas um episódio para eu terminar no último dia do ano, se eu chegar a assistir eles antes do ano acabar eu edito essa postagem depois.
 
 Animes pausados nesse ano e a motivação:
 
