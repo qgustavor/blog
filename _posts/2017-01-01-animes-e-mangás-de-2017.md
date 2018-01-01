@@ -24,7 +24,7 @@ excerpt: "Animes e mangás de 2017"
 - Okusama ga Seitokaichou!+!
 - Watashi ga Motete Dousunda
 - Anitore! XX
-- WWW.Working!!
+- `WWW.Working!!`
 - Flip Flappers
 - Danna ga Nani wo Itteiru ka Wakaranai Ken (de novo)
 - Bananya (nya, nya, nya...)
@@ -125,8 +125,11 @@ excerpt: "Animes e mangás de 2017"
 - Nichijou
 - Ai Mai Mii (assisti a maratona do anime que passou na TV)
 - New Game!!
+- Imouto sae Ireba ii
+- Himouto! Umaru-chan R
+- Kobayashi-san no Maid Dragon (comecei o último episódio em 2017, então tá valendo)
 
-Termino o ano com 689 animes completos na lista geral e 115 na lista acima. Consegui melhorar um pouco o ritmo em relação ao ano passado, apesar das dificuldades. Ficou faltando três animes apenas um episódio para eu terminar no último dia do ano, se eu chegar a assistir eles antes do ano acabar eu edito essa postagem depois.
+Termino o ano com 689 animes completos na lista geral e 115 na lista acima. Consegui melhorar um pouco o ritmo em relação ao ano passado, apesar das dificuldades. ~~Ficou faltando três animes apenas um episódio para eu terminar no último dia do ano, se eu chegar a assistir eles antes do ano acabar eu edito essa postagem depois.~~
 
 Animes pausados nesse ano e a motivação:
 
