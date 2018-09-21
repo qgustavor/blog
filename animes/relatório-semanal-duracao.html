@@ -70,8 +70,12 @@ function fetchCallback (sheets, tabletop) {
 
     lastEp[nome] = +e[keys.episodio]
     var animeIndex = animeNames.indexOf(nome)
-    var duracao = animeIndex === -1 ? 23 : (animeInfo[animeIndex][keys.duracao] || 23)
-    acc.horas[day] = (acc.horas[day] || 0) + (epNum * duracao)
+    var episodeLength = animeIndex === -1 ? null : (Number(animeInfo[animeIndex][keys.duracao]) || null)
+    if (episodeLength === null) {
+      console.log('Using default episode length for', nome)
+      episodeLength = 24
+    }
+    acc.horas[day] = (acc.horas[day] || 0) + (epNum * episodeLength)
     acc.episodios[day] = (acc.episodios[day] || 0) + epNum
 
     return acc
