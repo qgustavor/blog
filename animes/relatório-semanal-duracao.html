@@ -63,10 +63,8 @@ function fetchCallback (sheets, tabletop) {
 
     var day = Math.floor(date.valueOf())
 
-    // Rewatching:
-    if (epNum <= 0) {
-      epNum = +e[keys.episodio]
-    }
+    // Handle rewatching as just one episode
+    if (epNum <= 0) epNum = 1
 
     lastEp[nome] = +e[keys.episodio]
     var animeIndex = animeNames.indexOf(nome)

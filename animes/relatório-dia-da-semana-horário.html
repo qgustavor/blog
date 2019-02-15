@@ -118,10 +118,8 @@ function fetchCallback (sheets, tabletop) {
       if (date < minDate) {
         return acc
       }
-      // Rewatching:
-      if (epNum <= 0) {
-        epNum = +e[keys.episodio]
-      }
+      // Handle rewatching as just one episode
+      if (epNum <= 0) epNum = 1
       lastEp[nome] = +e[keys.episodio]
       acc[slot].count += epNum
       acc[slot].list[nome] = true
