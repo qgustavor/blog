@@ -10,7 +10,7 @@ excerpt: "Vamos falar da Haruhi, para quem não sabe é a toda poderosa dos anim
 ---
 
 Notem que pulei Sukitte Ii na yo. por que o que eu iria postar é a mesma
-coisa do [ano passado](https://qgustavor.tk/sukitte-ii-na-yo). Além do
+coisa do [ano passado](https://qgustavor.github.io/blog/sukitte-ii-na-yo). Além do
 que como é outro anime shoujo, onde é quase sempre a mesma coisa, vivo
 confundindo as histórias deles.
 

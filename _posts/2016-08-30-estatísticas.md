@@ -16,7 +16,7 @@ No momento que escrevo tenho 448 animes terminados, estou assistindo 15, 15 est�
 
 Voltando a planilha: tenho já 3675 episódios cadastrados nela, com a data e o horário que atualizei a lista. Desde que criei ela melhorou muito: antigamente eu tinha que ficar registrando manualmente os animes que assisto, agora ela já pega tudo do MyAnimeList (e alguns dados do HummingBird), o que dá uns 512 animes cadastrados.
 
-Enfim, é muita coisa, foram mais de 200 animes por ano e ainda quero terminar esse ano com mais 500 animes assistidos - embora pareça difícil pois meu ritmo [está gradativamente diminuindo](https://qgustavor.tk/animes/relat%C3%B3rio-semanal-horas) devido a vários problemas, principalmente a minha formatura se aproximando. Espero que eu consiga me recuperar disso. De certa forma, para tentar conseguir isso procurei automatizar mais ainda a forma que assisto animes, espero que ajude.
+Enfim, é muita coisa, foram mais de 200 animes por ano e ainda quero terminar esse ano com mais 500 animes assistidos - embora pareça difícil pois meu ritmo [está gradativamente diminuindo](https://qgustavor.github.io/blog/animes/relat%C3%B3rio-semanal-horas) devido a vários problemas, principalmente a minha formatura se aproximando. Espero que eu consiga me recuperar disso. De certa forma, para tentar conseguir isso procurei automatizar mais ainda a forma que assisto animes, espero que ajude.
 
 Por último queria mostrar uma coisinha sobre esse último gráfico (que fiz no Paint… sim, eu li tutoriais de pixel art quando era criança… e sei que mesmo assim não ficou tão bom):
 

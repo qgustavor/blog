@@ -7,7 +7,7 @@ modified: 2017-11-04 11:44:00 +0000
 excerpt: "Animes e mangás de 2017"
 ---
 
-[Lista do ano passado](https://qgustavor.tk/animes-e-mang%C3%A1s-de-2016/)
+[Lista do ano passado](https://qgustavor.github.io/blog/animes-e-mang%C3%A1s-de-2016/)
 
 **Terminados**:
 

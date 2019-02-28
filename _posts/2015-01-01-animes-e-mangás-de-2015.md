@@ -10,7 +10,7 @@ redirect_from:
 excerpt: "Animes e mangás de 2015"
 ---
 
-[Lista do ano passado](https://qgustavor.tk/animes-assistidos-e-mangás-de-2014)
+[Lista do ano passado](https://qgustavor.github.io/blog/animes-assistidos-e-mangás-de-2014)
 
 **Terminados**:
 

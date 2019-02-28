@@ -10,16 +10,16 @@ excerpt: "Animes e mangás de 2014"
 ---
 
 Anos anteriores:
-[2013](https://qgustavor.tk/animes-assistidos-e-mangás-de-2013)
+[2013](https://qgustavor.github.io/blog/animes-assistidos-e-mangás-de-2013)
 
 Terminados:
 
--   [Pupa](https://qgustavor.tk/pupa-horror-em-micro-episódios)
--   [SakuraTrick](https://qgustavor.tk/sakura-trick-muito-amor-para-um-anime-só)
--   [Kamisama no InaiNichiyoubi](https://qgustavor.tk/kamisama-no-inai-nichiyoubi)
+-   [Pupa](https://qgustavor.github.io/blog/pupa-horror-em-micro-episódios)
+-   [SakuraTrick](https://qgustavor.github.io/blog/sakura-trick-muito-amor-para-um-anime-só)
+-   [Kamisama no InaiNichiyoubi](https://qgustavor.github.io/blog/kamisama-no-inai-nichiyoubi)
 -   Witch Craft Works
--   [Noragami](https://qgustavor.tk/noragami)
--   [Joshiraku](https://qgustavor.tk/joshiraku-uma-comedia-bem-japonesa)
+-   [Noragami](https://qgustavor.github.io/blog/noragami)
+-   [Joshiraku](https://qgustavor.github.io/blog/joshiraku-uma-comedia-bem-japonesa)
 -   Gingitsune
 -   Sukitte Ii na yo
 -   Nisekoi

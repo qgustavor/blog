@@ -7,7 +7,7 @@ modified: 2016-10-26 12:00:00 +0000
 excerpt: "Animes e mangás de 2016"
 ---
 
-[Lista do ano passado](https://qgustavor.tk/animes-assistidos-e-mangás-de-2015)
+[Lista do ano passado](https://qgustavor.github.io/blog/animes-assistidos-e-mangás-de-2015)
 
 **Terminados**:
 

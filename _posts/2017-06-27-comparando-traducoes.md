@@ -22,7 +22,7 @@ Por outro lado nas Bíblias online já vi vários problemas, bem, claro porque e
 
 Números 2 na Bíblia Viva é um campeão de erros: na versão impressa há uma tabela e alguns sites não formatam ela corretamente. Alguns até tentam dar uma melhorada na apresentação, mas até agora não vi nenhum site colocar essa parte da mesma forma que está no original. Claro que ninguém vai querer arrumar isso, pois já lançaram a Nova Bíblia Viva.
 
-Mas, [como já falei ano passado](https://qgustavor.tk/notas-de-traducao/), João Batista e os outros apóstolos também tem um pouco de culpa nisso: para quem não sabe o Velho Testamento foi escrito principalmente em hebraico, que era a língua falada em Israel, mas o Novo Testamento foi escrito em… Grego! Por quê? Provavelmente pois os apóstolos não queriam que os judeus lessem, porém os não-judeus.
+Mas, [como já falei ano passado](https://qgustavor.github.io/blog/notas-de-traducao/), João Batista e os outros apóstolos também tem um pouco de culpa nisso: para quem não sabe o Velho Testamento foi escrito principalmente em hebraico, que era a língua falada em Israel, mas o Novo Testamento foi escrito em… Grego! Por quê? Provavelmente pois os apóstolos não queriam que os judeus lessem, porém os não-judeus.
 
 Mas conseguem perceber um problema nisso? Eles não falavam grego em Israel, eles falavam, nessa época ( e desde que saíram do cativeiro na Babilônia ) aramaico, logo todas as partes do Novo Testamento que retratam situações que aconteceram em Israel são traduções e o que lemos hoje na Bíblia são traduções de traduções.
 

@@ -18,7 +18,7 @@ mas não seguindo o modelo de resenhas.
 
 **Edição:** alguns animes desde que postei isso (a lista completa está
 no [post anual de
-animes](https://qgustavor.tk/animes-e-mangas-de-2014)):
+animes](https://qgustavor.github.io/blog/animes-e-mangas-de-2014)):
 
 -   Clannad e Clannad: AfterStory
 -   Sakurasou no Pet na Kanojo

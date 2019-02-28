@@ -7,7 +7,7 @@ date: 2015-09-15 09:00:00 -0300
 modified: 2015-09-16 18:10:00 -0300
 ---
 
-Esse final de semana fiz a [tão prometida mudança](https://qgustavor.tk/termina-o-1animepordia) no site para colocar HTTPS nele (e não ficar só na palavra). O motivo de ter demorado tanto foi encontrar um novo lugar para colocar o site já que o Tumblr não permitia a mudança. Dessa forma, após experiencias com os *side projects* escolhi o GitHub Pages.
+Esse final de semana fiz a [tão prometida mudança](https://qgustavor.github.io/blog/termina-o-1animepordia) no site para colocar HTTPS nele (e não ficar só na palavra). O motivo de ter demorado tanto foi encontrar um novo lugar para colocar o site já que o Tumblr não permitia a mudança. Dessa forma, após experiencias com os *side projects* escolhi o GitHub Pages.
 
 Não foi uma escolha fácil nem uma transição suave: perdi funções como pesquisa (agora dependo do Google para isso) e agendamento de postagens (que agora está dependendo do meu computador ligado). Além disso não encontrei uma ferramenta para importar as postagens que fosse fácil de usar ou que não tivesse defeitos.
 
