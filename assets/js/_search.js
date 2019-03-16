@@ -174,7 +174,7 @@ g.p+"worker.js")}},function(e,b){var g=window.URL||window.webkitURL;e.exports=fu
     if (cachedData) return cachedData;
     var deferred = $.Deferred();
     $.ajax({
-      url: '/search-index.json',
+      url: 'https://qgustavor.github.io/blog/search-index.json',
       dataType: 'json',
       cache: true
     }).then(function (data) {
