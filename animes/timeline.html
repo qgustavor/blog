@@ -27,7 +27,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.1.2/tinycolor.min.js"></script>
 <script src="anime-color.js"></script>
 
-<div id="container" class="container">Carregando...</div>
+<div id="container" class="container">Carregando / Loading </div>
 <script>
 google.charts.load('current', {'packages': ['timeline']})
 google.charts.setOnLoadCallback(function () {
@@ -89,7 +89,7 @@ function fetchCallback (sheets, tabletop) {
     var next = names.indexOf(e[keys.nome], n + 1)
     var date2 = date
     if (next !== -1) {
-      if (+assistido[next][keys.episodio] < +e[keys.episodio]) {
+      if (+assistido[next][keys.episodio] <= +e[keys.episodio]) {
         return false
       }
       date2 = new Date(assistido[next][keys.data])
