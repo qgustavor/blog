@@ -3,10 +3,10 @@ layout: post
 tags: []
 title: "Notas de tradução"
 date: 2019-05-22 03:51:52 +0000
-excerpt: "Algo que *não * está em moda hoje em dia são notas de tradução... por vários motivos:  Elas atrapalham quem não lê rapidamente gerando o..."
+excerpt: "Algo que *não* está em moda hoje em dia são notas de tradução... por vários motivos:  Elas atrapalham quem não lê rapidamente gerando o..."
 ---
 
-Algo que *não * está em moda hoje em dia são notas de tradução... por vários motivos:
+Algo que *não* está em moda hoje em dia são notas de tradução... por vários motivos:
 
 Elas atrapalham quem não lê rapidamente gerando o incômodo de ter que pausar o vídeo para ler, impedindo a experiência de deitar, dar play, esquecer o controle e relaxar. Além disso há vários casos de notas redundantes, explicando coisas que eram óbvias para qualquer um que tenha bom senso ou que estava prestando atenção nos episódios anteriores. Notas explicando referências tendem à explicar apenas as óbvias, ignorando referências obscuras. Finalmente há notas estilizadas de forma tal que não é possível determinar rapidamente que se trata de uma nota e não uma fala.
 
