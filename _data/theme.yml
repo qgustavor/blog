@@ -1,0 +1,25 @@
+# Theme Skin
+skin: steel # default, night, plum, sea, soft, steel
+
+# Theme Text
+t:
+  skip_links: "Pular links"
+  skip_primary_nav: "Pular para a navegação primária"
+  skip_content: "Pular para o conteúdo"
+  skip_footer: "Pular para o rodapé"
+  menu: "Menu"
+  search: "Pesquisar"
+  site_search: "Pesquisar no site"
+  results_found: "Resultado(s) encontrado(s)"
+  search_placeholder_text: "O que deseja pesquisar?"
+  home: "Início"
+  newer: "Postagens mais novas"
+  older: "Postagens mais antigas"
+  email: "E-mail"
+  subscribe: "Acompanhe o feed"
+  read_more: "Leia mais"
+  posts: "Postagens"
+  page: "Página"
+  of: "de"
+  min_read: "min"
+  present: "Presente"

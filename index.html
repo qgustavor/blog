@@ -1,0 +1,21 @@
+---
+layout: page
+alt_title: "O blog do qgustavor"
+introduction: |
+  Um blog sobre animes, projetos aleatórios, entre outras coisas.
+---
+
+<img class="side-image" src="/assets/hakase.png" alt="">
+
+<div class="entries-grid">
+{% for post in site.posts limit:4 %}
+  {% include entry.html %}
+{% endfor %}
+</div>
+
+<!-- Pagination links -->
+<nav class="pager">
+  <ul>
+    <li><a href="posts/" class="next">Veja mais postagens <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></li>
+  </ul>
+</nav>

@@ -1,0 +1,32 @@
+<ul class="contact-list">
+  {% if site.github_username %}
+    <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
+  {% endif %}
+
+  {% if site.twitter_username %}
+    <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
+  {% endif %}
+
+  <li>
+    <a href="https://anilist.co/user/qgustavor" title="AniList">
+      <span class="icon icon--anilist">{% include icon-calendar.svg %}</span>
+      <span class="label">AniList</span>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://stackoverflow.com/users/1850091/gustavo-rodrigues" title="StackOverflow">
+      <span class="icon icon--stackoverflow">{% include icon-stackoverflow.svg %}</span>
+      <span class="label">StackOverflow</span>
+    </a>
+  </li>
+
+  <li>
+    {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
+      <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
+        <span class="icon icon--rss">{% include icon-rss.svg %}</span>
+        <span class="label">{{ site.data.theme.t.subscribe | default: 'Subscribe' }}</span>
+      </a>
+    {% endif %}
+  </li>
+</ul>
