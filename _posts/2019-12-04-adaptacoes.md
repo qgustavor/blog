@@ -54,6 +54,6 @@ Falando na minoria há um tipo de adaptação que eu sinto falta nas traduções
 
 ![Eu sei que um tapinha não doi, mas isso é um pouco demais… (é uma referência de uma música de MC Naldinho)](https://i.imgur.com/TEfWxeY.png)
 
-Pessoal, por que vocês traduzem animes de comédia como se estivessem fazendo a tarefa de casa ou um artigo científico. Isso vale não só para os tradutores mas os revisores também: não tem problema deixarem um “né” no lugar de “não é”.
+Pessoal, por que vocês traduzem animes de comédia como se estivessem fazendo a tarefa de casa ou um artigo científico? Isso vale não só para os tradutores mas os revisores também: não tem problema deixarem um “né” no lugar de “não é”.
 
 Se o anime é para rir, para quê ficarem tão sérios?!
