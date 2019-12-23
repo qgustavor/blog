@@ -1,0 +1,55 @@
+{% unless true or page.comments_locked == true %}
+  <!-- Start new comment form -->
+  <div id="respond" class="comment__form">
+    <h2 class="title">
+      Deixe um comentário
+      <small>
+        <a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancelar resposta</a>
+      </small>
+    </h2>
+    <form id="comment-form" class="js-form" method="post" action="https://example.com/submit-comment/{{ site.repository }}">
+      <div class="form__group">
+        <label for="comment-form-name">
+          <strong>Nome</strong>
+          <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false">
+        </label>
+
+        <label for="comment-form-email">
+          <strong>E-mail</strong> <small>(para o <a href="http://gravatar.com">Gravatar</a>)</small>
+          <input type="email" id="comment-form-email" name="fields[email]" required spellcheck="false">
+        </label>
+
+        <label for="comment-form-url">
+          <strong>Website</strong> <small>(opcional)</small>
+          <input type="url" id="comment-form-url" name="fields[url]"/>
+        </label>
+      </div>
+      <div class="form__group">
+        <label for="comment-form-message">
+          <strong>Comentário</strong>
+          <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true"></textarea>
+        </label>
+      </div>
+      <fieldset class="hidden" style="display: none;">
+        <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+        <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
+        <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
+        <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
+        <label for="comment-form-location">Deixe esse campo em branco</label>
+        <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off">
+      </fieldset>
+      <!-- Start comment form alert messaging -->
+      <p class="hidden js-notice">
+        <span class="js-notice-text"></span>
+      </p>
+      <!-- End comment form alert messaging -->
+      <button type="submit" id="comment-form-submit" class="btn">Enviar comentário</button>
+    </form>
+  </div>
+
+  {% assign comments_js = site.data.js-manifest['comments.js'] | default: 'comments.js' | prepend: 'assets/' | relative_url %}
+  <script async src="{{ comments_js }}"></script>
+  <!-- End new comment form -->
+{% else %}
+  <p class="disabled-comment-form">Esta postagem não permite receber novos comentários.</p>
+{% endunless %}
