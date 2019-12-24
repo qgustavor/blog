@@ -25,7 +25,7 @@
     </div>
     {% unless include.replying_to != 0 or page.comments_locked == true %}
       <div class="comment__reply">
-        <a rel="nofollow" class="btn" href="#comment-{{ include.index }}" onclick="return moveCommentForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Responder comentário</a>
+        <a rel="nofollow" class="reply-comment" href="#comment-{{ include.index }}" onclick="return moveCommentForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">Responder comentário</a>
       </div>
     {% endunless %}
   </div>

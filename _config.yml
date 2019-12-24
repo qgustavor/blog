@@ -27,10 +27,6 @@ search_provider: lunr
 include:
   - _pages
 
-repository: "qgustavor/blog"
-staticman:
-  branch: "gh-pages"
-
 # Conversion
 markdown: kramdown
 highlighter: rouge

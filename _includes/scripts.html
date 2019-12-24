@@ -14,8 +14,11 @@
   {%- endcase -%}
 {% endif %}
 
+{% assign comments_js = site.data.js-manifest['comments.js'] | default: 'comments.js' | prepend: 'assets/' | relative_url %}
+<script async src="{{ comments_js }}"></script>
+
 <script>
-navigator.serviceWorker && navigator.serviceWorker.register('/sw.js', {
+navigator.serviceWorker && location.protocol === 'https:' && navigator.serviceWorker.register('/sw.js', {
   scope: '/'
 })
 </script>

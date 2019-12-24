@@ -94,14 +94,12 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
 }
 
 ;(function ($) {
-  $('#comment-form').submit(function () {
-    var $form = $(form)
+  $('#comment-form').submit(function (evt) {
     var $this = $(this)
 
-    $form.addClass('disabled')
-    $('#comment-form-submit').html(
-      '<svg class="icon spin"><use xlink:href="/assets/icons/icons.svg#icon-loading"></use></svg> Carregando...'
-    )
+    evt.preventDefault()
+    $this.addClass('disabled')
+    $('#comment-form-submit').html('Carregando...')
 
     $.ajax({
       type: $this.attr('method'),
@@ -127,7 +125,7 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
         showAlert(
           '<strong>Desculpe, ocorreu um erro.</strong> Verifique se todos os campos requeridos foram preenchidos e tente novamente.'
         )
-        $form.removeClass('disabled')
+        $this.removeClass('disabled')
       }
     })
 
