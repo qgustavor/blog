@@ -10,7 +10,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Site Settings
 lang: pt-BR
 title: qgustavor
-description: "Apenas um blog, simples assim."
+description: "o blog"
 baseurl: /
 url: "https://qgustavor.tk"
 repository: "qgustavor/blog"
