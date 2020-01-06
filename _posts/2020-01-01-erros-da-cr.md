@@ -38,7 +38,10 @@ Já considerei fazer o mesmo com outros serviços de streaming, mas não é fác
 
 A Netflix traduz poucos animes e geralmente demora seis meses fazer isso de modo que, com um prazo desses, é quase impossível que eles cometam erros. Por outro lado a estilização deles é provavelmente a pior das quatro, nunca traduzem músicas e aparentemente vão se recusar a mudar esses pontos sob o argumento de manter a experiência consistente entre os vários shows que eles disponibilizam.
 
-Por motivos (talvez óbvios) as outras duas estão com dificuldades para disponibilizar novos animes:  desde 2018 a Amazon e HIDIVE não traduzem animes para o português. Ainda que ambas traduziam com uma estilização inferior à da CR elas traduziram músicas e eu via nelas a possibilidade de serem uma concorrência forte, o que não se concretizou.
+> **Edição:** só assisti seis animes da Netflix. Me lembro que encontrei dois erros pequenos que nem vale a pena reportar e um dia que comparei um anime deles com uma fansub e preferi a tradução da Netflix (até porque a tradução da fansub tinha um erro justamente na primeira fala).  
+> É possível que eu tenha assistido justamente os melhores deles. Se alguém tiver encontrado problemas nela comente abaixo.
+
+Por motivos (talvez óbvios) as outras duas estão com dificuldades para disponibilizar novos animes: desde 2018 a Amazon e HIDIVE não traduzem animes para o português. Ainda que ambas traduziam com uma estilização inferior à da CR elas traduziram músicas e eu via nelas a possibilidade de serem uma concorrência forte, o que não se concretizou.
 
 Como ainda tenho muitos animes da CR para assistir ainda serão muitos erros para listar. No meu planejamento já tem 15 animes planejados, mas pretendo adicionar muitos ainda. Talvez seria mais eficiente se eu trabalhasse com eles, mas decidir isso é com eles.
 
