@@ -99,7 +99,7 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
 
     evt.preventDefault()
     $this.addClass('disabled')
-    $('#comment-form-submit').html('Carregando...')
+    $('#comment-form-submit').html('Enviando comentário...')
 
     $.ajax({
       type: $this.attr('method'),
@@ -108,7 +108,7 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
         $('#comment-form-submit')
-          .html('Submitted')
+          .html('Comentário enviado')
           .addClass('btn--disabled')
         $('#comment-form .js-notice')
           .removeClass('danger')
@@ -118,7 +118,7 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
         )
       },
       error: function (err) {
-        $('#comment-form-submit').html('Submit Comment')
+        $('#comment-form-submit').html('Enviar comentário')
         $('#comment-form .js-notice')
           .removeClass('success')
           .addClass('danger')
