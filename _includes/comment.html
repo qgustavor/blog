@@ -1,4 +1,4 @@
-<article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% unless include.replying_to == 0 %}child{% endunless %}">
+<article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% unless include.replying_to != nil %}child{% endunless %}">
   <div class="comment__avatar">
     {% if include.avatar %}
       <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
