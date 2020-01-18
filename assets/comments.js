@@ -114,7 +114,9 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
           .removeClass('danger')
           .addClass('success')
         showAlert(
-          '<strong>Obrigado pelo seu comentário!</strong> Ele está na fila de moderação e quando aprovado aparecerá no site.'
+          '<strong>Obrigado pelo seu comentário!</strong> Ele está na fila de moderação e quando aprovado aparecerá no site (provavelmente só ' + (
+            new Date().getHours() > 8 ? 'amanhã de manhã' : 'depois das 8 horas'
+          ) + ').'
         )
       },
       error: function (err) {
