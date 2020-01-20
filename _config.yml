@@ -59,14 +59,15 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-redirect-from
 
 # Jekyll Feed
 feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: /page-:num/
+# paginate: 5
+# paginate_path: /page-:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -79,6 +80,9 @@ paginate_path: /page-:num/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - _pages
 
 collections:
   pages:

@@ -10,8 +10,7 @@ redirect_from:
 excerpt: "Animes e mangás de 2014"
 ---
 
-Anos anteriores:
-[2013](https://qgustavor.github.io/blog/animes-assistidos-e-mangás-de-2013)
+[Lista de 2013](https://qgustavor.github.io/blog/animes-assistidos-e-mangás-de-2013).
 
 Terminados:
 
