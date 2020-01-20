@@ -81,9 +81,6 @@ feed:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-exclude:
-  - _pages
-
 collections:
   pages:
     output: true
