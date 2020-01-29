@@ -99,13 +99,16 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
     var $inputs = $this.find('input, button, textarea').not(':hidden')
 
     evt.preventDefault()
-    $inputs.prop('disabled', true)
     $('#comment-form-submit').html('Enviando comentário...')
+
+    // https://stackoverflow.com/q/15958671 -> disabled inputs are not picked up by serialize
+    var serializedForm = $this.serialize()
+    $inputs.prop('disabled', true)
 
     $.ajax({
       type: $this.attr('method'),
       url: $this.attr('action'),
-      data: $this.serialize(),
+      data: serializedForm,
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
         $('#comment-form-submit').html('Comentário enviado')
