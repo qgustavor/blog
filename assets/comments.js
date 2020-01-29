@@ -96,9 +96,10 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
 ;(function ($) {
   $('#comment-form').submit(function (evt) {
     var $this = $(this)
+    var $inputs = $this.find('input, button, textarea').not(':hidden')
 
     evt.preventDefault()
-    $this.addClass('disabled')
+    $inputs.prop('disabled', true)
     $('#comment-form-submit').html('Enviando comentário...')
 
     $.ajax({
@@ -107,12 +108,7 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
       data: $this.serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        $('#comment-form-submit')
-          .html('Comentário enviado')
-          .addClass('btn--disabled')
-        $('#comment-form .js-notice')
-          .removeClass('danger')
-          .addClass('success')
+        $('#comment-form-submit').html('Comentário enviado')
         showAlert(
           '<strong>Obrigado pelo seu comentário!</strong> Ele está na fila de moderação e quando aprovado aparecerá no site (provavelmente só ' + (
             new Date().getHours() > 8 ? 'amanhã de manhã' : 'depois das 8 horas'
@@ -121,13 +117,10 @@ window.moveCommentForm = function (commId, parentId, respondId, postId) {
       },
       error: function (err) {
         $('#comment-form-submit').html('Enviar comentário')
-        $('#comment-form .js-notice')
-          .removeClass('success')
-          .addClass('danger')
         showAlert(
           '<strong>Desculpe, ocorreu um erro.</strong> Verifique se todos os campos requeridos foram preenchidos e tente novamente.'
         )
-        $this.removeClass('disabled')
+        $inputs.prop('disabled', false)
       }
     })
 
