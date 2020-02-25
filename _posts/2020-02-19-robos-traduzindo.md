@@ -31,7 +31,7 @@ Pois não esse não é o trabalho do revisor! Sejam empresas, pequenos ou grande
 
 Por acaso isso significa que no futuro bastaria substituir os atuais tradutores por algoritmos e redes neurais, demitir os atuais revisores e colocar os atuais tradutores no lugar deles?
 
-*Não! * Cada cargo trabalha da sua própria forma, o que significa que alguém que é muito bom traduzindo nem sempre é muito bom revisando. Um exemplo: já mostrei esse último erro desta lista para vários tradutores que conheço e até agora não vi nenhum que conseguiu identificar o problema sem eu dar a resposta.
+*Não!* Cada cargo trabalha da sua própria forma, o que significa que alguém que é muito bom traduzindo nem sempre é muito bom revisando. Um exemplo: já mostrei esse último erro desta lista para vários tradutores que conheço e até agora não vi nenhum que conseguiu identificar o problema sem eu dar a resposta.
 
 Essa lista só mostra alguns poucos exemplos, mas eles são absurdamente comuns e pouco notados. Alguns são da CR? São, porém a maior parte deles são de grupos que são proclamados por dezenas, talvez até centenas, como grupos “bons”. Seriam esses casos isolados? Absolutamente não: há episódios onde eles aparecem uma meia dúzia de vezes, em outros eles aparecem dezenas de vezes, e mesmo assim, como os revisores fazem de tudo para fazer as falas parecerem naturais, ninguém os nota.
 
