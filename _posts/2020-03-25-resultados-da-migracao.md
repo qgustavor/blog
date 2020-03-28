@@ -20,6 +20,8 @@ No momento estou usando o Transmission: a API dele não é tão simples quanto a
 
 Ele não é perfeito: nos últimos dias ele está travando muito, ainda que ele esteja instalado no modo daemon. Também não sou perfeito: ao invés de investigar a causa do problema só estou reiniciando ele. Tenho que largar de preguiça e descobrir o que está acontecendo. Tenho uma suspeita que seja um dos meus scripts interferindo nele, já que ele trava logo quando os scripts estão configurando os torrents, mas não sei bem o que está causando o problema.
 
+**Atualização:** achei o problema. Um bug no meu script estava colocando índices duplicados no `priority-normal` do `torrent-set`. Assim que resolvi esse bug o Transmission parou de dar problemas. Pensando bem até agora não reportei isso para os desenvolvedores desse cliente...
+
 Aproveitei e arrumei o meu script de organização de animes que estão indo ao ar. Ele não funciona corretamente desde quando a API do MyAnimeList parou de funcionar. Os primeiros animes que configurei nele foram Madoka e Eizouken. Estou gostando de ambos, o pessoal está fazendo *um bom trabalho* !
 
 Implementei melhorias no meu outro script de organização de animes. Agora é possível adicionar notas na timeline e aparece uma nota mostrando qual é o mês (ou ano, se for o mês for janeiro) eu assisti os animes. Olhe essas cores geradas usando um algoritmo estranho e alegre:
