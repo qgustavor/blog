@@ -1,9 +1,10 @@
 ---
 layout: post
 tags: []
-title: "![](https://i.imgur.com/jRIowBF.jpg)"
+title: "Toradora! de novo"
 date: 2020-10-07 03:06:15 +0000
-excerpt: "Já postei sobre Toradora! aqui, era apenas um resumo do que era o anime como parte da minha série de postagens sobre os animes que eu vi...."
+excerpt: "Já postei sobre Toradora! aqui, era apenas um resumo do que era o anime como parte da minha série de postagens sobre os animes que eu vi..."
+image: https://i.imgur.com/jRIowBF.jpg
 ---
 
 Já postei sobre Toradora! aqui, era apenas um resumo do que era o anime como parte da minha série de postagens sobre os animes que eu vi. Hoje quero focar em um detalhe diferente: onde ver esse anime.
@@ -26,7 +27,8 @@ Se você acha que algo ser de graça significa que pode ser ruim então porque v
 
 Reclame nos comentários caso ache um erro na Crunchyroll! Para ser justo com todo mundo se o seu grupo já corrigiu os erros (principalmente os das imagens acima) me avise e vou atualizar esta postagem. Se você for reclamar da Crunchyroll sem motivo a minha resposta é simples: tente fazer melhor. Já te aviso que três grupos tentaram e não conseguiram.
 
----
+**Edição:** eu publiquei correções das legendas de um dos grupos [no meu site de legendas corrigidas](https://qgustavor.github.io/fixed-subtitles/) já que eu sei que muita gente vai preferir a tradução deste grupo mesmo com todos os problemas que eu citei acima. Por outro lado eu não corrigi todos os erros, só os que eu me lembrava e que consegui achar usando um corretor automático, é apenas uma opção menos pior.
 
+---
 
 Aproveitando: esta é a última postagem da série de postagens com pinturas de artistas clássicos pois este blog entrará em hiato por um tempo indeterminado já que quero me dedicar a alguns projetos. Talvez quando eu voltar eu continue essa série (até porque estou com um trauma de colocar um imagem que não seja minha ou que não esteja em domínio público depois daquele vídeo do Tom Scott).
