@@ -7,8 +7,6 @@ redirect_from:
   - /animes/
 ---
 
-![](/assets/yuuko.png){: .side-image}
-
 ## Ferramentas
 
 * [megajs](https://github.com/qgustavor/mega): uma biblioteca do MEGA implementada em JavaScript.
