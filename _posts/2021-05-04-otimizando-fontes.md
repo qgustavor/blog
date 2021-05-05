@@ -72,4 +72,11 @@ Espero que o futuro seja melhor, tanto para fãs, quanto para profissionais e pa
 
 Quinta vou publicar uma postagem sobre um anime muito bom que me recomendaram quando eu estava na faculdade e que é muito educativo. Até mais!
 
+# Atualizações
+
+Descobri duas coisas após a publicação desta postagem:
+
+1. A Crunchyroll está usando mais fontes, só não é muito comum. Em um episódio que vi faz algumas horas eles usaram oito fontes diferentes (excluindo variantes), inclusive Courier New. Espero que as equipes estejam sendo melhor informadas de quais fontes elas podem ou não usar.
+2. Há algumas fansubs que usam fontes otimizadas, como a Commie, mas até agora não encontrei ninguém que tenha feito um script ou programa que automaticamente pega as fontes de uma legenda e otimiza as fontes conforme os caracteres usados. Além disso, mesmo no exemplo que encontrei da Commie, em Nagatoro-san, só otimizaram uma fonte de 4 MB para 46 KB, o que indica que devem ter feito isso manualmente. A automatização desse processo pode ser o que faltava para que isso se popularize.
+
 [^1]:  Se encontrar uma que só usa fontes com licenças open-source, deve ser minha.
