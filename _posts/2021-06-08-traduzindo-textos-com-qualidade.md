@@ -3,8 +3,7 @@ layout: post
 tags: []
 title: "Traduzindo textos com qualidade de primeiro mundo"
 date: 2021-06-08 03:14:30 +0000
-excerpt: "Algumas pessoas podem achar que é normal..."
-image: https://res.cloudinary.com/qgustavor/image/upload/v1623122047/srla4xwxhbqc0g3epmmv.png
+excerpt: "Algumas pessoas podem achar que é normal traduzir textos em animes usando qualquer fonte..."
 ---
 
 Algumas pessoas podem achar que é normal traduzir textos em animes usando qualquer fonte, principalmente fontes que já vêm instaladas nos sistemas. Alguns usam Comic Sans por acharem que não há uma opção melhor, mas há:
