@@ -33,7 +33,7 @@ Pode copiar com a legenda para usar a estilização antiga como um guia de posic
 
 ![](https://i.imgur.com/ala1PtH.png)
 
-O Photopea suporta uma variedade enorme de fontes, mas para respeitar o tradutor do anime usei a mesma fonte que ele tinha escolhido originalmente. Não precisa colocar a borda na imagem nessa etapa, mas pode ajudar a ter uma ideia de como vai ficar.
+O Photopea suporta uma variedade enorme de fontes, mas para respeitar o tradutor do anime usei a mesma fonte que ele tinha escolhido originalmente.
 
 **Passo 5:** mude a resolução da imagem para a resolução da legenda.
 
