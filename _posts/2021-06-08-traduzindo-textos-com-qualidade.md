@@ -11,7 +11,7 @@ Algumas pessoas podem achar que é normal traduzir textos em animes usando qualq
 
 A ideia desta postagem é baseada na tradução da Crunchyroll Alemã de Nagatoro-san: diferente de outras equipes que usaram apenas fontes instaladas no Windows e Office, essa equipe procurou se diferenciar das outras com uma escolha de fontes mais variada:
 
-![](https://res.cloudinary.com/qgustavor/image/upload/v1623122049/dmz7mkhpom7itcf88bsu.png)
+![](https://res.cloudinary.com/qgustavor/image/upload/v1623122047/srla4xwxhbqc0g3epmmv.png)
 
 Conseguiram usar fontes que o sistema da Crunchyroll não suporta usando um truque simples: converteram os textos para desenhos vetoriais.
 
