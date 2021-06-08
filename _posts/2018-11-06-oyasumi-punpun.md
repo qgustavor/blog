@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Oyasumi Punpun"
 date: 2018-11-06 02:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "“Um pôr do sol aparecidense”Sexta, 20 de Julho de 2012, 9:20 PM"
 date: 2015-07-07 21:22:27 +0000

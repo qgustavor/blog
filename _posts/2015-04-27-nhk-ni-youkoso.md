@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "NHK ni Youkoso!"
 date: 2015-04-28 00:00:32 +0000

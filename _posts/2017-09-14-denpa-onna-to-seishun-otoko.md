@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Denpa Onna to Seishun Otoko"
 date: 2017-09-14 03:51:37 +0000

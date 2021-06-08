@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ichigo Mashimaro
 date: 2015-04-08 00:00:28 +0000

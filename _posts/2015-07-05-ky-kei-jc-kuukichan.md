@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: KY Kei JC Kuukichan
 date: 2015-07-06 00:00:52 +0000

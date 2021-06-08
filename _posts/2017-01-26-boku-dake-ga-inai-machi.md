@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Boku dake ga Inai Machi"
 date: 2017-01-26 02:51:37 +0000

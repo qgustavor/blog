@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Yurumates wa?"
 date: 2017-08-24 03:51:38 +0000

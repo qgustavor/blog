@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
 date: 2015-06-08 00:00:49 +0000

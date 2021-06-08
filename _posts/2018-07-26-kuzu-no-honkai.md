@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kuzu no Honkai"
 date: 2018-07-26 03:51:37 +0000

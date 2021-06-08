@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Soul Eater
 date: 2015-05-26 00:00:30 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ookami Kodomo no Ame to Yuki"
 date: 2018-08-07 03:51:37 +0000

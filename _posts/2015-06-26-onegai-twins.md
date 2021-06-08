@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Onegai Twins
 date: 2015-06-27 00:00:50 +0000

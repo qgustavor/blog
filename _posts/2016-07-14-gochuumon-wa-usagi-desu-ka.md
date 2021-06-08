@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Gochuumon wa Usagi Desu ka?"
 date: 2016-07-14 03:18:42 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hori-san to Miyamura-kun"
 date: 2016-09-15 03:14:29 +0000

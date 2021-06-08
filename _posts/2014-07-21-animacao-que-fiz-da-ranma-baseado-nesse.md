@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animação que fiz da Ranma baseado nesse spritesheet que o Paul Robertson fez.
 date: 2014-07-21 20:06:57 +0000

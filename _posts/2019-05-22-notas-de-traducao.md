@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Notas de tradução"
 date: 2019-05-22 03:51:52 +0000

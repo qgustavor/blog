@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Romantica Clock
 date: 2015-06-30 00:00:48 +0000

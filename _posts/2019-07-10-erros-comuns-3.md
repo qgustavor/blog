@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Erros comuns - Parte 3"
 date: 2019-07-10 03:51:46 +0000

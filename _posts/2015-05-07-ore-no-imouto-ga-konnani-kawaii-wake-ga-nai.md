@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ore no Imouto ga Konnani Kawaii Wake ga Nai
 date: 2015-05-08 00:01:01 +0000

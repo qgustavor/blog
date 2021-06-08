@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes e mangás de 2017
 date: 2016-01-01 11:39:54 +0000

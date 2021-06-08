@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "School Days"
 date: 2018-11-15 02:51:37 +0000

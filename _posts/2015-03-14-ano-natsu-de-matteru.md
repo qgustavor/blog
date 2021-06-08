@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ano Natsu de Matteru
 date: 2015-03-15 00:00:43 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Danganronpa
 date: 2015-07-05 00:00:43 +0000

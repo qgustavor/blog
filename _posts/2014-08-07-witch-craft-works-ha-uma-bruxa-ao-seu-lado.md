@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Witch Craft Works: há uma bruxa ao seu lado"
 date: 2014-08-07 03:30:17 +0000

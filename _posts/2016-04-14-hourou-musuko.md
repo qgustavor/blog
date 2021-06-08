@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hourou Musuko"
 date: 2016-04-14 12:00:00 -0300

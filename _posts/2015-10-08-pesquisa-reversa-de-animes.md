@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Pesquisa Reversa de Animes"
 date: 2015-10-08 12:00:00 -0300

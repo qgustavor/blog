@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hidamari Puzzle"
 date: 2017-03-21 03:51:38 +0000

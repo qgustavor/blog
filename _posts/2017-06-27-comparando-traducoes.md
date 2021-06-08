@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Comparando Traduções"
 date: 2017-06-27 03:51:38 +0000

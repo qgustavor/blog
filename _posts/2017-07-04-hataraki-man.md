@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hataraki Man"
 date: 2017-07-04 03:51:37 +0000

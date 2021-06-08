@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shinsekai Yori"
 date: 2018-03-08 03:51:37 +0000

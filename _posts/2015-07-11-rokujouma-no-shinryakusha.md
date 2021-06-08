@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Rokujouma no Shinryakusha
 date: 2015-07-12 00:00:23 +0000

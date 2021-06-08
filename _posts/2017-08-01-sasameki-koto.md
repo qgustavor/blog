@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sasameki Koto"
 date: 2017-08-01 03:51:38 +0000

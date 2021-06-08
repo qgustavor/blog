@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Stella no Mahou"
 date: 2018-10-04 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Hunter x Hunter
 date: 2015-04-07 00:00:47 +0000

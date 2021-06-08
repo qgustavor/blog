@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Space☆Dandy
 date: 2015-05-28 00:00:35 +0000

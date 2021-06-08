@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: No Game No Life
 date: 2015-05-01 00:00:48 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Plastic Memories
 date: 2015-07-09 00:00:44 +0000

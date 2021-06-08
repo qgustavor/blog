@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Death Parade"
 date: 2018-03-01 03:51:36 +0000

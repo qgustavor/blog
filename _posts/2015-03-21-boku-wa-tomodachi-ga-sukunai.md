@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Boku wa Tomodachi ga Sukunai
 date: 2015-03-22 00:00:41 +0000

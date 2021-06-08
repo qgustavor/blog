@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes assistidos e mangás de 2013
 date: 2013-10-05 20:37:00 +0000

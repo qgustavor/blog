@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Estatísticas e Metas"
 date: 2016-06-07 03:18:43 +0000

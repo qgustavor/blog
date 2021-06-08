@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hikaru no Go"
 date: 2018-12-13 02:51:37 +0000

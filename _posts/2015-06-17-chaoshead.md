@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: ChäoS;HEAd
 date: 2015-06-18 00:00:51 +0000

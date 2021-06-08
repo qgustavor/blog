@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Acessibilidade"
 date: 2019-07-31 03:51:40 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Adaptações"
 date: 2019-05-29 03:51:42 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Usagi Drop
 date: 2015-06-06 00:00:34 +0000

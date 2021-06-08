@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hataraku Maou-sama!"
 date: 2017-01-12 02:51:40 +0000

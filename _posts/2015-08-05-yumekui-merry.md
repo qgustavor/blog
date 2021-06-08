@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Yumekui Merry
 date: 2015-08-05 10:22:26 +0000

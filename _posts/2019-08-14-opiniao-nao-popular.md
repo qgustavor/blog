@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Opinião não-popular"
 date: 2019-08-14 03:51:44 +0000

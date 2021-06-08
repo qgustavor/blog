@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Calendário"
 date: 2020-07-15 03:51:41 +0000
 excerpt: "O ruim de escrever as postagens semanas antes de postar é que eu não sei como as coisas serão no..."
-image: https://i.imgur.com/WL3nVJj.jpg
+header:
+  image: https://i.imgur.com/WL3nVJj.jpg
 ---
 
 O ruim de escrever as postagens semanas antes de postar é que eu não sei como as coisas serão no futuro: as postagens de fevereiro até maio tiveram esse problema. Estou escrevendo isso no dia que descobri que tinha um erro no meu blog, então vou falar de datas.

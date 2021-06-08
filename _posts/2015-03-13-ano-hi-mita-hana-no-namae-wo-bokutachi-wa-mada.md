@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 date: 2015-03-14 00:02:15 +0000

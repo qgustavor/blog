@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sakamoto desu ga"
 date: 2017-04-27 03:51:38 +0000

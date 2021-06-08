@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [puella magi madoka magica]
 title: "Fiz isso para ser a minha tela de login, só não usei porque eu acabaria viciando mais ainda em Madoka."
 date: 2011-07-27 02:22:00 +0000

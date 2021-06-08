@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Amagami SS
 date: 2015-03-12 00:02:24 +0000

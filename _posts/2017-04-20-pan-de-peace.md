@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Pan de Peace"
 date: 2017-04-20 03:51:38 +0000

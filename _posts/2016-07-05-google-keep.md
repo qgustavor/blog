@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Google Keep"
 date: 2016-07-05 14:02:04 +0000

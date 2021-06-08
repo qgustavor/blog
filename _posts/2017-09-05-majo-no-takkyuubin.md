@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Majo no Takkyuubin"
 date: 2017-09-05 03:51:37 +0000

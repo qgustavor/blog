@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Maria†Holic"
 date: 2018-03-15 03:51:37 +0000

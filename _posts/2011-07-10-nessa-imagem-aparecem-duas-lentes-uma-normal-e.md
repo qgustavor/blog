@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Estudo de lentes"
 date: 2011-07-10 03:08:43 +0000

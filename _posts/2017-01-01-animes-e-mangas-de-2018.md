@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes e mangás de 2018
 date: 2018-01-01 18:48:00 +0000

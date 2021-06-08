@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Problemas eternos"
 date: 2020-02-05 03:51:41 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Zankyou no Terror
 date: 2015-06-13 00:00:47 +0000

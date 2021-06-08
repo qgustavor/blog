@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "30-sai no Hoken Taiiku"
 date: 2015-03-10 22:52:07 +0000

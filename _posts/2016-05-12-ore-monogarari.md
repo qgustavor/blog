@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ore Monogarari!!"
 date: 2016-05-12 12:00:00 -0300

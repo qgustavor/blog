@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mugen Shinshi: Bouken Katsugeki-hen"
 date: 2017-10-12 03:51:37 +0000

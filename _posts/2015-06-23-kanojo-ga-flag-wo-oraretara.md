@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kanojo ga Flag wo Oraretara
 date: 2015-06-24 00:00:40 +0000

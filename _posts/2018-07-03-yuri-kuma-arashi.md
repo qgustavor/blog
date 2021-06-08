@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Yuri Kuma Arashi"
 date: 2018-07-03 03:51:37 +0000

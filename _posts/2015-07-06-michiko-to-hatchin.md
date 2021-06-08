@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Michiko to Hatchin
 date: 2015-07-07 00:00:37 +0000

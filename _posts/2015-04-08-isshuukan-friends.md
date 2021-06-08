@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Isshuukan Friends
 date: 2015-04-09 00:00:41 +0000

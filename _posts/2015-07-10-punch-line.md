@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Punch Line
 date: 2015-07-11 00:00:39 +0000

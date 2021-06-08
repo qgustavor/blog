@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mekakucity Actors"
 date: 2017-08-17 03:51:37 +0000

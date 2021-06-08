@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kaichou wa Maid-sama!"
 date: 2018-03-29 03:51:37 +0000

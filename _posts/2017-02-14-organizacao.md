@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Organização"
 date: 2017-02-14 02:51:40 +0000

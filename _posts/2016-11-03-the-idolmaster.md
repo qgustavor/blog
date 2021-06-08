@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "The iDOLM@STER"
 date: 2016-11-03 02:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ansatsu Kyoushitsu 2"
 date: 2016-07-12 03:18:44 +0000

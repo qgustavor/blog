@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kono Naka ni Hitori, Imouto ga Iru!"
 date: 2016-03-31 12:00:00 -0300

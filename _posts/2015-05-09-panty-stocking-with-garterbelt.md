@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Panty & Stocking with Garterbelt"
 date: 2015-05-10 00:00:45 +0000

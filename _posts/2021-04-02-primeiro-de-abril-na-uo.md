@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Primeiro de abril na UniOtaku"
 date: 2021-04-02 03:51:38 +0000

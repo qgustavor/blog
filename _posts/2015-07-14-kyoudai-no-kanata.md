@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kyoudai no Kanata
 date: 2015-07-15 01:07:51 +0000

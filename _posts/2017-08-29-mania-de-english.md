@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mania de \"english\""
 date: 2017-08-29 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Byousoku 5 Centimeter
 date: 2015-07-04 00:00:42 +0000

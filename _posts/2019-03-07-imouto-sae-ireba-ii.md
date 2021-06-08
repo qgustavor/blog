@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Imouto sae Ireba Ii."
 date: 2019-03-07 03:51:38 +0000

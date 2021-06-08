@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nyanpire The Animation"
 date: 2018-07-17 03:51:37 +0000

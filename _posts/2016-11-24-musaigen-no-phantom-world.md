@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Musaigen no Phantom World"
 date: 2016-11-24 02:51:37 +0000

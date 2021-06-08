@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hotaru no Haka"
 date: 2016-06-02 03:18:44 +0000

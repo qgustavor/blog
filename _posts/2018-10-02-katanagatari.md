@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Katanagatari"
 date: 2018-10-02 03:51:37 +0000

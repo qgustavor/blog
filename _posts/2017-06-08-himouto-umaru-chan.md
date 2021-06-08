@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Himouto! Umaru-chan"
 date: 2017-06-08 03:17:57 +0000

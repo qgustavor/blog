@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "So Ra No Wo To"
 date: 2017-12-05 02:51:37 +0000

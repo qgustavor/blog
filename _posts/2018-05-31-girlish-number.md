@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Girlish Number"
 date: 2018-05-31 03:51:37 +0000

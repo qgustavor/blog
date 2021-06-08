@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Culto doméstico"
 date: 2020-09-23 03:06:15 +0000
 excerpt: "Quase todos os dias aqui em casa fazemos um culto doméstico. Isso já faz anos e foi por isso que eu..."
-image: https://i.imgur.com/JaOssQQ.jpg
+header:
+  image: https://i.imgur.com/JaOssQQ.jpg
 ---
 
 Quase todos os dias aqui em casa fazemos um culto doméstico. Isso já faz anos e foi por isso que eu fiz o adorai, como já postei aqui algumas vezes.

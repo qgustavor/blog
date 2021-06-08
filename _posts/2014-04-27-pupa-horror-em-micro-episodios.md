@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Pupa, horror em micro-episódios"
 date: 2014-04-27 14:28:06 +0000

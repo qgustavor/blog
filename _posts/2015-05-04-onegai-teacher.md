@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Onegai☆Teacher
 date: 2015-05-05 00:00:34 +0000

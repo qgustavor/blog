@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Higashi no Eden
 date: 2015-04-05 00:00:44 +0000

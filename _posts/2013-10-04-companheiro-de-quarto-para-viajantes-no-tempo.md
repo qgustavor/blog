@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 link: https://docs.google.com/document/d/1eY3jv-Xv8EGlwvzXSeVpkhWZqSEOQusQpvM9WFc1uh4/edit
 excerpt: "Estou me oferecendo como companheiro de quarto para viajantes no tempo."

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sushi Police"
 date: 2017-01-05 02:51:37 +0000

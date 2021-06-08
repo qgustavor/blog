@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Morangos e Marshmallows"
 date: 2021-05-13 14:51:43 +0000
 excerpt: "Já ouviu falar de um anime sobre crianças no fundamental e uma irmã mais velha que brinca com elas,..."
-image: https://i.imgur.com/2V1xEcK.png
+header:
+  image: https://i.imgur.com/2V1xEcK.png
 ---
 
 Já ouviu falar de um anime sobre crianças no fundamental e uma irmã mais velha que brinca com elas, comem juntos e até fazem cosplay? Este é um anime que tem isso, porém mostra isso de forma positiva, é um anime super-fofo!

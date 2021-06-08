@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kiniro Mosaic
 date: 2015-07-25 00:00:46 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Dificultar não é a solução
 date: 2015-04-10 12:00:41 +0000

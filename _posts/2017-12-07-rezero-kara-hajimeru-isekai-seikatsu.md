@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Re:Zero kara Hajimeru Isekai Seikatsu"
 date: 2017-12-07 02:51:37 +0000

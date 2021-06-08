@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: O caso do SDK do MEGA
 date: 2014-10-30 20:04:00 +0000

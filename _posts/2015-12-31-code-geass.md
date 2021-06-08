@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Code Geass"
 date: 2015-12-31 12:00:00 -0300

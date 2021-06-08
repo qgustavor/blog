@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Toradora! de novo"
 date: 2020-10-07 03:06:15 +0000
 excerpt: "Já postei sobre Toradora! aqui, era apenas um resumo do que era o anime como parte da minha série de postagens sobre os animes que eu vi..."
-image: https://i.imgur.com/jRIowBF.jpg
+header:
+  image: https://i.imgur.com/jRIowBF.jpg
 ---
 
 Já postei sobre Toradora! aqui, era apenas um resumo do que era o anime como parte da minha série de postagens sobre os animes que eu vi. Hoje quero focar em um detalhe diferente: onde ver esse anime.

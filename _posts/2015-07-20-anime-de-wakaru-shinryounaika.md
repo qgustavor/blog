@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Anime de Wakaru Shinryounaika
 date: 2015-07-21 00:00:48 +0000

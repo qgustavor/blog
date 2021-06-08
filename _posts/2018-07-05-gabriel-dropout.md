@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Gabriel DropOut"
 date: 2018-07-05 03:51:37 +0000

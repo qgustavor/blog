@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Um ponto fraco meu"
 date: 2015-10-20 12:00:00 -0300

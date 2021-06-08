@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sayonara Zetsubou Sensei"
 date: 2017-02-09 02:51:38 +0000

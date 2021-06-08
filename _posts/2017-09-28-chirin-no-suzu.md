@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Chirin no Suzu"
 date: 2017-09-28 03:51:37 +0000

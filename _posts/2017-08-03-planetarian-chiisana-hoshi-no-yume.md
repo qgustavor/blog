@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Planetarian: Chiisana Hoshi no Yume"
 date: 2017-08-03 03:51:38 +0000

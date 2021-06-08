@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Estado do blog"
 date: 2016-06-28 03:18:44 +0000

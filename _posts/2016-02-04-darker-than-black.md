@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Darker than Black"
 date: 2016-02-04 12:00:00 -0300

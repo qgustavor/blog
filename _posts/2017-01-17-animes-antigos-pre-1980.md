@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Animes antigos - Pré 1980"
 date: 2017-01-17 02:51:37 +0000

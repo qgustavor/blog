@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kokuriko-Zaka Kara"
 date: 2018-05-10 03:51:38 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Choboraunyopomi Gekijou Ai Mai Mii"
 date: 2018-11-22 02:51:37 +0000

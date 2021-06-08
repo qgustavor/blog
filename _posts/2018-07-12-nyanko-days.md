@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nyanko Days"
 date: 2018-07-12 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "O que é o #1animepordia"
 date: 2015-03-18 12:00:35 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Danshi Koukousei no Nichijou
 date: 2015-03-28 00:00:27 +0000

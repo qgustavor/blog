@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Jinrui wa Suitai Shimashita"
 date: 2017-07-27 03:51:38 +0000

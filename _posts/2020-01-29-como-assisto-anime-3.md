@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Como assisto anime - Parte 3"
 date: 2020-01-29 03:51:37 +0000

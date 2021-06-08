@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Problemas com Masamune"
 date: 2019-11-27 03:51:44 +0000

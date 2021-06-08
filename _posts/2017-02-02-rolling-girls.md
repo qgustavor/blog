@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Rolling☆Girls"
 date: 2017-02-02 02:51:38 +0000

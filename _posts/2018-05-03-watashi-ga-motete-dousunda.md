@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Watashi ga Motete Dousunda"
 date: 2018-05-03 03:51:37 +0000

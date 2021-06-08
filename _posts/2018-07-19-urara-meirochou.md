@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Urara Meirochou"
 date: 2018-07-19 03:51:37 +0000

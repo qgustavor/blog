@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Detalhes daquele jogo"
 date: 2020-02-26 03:51:37 +0000

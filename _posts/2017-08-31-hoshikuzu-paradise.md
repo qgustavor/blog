@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hoshikuzu Paradise"
 date: 2017-08-31 03:51:56 +0000

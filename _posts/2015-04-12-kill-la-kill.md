@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kill la Kill
 date: 2015-04-13 00:00:40 +0000

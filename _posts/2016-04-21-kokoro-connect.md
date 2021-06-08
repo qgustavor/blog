@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kokoro Connect"
 date: 2016-04-21 12:00:00 -0300

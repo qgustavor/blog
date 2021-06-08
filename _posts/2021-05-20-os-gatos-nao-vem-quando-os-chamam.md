@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Os gatos não vêm quando os chamam"
 date: 2021-05-20 14:51:39 +0000
 excerpt: "Neko nanka Yondemo Konai. é um anime curto sobre um jovem que vive com o irmão mangaká e que quer se..."
-image: https://i.imgur.com/mIQEHXb.png
+header:
+  image: https://i.imgur.com/mIQEHXb.png
 ---
 
 Neko nanka Yondemo Konai. é um anime curto sobre um jovem que vive com o irmão mangaká e que quer se tornar um pugilista famoso, sem ter muito sucesso. Um dia o irmão dele resolveu trazer dois gatinhos que ele achou na rua.

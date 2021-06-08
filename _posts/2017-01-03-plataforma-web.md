@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Plataforma Web"
 date: 2017-01-03 02:51:38 +0000

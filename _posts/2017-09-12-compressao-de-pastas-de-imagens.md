@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Compressão de pastas de imagens"
 date: 2017-09-12 03:51:40 +0000

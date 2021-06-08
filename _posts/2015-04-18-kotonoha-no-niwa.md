@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kotonoha no Niwa
 date: 2015-04-19 00:00:41 +0000

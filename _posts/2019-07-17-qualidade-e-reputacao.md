@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Qualidade e reputação"
 date: 2019-07-17 03:51:41 +0000

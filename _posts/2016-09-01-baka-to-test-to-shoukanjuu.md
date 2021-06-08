@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Baka to Test to Shoukanjuu"
 date: 2016-09-01 03:09:01 +0000

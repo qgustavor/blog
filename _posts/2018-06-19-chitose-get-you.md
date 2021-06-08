@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Chitose Get You!!"
 date: 2018-06-19 03:51:39 +0000

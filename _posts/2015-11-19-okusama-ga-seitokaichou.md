@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Okusama ga Seitokaichou"
 date: 2015-11-19 12:00:00 -0300

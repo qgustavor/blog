@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Suzumiya Haruhi no Yuuutsu
 date: 2015-05-30 00:00:42 +0000

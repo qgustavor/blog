@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Hachimitsu to Clover
 date: 2015-04-02 00:00:34 +0000

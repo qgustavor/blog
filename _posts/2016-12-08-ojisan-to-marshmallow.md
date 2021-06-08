@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ojisan to Marshmallow"
 date: 2016-12-08 02:51:37 +0000

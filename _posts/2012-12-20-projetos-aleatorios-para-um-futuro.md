@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Projetos Aleatórios para um futuro
 date: 2012-12-20 18:28:00 +0000

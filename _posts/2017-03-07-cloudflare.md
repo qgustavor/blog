@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "CloudFlare"
 date: 2017-03-07 03:51:38 +0000

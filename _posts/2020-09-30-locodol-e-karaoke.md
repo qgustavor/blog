@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Locodol e karaokê"
 date: 2020-09-30 03:06:16 +0000
 excerpt: "Há alguns meses eu estava vendo Locodol na Crunchyroll e notei que eles traduziram as músicas e ainda..."
-image: https://i.imgur.com/YCP1bDE.jpg
+header:
+  image: https://i.imgur.com/YCP1bDE.jpg
 ---
 
 Há alguns meses eu estava vendo Locodol na Crunchyroll e notei que eles traduziram as músicas e ainda colocaram a leitura delas em romaji na tradução. Achei interessante, mas pensei que poderia ficar melhor.

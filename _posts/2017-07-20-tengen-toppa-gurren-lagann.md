@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tengen Toppa Gurren Lagann"
 date: 2017-07-20 03:51:41 +0000

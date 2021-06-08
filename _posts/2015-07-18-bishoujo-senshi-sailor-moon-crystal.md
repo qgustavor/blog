@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Bishoujo Senshi Sailor Moon: Crystal"
 date: 2015-07-19 00:00:22 +0000

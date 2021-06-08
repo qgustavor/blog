@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Videos e Cores 2"
 date: 2020-08-12 03:06:27 +0000
 excerpt: "Continuando a postagem anterior me lembrei que há um anime com uma cena criada justamente para testar..."
-image: https://i.imgur.com/rNsotyc.jpg
+header:
+  image: https://i.imgur.com/rNsotyc.jpg
 ---
 
 Continuando a postagem anterior me lembrei que há um anime com uma cena criada justamente para testar cores: em Kizumonogatari III Reiketsu-hen há uma cena que aparece [o padrão de testes da SMPTE](https://en.wikipedia.org/wiki/SMPTE_color_bars), em especial, o padrão SMPTE RP 219:2002 criado para testar o sinal de imagens HDTV. Esse padrão é interessante pois ele permite identificar várias características das imagens, em especial, as que foram mostradas na postagem anterior.

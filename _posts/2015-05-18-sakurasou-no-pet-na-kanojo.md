@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sakurasou no Pet na Kanojo
 date: 2015-05-19 00:00:33 +0000

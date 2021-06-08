@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Natsume Yuujinchou"
 date: 2017-04-06 15:43:50 +0000

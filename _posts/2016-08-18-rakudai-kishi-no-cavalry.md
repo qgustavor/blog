@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Rakudai Kishi no Cavalry"
 date: 2016-08-18 03:09:01 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Aria the Animation"
 date: 2018-12-04 02:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Soushin Shoujo Matoi"
 date: 2018-06-28 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kimi no Iru Machi
 date: 2015-04-14 00:00:42 +0000

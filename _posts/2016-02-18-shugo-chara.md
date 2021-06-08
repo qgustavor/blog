@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shugo Chara!"
 date: 2016-02-18 12:00:00 -0300

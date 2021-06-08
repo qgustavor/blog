@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "FLAC é melhor mesmo?"
 date: 2021-04-27 03:51:40 +0000
 excerpt: "Essa será uma postagem simples porque muita gente já deve saber a resposta, esses podem até responder..."
-image: https://i.imgur.com/J0A6G29.png
+header:
+  image: https://i.imgur.com/J0A6G29.png
 ---
 
 Essa será uma postagem simples porque muita gente já deve saber a resposta, esses podem até responder abaixo nos comentários que era óbvio se quiser. Mas há quem não sabe ou não entende bem, então estou escrevendo para essas pessoas.

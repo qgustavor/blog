@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Erros comuns"
 date: 2019-06-26 03:51:39 +0000

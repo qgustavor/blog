@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Estatísticas"
 date: 2016-08-30 03:09:07 +0000

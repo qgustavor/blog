@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "GHOST IN THE SHELL"
 date: 2016-08-11 03:09:02 +0000

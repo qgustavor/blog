@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "ClassBuilder"
 date: 2016-11-05 02:51:37 +0000

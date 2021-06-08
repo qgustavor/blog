@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Saenai Heroine no Sodatekata
 date: 2015-05-14 00:00:40 +0000

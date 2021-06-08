@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: As bosboletas do Stanley me inspiraram.
 date: 2011-07-21 00:41:45 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Notas de tradução"
 date: 2016-07-19 03:18:44 +0000

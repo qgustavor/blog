@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Neon Genesis Evangelion
 date: 2015-04-27 00:00:39 +0000

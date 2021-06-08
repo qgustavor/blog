@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Ritmo quente
 date: 2014-11-30 19:19:00 +0000

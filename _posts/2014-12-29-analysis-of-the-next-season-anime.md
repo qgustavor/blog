@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 link: https://pastebin.com/8qHHHPdC
 excerpt: "Análise das notas de cada anime da próxima temporada baseado em temporadas anteriores ou em seus mangás."

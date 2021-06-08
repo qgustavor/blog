@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kaze no Tani no Nausicaä"
 date: 2016-01-28 12:00:00 -0300

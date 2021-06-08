@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Oregairu 2 e Nisekoi:"
 date: 2015-07-16 00:00:39 +0000

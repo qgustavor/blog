@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ao no Exorcist"
 date: 2017-11-23 02:51:37 +0000

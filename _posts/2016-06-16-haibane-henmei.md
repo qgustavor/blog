@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Haibane Henmei"
 date: 2016-06-16 03:18:45 +0000

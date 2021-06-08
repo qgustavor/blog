@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Prioridades"
 date: 2020-05-20 03:51:37 +0000

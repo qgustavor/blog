@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kimi no na wa"
 date: 2018-12-18 02:51:37 +0000

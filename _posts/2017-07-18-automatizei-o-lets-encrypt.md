@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Automatizei o Let's Encrypt"
 date: 2017-07-18 03:51:39 +0000

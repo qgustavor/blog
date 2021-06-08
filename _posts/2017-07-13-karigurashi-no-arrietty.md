@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Karigurashi no Arrietty"
 date: 2017-07-13 03:51:38 +0000

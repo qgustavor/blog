@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ansatsu Kyoushitsu
 date: 2015-07-03 00:00:32 +0000

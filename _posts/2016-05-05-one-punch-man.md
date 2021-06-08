@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "One Punch Man"
 date: 2016-05-05 12:00:00 -0300

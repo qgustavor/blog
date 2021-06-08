@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Outbreak Company"
 date: 2018-06-14 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Subete ga F ni Naru"
 date: 2016-07-07 03:18:44 +0000

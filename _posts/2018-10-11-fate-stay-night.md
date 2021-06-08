@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Fate/stay night"
 date: 2018-10-11 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes e mangás de 2015
 date: 2015-01-01 13:27:00 +0000

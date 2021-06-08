@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kiznaiver"
 date: 2018-01-25 02:51:38 +0000

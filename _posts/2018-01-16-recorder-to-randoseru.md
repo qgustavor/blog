@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Recorder to Randoseru"
 date: 2018-01-16 02:51:37 +0000

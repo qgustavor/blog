@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Flip Flappers"
 date: 2018-04-17 03:51:37 +0000

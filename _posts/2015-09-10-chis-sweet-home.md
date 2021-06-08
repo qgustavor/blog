@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Chi's Sweet Home
 date: 2015-09-11 00:00:42 +0000

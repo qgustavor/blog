@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ai Monogatari: 9 Love Stories"
 date: 2017-11-09 02:51:38 +0000

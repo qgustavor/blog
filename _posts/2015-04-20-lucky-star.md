@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Lucky☆Star
 date: 2015-04-21 00:00:35 +0000

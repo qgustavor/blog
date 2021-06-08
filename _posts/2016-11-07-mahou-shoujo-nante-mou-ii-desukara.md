@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mahou Shoujo Nante Mou Ii Desukara"
 date: 2016-11-07 02:51:37 +0000

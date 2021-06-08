@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Witch Craft Works
 date: 2015-06-09 00:00:29 +0000

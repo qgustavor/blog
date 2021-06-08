@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mujaki no Rakuen"
 date: 2016-01-14 12:00:00 -0300

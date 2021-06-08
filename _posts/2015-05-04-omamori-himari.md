@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Omamori Himari
 date: 2015-05-04 10:18:29 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Bakemonogatari
 date: 2015-03-18 00:00:45 +0000

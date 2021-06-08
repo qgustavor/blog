@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "ViVid Strike!"
 date: 2018-04-26 03:51:36 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Wakako-Zake"
 date: 2015-12-03 12:00:00 -0300

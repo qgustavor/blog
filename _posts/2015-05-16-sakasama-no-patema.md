@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sakasama no Patema
 date: 2015-05-17 00:00:26 +0000

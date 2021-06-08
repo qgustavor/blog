@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Active Raid"
 date: 2016-11-10 02:51:37 +0000

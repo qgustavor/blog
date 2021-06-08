@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Yamada-kun to 7-nin no Majo"
 date: 2018-01-11 02:51:37 +0000

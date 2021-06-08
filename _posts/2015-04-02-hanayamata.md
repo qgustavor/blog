@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Hanayamata
 date: 2015-04-03 00:00:26 +0000

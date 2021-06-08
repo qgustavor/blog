@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "httpshaming:"
 date: 2014-11-30 11:13:01 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Inugami-san to Nekoyama-san"
 date: 2018-12-27 02:51:37 +0000

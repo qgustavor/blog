@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "A física do Bananya"
 date: 2020-07-29 09:36:32 +0000
 excerpt: "Já escrevi uma vez sobre Bananya aqui, mas hoje o meu foco é outro: no momento estou terminando de..."
-image: https://i.imgur.com/1aUG1xm.png
+header:
+  image: https://i.imgur.com/1aUG1xm.png
 ---
 
 Já escrevi uma vez sobre Bananya aqui, mas hoje o meu foco é outro: no momento estou terminando de ver a segunda temporada e fiquei intrigado pensando como que os bananyas se movimentam.

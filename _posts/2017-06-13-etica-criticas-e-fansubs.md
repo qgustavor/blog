@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ética, Críticas e Fansubs"
 date: 2017-06-13 03:17:57 +0000

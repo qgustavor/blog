@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Amagi Brilliant Park"
 date: 2018-09-20 03:51:37 +0000

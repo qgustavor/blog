@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Listas de anime"
 date: 2016-08-09 03:09:03 +0000

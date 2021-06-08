@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Reputação"
 date: 2021-05-18 14:51:40 +0000
 excerpt: "Por que há pessoas que preferem ver traduções piores ao invés de procurar melhor as opções..."
-image: https://i.imgur.com/hvqH9Lx.png
+header:
+  image: https://i.imgur.com/hvqH9Lx.png
 ---
 
 Por que há pessoas que preferem ver traduções piores ao invés de procurar melhor as opções disponíveis e fazer uma escolha mais segura? Por que dá trabalho, então elas precisam se contentar com um meio-termo mais simples: a reputação.

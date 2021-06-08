@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru"
 date: 2016-06-09 03:18:44 +0000

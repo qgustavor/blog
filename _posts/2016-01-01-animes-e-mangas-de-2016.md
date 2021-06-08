@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes e mangás de 2016
 date: 2016-01-01 13:27:00 +0000

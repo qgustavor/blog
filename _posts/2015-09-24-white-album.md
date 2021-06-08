@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "White Album"
 date: 2015-09-24 12:00:00 -0300

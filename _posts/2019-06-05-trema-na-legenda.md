@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Quando trema não é um erro"
 date: 2019-06-05 03:51:39 +0000

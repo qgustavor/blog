@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Honoríficos"
 date: 2019-06-19 03:51:38 +0000

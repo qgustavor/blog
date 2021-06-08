@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Gin no Saji"
 date: 2018-01-18 02:51:37 +0000

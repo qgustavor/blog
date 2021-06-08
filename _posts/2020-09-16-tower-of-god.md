@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Tower of God foi um anime mal planejado"
 date: 2020-09-16 03:06:15 +0000
 excerpt: "Se você já viu esse anime talvez você se pergunte por que escrevi \"Tower of God\" ou por que estou..."
-image: https://i.imgur.com/cYumX0c.jpg
+header:
+  image: https://i.imgur.com/cYumX0c.jpg
 ---
 
 Se você já viu esse anime talvez você se pergunte por que escrevi "Tower of God" ou por que estou estou falando que ele foi mal planejado. Se você fez uma dessas perguntas então estamos falando a mesma língua.

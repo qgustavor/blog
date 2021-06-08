@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tantei Opera Milky Holmes"
 date: 2018-02-08 02:51:37 +0000

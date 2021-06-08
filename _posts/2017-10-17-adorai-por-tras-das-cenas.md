@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "adorai por trás das cenas"
 date: 2017-10-17 02:51:37 +0000

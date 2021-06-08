@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Maria-sama ga Miteru"
 date: 2018-08-30 03:51:38 +0000

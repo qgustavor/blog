@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Projetos
 date: 2015-09-19 20:40:11 +0000
 redirect_from:

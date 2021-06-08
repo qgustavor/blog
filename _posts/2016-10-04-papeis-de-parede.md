@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Papéis de parede"
 date: 2016-10-04 03:14:29 +0000

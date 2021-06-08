@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Alguém conhece uma rádio online de música japonesa (pode ser de J-pop e/ou anime)?"
 date: 2015-05-12 14:08:59 +0000

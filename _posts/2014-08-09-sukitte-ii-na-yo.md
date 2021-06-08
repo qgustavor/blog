@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Sukitte Ii na yo
 date: 2014-08-09 03:30:19 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Denki-gai no Honya-san"
 date: 2015-03-30 00:00:40 +0000

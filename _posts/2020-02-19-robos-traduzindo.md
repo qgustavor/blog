@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Robôs traduzindo"
 date: 2020-02-19 03:51:37 +0000

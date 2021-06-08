@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Carnival Phantasm"
 date: 2018-10-25 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ouran Koukou Host Club"
 date: 2017-03-02 03:51:38 +0000

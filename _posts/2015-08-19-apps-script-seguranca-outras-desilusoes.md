@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Apps Script, Segurança & Outras Desilusões!"
 date: 2015-08-19 18:17:16 +0000

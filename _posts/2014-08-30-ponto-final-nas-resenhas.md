@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ponto final nas resenhas:"
 date: 2014-08-30 21:26:00 +0000

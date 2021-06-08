@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "True Tears"
 date: 2018-04-05 03:51:37 +0000

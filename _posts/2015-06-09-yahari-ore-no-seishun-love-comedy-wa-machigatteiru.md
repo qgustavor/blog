@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Yahari Ore no Seishun Love Comedy wa Machigatteiru
 date: 2015-06-10 00:00:33 +0000

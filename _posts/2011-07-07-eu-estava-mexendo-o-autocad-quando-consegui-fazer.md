@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Eu estava mexendo o AutoCad quando consegui fazer isso, me pareceu bonito, um resort no meio do deserto. Quando terminei coloquei um efeito de foto antiga no PhotoShop e está aí o resultado."
 date: 2011-07-08 01:00:47 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ookami Shoujo to Kuro Ouji
 date: 2015-05-06 00:00:26 +0000

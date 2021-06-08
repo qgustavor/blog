@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Arakawa Under the Bridge
 date: 2015-03-17 00:00:25 +0000

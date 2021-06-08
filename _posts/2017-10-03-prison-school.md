@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Prison School"
 date: 2017-10-03 03:51:37 +0000

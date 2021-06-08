@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Tonari no Totoro
 date: 2015-07-13 00:00:43 +0000

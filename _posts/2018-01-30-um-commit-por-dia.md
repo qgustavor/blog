@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Um commit por dia"
 date: 2018-01-30 02:51:41 +0000

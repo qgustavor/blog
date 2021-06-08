@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Issho ni Training"
 date: 2016-01-21 12:00:00 -0300

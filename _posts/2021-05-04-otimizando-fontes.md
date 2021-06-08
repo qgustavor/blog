@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Otimizando fontes"
 date: 2021-05-04 14:51:42 +0000
 excerpt: "Se você for legendar um vídeo, seja como fã, seja profissionalmente, e se preocupa com a qualidade do..."
-image: https://i.imgur.com/CPtBHn0.png
+header:
+  image: https://i.imgur.com/CPtBHn0.png
 ---
 
 Se você for legendar um vídeo, seja como fã, seja profissionalmente, e se preocupa com a qualidade do seu produto, uma das coisas que você precisa se preocupar é com as fontes que você usa. Além de se preocupar se a aparência da fonte é apropriada com o conteúdo é importante levar em consideração a forma que o vídeo é distribuído.

@@ -1,17 +1,4 @@
 ---
-layout: page
+layout: home
 alt_title: "O blog do qgustavor"
 ---
-
-<div class="entries-grid">
-{% for post in site.posts limit:4 %}
-  {% include entry.html %}
-{% endfor %}
-</div>
-
-<!-- Pagination links -->
-<nav class="pager">
-  <ul>
-    <li><a href="posts/" class="next">Veja mais postagens <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></li>
-  </ul>
-</nav>

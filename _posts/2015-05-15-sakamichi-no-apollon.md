@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sakamichi no Apollon
 date: 2015-05-16 00:00:25 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Gunslinger Girl"
 date: 2018-02-22 03:51:37 +0000

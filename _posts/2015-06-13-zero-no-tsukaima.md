@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Zero no Tsukaima
 date: 2015-06-14 00:00:35 +0000

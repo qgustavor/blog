@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Um experimento com criptografia ![](https://i.imgur.com/meHW1xa.jpg)"
 date: 2020-09-02 03:06:14 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Farei listas de URLs de download de animes e enviarei às produtoras...
 date: 2014-12-29 11:17:00 +0000

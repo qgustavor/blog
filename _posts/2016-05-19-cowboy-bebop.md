@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Cowboy Bebop"
 date: 2016-05-19 00:00:00 -0300

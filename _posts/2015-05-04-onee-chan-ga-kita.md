@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Onee-chan ga Kita"
 date: 2015-05-04 10:24:35 +0000

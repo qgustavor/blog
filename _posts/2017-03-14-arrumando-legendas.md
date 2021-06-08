@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Arrumando legendas"
 date: 2017-03-14 03:51:38 +0000

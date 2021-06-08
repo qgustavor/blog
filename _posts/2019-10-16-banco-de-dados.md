@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Banco de dados"
 date: 2019-10-16 03:51:39 +0000

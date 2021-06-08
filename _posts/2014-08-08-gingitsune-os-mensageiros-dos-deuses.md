@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Gingitsune: os mensageiros dos deuses"
 date: 2014-08-08 03:30:29 +0000

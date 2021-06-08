@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Resumos de anime"
 date: 2019-07-24 03:51:37 +0000

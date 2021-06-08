@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "A questão das hospedagens de arquivos"
 date: 2015-09-22 15:00:00 +0000

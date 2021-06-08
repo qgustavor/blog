@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tanaka-kun wa Itsumo Kedaruge"
 date: 2017-04-13 03:51:38 +0000

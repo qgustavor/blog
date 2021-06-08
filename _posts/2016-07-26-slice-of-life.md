@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Slice of life"
 date: 2016-07-26 03:18:44 +0000

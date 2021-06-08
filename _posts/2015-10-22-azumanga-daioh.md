@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Azumanga Daioh"
 date: 2015-10-22 12:00:00 -0300

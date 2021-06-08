@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "JavaScript no AutoCAD"
 date: 2017-07-11 03:51:39 +0000

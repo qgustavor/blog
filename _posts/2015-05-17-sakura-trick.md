@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sakura Trick
 date: 2015-05-18 00:00:30 +0000

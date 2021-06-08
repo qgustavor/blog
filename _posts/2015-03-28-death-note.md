@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Death Note
 date: 2015-03-29 00:00:43 +0000

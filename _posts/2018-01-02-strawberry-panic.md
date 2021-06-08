@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Strawberry Panic"
 date: 2018-01-02 02:51:37 +0000

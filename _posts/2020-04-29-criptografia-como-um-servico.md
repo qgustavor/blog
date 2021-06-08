@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Criptografia como um serviço"
 date: 2020-04-29 03:51:39 +0000

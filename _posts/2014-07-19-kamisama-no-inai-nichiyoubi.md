@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Kamisama no Inai Nichiyoubi
 date: 2014-07-19 22:08:00 +0000

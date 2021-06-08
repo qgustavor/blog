@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Olá GitHub Pages!"
 redirect_from:
   - /olá-github-pages/

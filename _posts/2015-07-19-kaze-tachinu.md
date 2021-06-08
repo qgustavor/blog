@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kaze Tachinu
 date: 2015-07-20 00:00:38 +0000

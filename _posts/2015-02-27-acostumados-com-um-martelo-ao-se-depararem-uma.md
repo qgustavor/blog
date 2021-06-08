@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Acostumado...
 date: 2015-02-27 20:07:25 +0000

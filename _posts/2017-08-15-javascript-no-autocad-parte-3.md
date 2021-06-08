@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "JavaScript no AutoCAD - Parte 3"
 date: 2017-08-15 03:51:37 +0000

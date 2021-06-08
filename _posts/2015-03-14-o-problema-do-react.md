@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: O problema do React
 date: 2015-03-14 12:00:30 +0000

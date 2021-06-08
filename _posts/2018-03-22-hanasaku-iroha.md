@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hanasaku Iroha"
 date: 2018-03-22 03:51:36 +0000

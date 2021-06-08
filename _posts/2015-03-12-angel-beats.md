@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Angel Beats!"
 date: 2015-03-13 00:02:28 +0000

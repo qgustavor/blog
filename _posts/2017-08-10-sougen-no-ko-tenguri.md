@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sougen no Ko Tenguri"
 date: 2017-08-10 03:51:38 +0000

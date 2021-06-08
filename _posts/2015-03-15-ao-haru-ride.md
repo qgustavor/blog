@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ao Haru Ride
 date: 2015-03-16 00:00:40 +0000

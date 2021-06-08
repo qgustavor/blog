@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Strike Witches
 date: 2015-07-01 00:00:43 +0000

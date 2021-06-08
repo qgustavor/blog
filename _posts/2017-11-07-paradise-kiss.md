@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Paradise Kiss"
 date: 2017-11-07 02:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sen to Chihiro no Kamikakushi
 date: 2015-07-17 00:00:43 +0000

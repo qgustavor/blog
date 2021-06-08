@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sagrada Reset"
 date: 2019-01-24 02:51:37 +0000

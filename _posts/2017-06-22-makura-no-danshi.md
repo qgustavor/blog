@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Makura no Danshi"
 date: 2017-06-22 03:51:37 +0000

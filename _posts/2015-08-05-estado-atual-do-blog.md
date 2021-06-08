@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Estado atual do blog
 date: 2015-08-05 10:46:01 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Fruits Basket"
 date: 2018-08-16 03:51:37 +0000

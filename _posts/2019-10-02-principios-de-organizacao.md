@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Princípios de organização"
 date: 2019-10-02 03:51:47 +0000

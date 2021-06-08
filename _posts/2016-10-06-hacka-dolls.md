@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hacka Dolls"
 date: 2016-10-06 03:14:29 +0000

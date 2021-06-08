@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Seitokai Yakuindomo
 date: 2015-05-23 00:00:36 +0000

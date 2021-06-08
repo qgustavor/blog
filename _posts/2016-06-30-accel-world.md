@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Accel World"
 date: 2016-06-30 03:18:44 +0000

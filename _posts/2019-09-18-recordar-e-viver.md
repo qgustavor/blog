@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Recordar é viver"
 date: 2019-09-18 03:51:45 +0000

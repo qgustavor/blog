@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mononoke Hime"
 date: 2015-10-29 12:00:00 -0300

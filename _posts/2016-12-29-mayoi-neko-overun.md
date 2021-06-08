@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mayoi Neko Overun"
 date: 2016-12-29 02:51:37 +0000

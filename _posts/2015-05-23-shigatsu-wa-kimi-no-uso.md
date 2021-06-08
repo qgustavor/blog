@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Shigatsu wa Kimi no Uso
 date: 2015-05-24 00:00:32 +0000

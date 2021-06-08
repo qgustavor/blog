@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Minha Waifu Fez Um Sanduíche…"
 date: 2017-06-20 10:14:32 +0000

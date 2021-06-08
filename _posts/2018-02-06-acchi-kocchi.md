@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Acchi Kocchi"
 date: 2018-02-06 02:51:37 +0000

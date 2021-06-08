@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Criptografia"
 date: 2016-09-06 03:14:29 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kanojo to Kanojo no Neko"
 date: 2016-12-15 02:51:37 +0000

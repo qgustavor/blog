@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kamisama Dolls"
 date: 2016-09-08 03:14:29 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Mikakunin de Shinkoukei
 date: 2015-07-08 00:00:33 +0000

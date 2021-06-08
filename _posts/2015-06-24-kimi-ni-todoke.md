@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kimi ni Todoke
 date: 2015-06-25 00:00:42 +0000

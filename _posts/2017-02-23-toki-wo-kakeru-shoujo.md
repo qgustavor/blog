@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Toki wo Kakeru Shoujo"
 date: 2017-02-23 03:51:37 +0000

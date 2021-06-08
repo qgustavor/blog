@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Educação Sexual para Virgens de 30 anos"
 date: 2021-05-06 14:51:40 +0000
 excerpt: "30-sai no Hoken Taiiku é mais um dos animes que resolvi rever depois de anos. É um bom anime. O nome..."
-image: https://i.imgur.com/8jMuhJf.png
+header:
+  image: https://i.imgur.com/8jMuhJf.png
 ---
 
 30-sai no Hoken Taiiku é mais um dos animes que resolvi rever depois de anos. É um bom anime. O nome em japonês não significa exatamente isso, mas é um bom resumo do anime. O jovem que me recomendou esse anime tem uma ótima família, então acho que para algumas pessoas esse anime dá resultado.

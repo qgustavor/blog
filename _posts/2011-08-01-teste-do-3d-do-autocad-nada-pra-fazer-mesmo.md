@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Teste do 3D do AutoCAD&hellip; nada pra fazer mesmo =/"
 date: 2011-08-02 02:03:37 +0000

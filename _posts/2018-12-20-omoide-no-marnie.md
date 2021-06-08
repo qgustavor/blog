@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Omoide no Marnie"
 date: 2018-12-20 02:51:38 +0000

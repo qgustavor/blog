@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kamisama no Inai Nichiyoubi
 date: 2015-04-11 00:00:48 +0000

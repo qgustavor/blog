@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Inou-Battle wa Nichijou-kei no Naka de"
 date: 2017-03-30 03:51:38 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Lovely★Complex"
 date: 2018-11-29 02:51:37 +0000

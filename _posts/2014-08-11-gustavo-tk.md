@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: グスタボ.tk
 date: 2014-08-11 03:30:00 +0000

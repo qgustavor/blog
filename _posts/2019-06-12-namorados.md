@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Dia dos namorados"
 date: 2019-06-12 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kodomo no Jikan
 date: 2015-04-17 00:00:31 +0000

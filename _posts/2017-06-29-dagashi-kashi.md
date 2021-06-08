@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Dagashi Kashi"
 date: 2017-06-29 03:51:39 +0000

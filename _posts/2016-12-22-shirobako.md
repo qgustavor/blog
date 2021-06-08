@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shirobako"
 date: 2016-12-22 02:51:37 +0000

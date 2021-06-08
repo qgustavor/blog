@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Udon no Kuni no Kiniro Kemari"
 date: 2018-11-08 02:51:37 +0000

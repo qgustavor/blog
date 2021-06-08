@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Bara no Hana to Joe"
 date: 2017-10-05 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Onsen Yousei Hakone-chan"
 date: 2016-04-28 12:00:00 -0300

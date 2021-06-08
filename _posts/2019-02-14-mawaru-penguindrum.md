@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Mawaru Penguindrum"
 date: 2019-02-14 02:51:37 +0000

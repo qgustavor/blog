@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Prioridades - Parte 2"
 date: 2020-06-03 03:51:40 +0000

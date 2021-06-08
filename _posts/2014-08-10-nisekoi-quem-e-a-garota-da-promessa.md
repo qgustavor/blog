@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nisekoi: quem é a garota da promessa?"
 date: 2014-08-10 03:30:19 +0000

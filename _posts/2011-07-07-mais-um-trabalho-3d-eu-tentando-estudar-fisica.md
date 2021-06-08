@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Mais um trabalho 3D
 date: 2011-07-08 01:15:07 +0000

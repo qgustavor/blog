@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Haiyore! Nyaruko-san"
 date: 2015-07-24 00:00:27 +0000

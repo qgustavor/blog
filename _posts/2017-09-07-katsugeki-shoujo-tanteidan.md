@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Katsugeki Shoujo Tanteidan"
 date: 2017-09-07 03:51:37 +0000

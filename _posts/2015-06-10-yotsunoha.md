@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Yotsunoha
 date: 2015-06-11 00:00:26 +0000

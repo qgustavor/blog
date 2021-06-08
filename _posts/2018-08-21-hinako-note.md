@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hinako Note"
 date: 2018-08-21 03:51:38 +0000

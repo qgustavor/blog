@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Little Busters!"
 date: 2015-06-26 00:00:26 +0000

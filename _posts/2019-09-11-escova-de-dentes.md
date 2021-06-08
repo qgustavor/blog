@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Escova de dentes"
 date: 2019-09-11 03:51:40 +0000

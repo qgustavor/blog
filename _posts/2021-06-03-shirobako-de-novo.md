@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Shirobako de novo"
 date: 2021-06-03 03:14:09 +0000
 excerpt: "Shirobako é mais um dos animes que vi mais de uma vez. Em poucas palavras ele é quase uma..."
-image: https://i.imgur.com/fD4WZq3.png
+header:
+  image: https://i.imgur.com/fD4WZq3.png
 ---
 
 Shirobako é mais um dos animes que vi mais de uma vez. Em poucas palavras ele é quase uma autobiografia de um estúdio de animes mostrando como eles produzem animes. É um ótimo anime pois mostra todo o esforço que é colocado na produção deles.

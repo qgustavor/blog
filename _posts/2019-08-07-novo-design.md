@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Novo design"
 date: 2019-08-07 03:51:38 +0000

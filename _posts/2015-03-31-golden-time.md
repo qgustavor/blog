@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Golden Time
 date: 2015-04-01 00:00:44 +0000

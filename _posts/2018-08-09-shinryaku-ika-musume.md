@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shinryaku! Ika Musume"
 date: 2018-08-09 03:51:37 +0000

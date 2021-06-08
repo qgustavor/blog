@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Wake Up, Girls!"
 date: 2015-06-07 00:00:30 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Sora no Method
 date: 2015-05-25 00:00:26 +0000

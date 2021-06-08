@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shibainuko-san"
 date: 2018-11-01 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sakura Trick: muito amor para um anime só"
 date: 2014-06-20 22:39:12 +0000

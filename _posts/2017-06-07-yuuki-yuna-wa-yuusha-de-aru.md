@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Yuuki Yuna wa Yuusha de Aru"
 date: 2017-06-07 03:17:57 +0000

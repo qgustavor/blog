@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Amaama to Inazuma"
 date: 2017-05-02 03:51:37 +0000

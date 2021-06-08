@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ookami to Koushinryou
 date: 2015-05-07 00:00:51 +0000

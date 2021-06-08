@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nagato Yuki-chan no Shoushitsu"
 date: 2015-10-15 12:00:00 -0300

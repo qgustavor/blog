@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Resolvendo problemas"
 date: 2021-02-27 03:06:12 +0000

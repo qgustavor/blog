@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Ooyasan wa Shishunki!"
 date: 2016-11-16 20:53:18 +0000

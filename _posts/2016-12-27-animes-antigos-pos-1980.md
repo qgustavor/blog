@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Animes Antigos - Pós 1980"
 date: 2016-12-27 02:51:37 +0000

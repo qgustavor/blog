@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "3-Gatsu no Lion"
 date: 2018-09-04 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Handsome Girl"
 date: 2016-08-04 03:18:45 +0000

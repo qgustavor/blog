@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Nanatsu no Taizai
 date: 2015-04-26 00:00:54 +0000

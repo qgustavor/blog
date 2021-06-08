@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kemono Friends"
 date: 2018-04-12 03:51:37 +0000

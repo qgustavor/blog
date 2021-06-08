@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Criatividade"
 date: 2019-08-28 03:51:38 +0000

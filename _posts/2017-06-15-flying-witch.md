@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Flying Witch"
 date: 2017-06-15 03:10:01 +0000

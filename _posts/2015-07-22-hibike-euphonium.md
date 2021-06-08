@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Hibike! Euphonium"
 date: 2015-07-23 00:00:29 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Colaboração"
 date: 2020-02-12 03:51:37 +0000

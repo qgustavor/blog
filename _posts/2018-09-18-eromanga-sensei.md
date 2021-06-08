@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Eromanga Sensei"
 date: 2018-09-18 03:51:37 +0000

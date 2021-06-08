@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nigeru wa Haji da ga Yaku ni Tatsu"
 date: 2019-02-07 02:51:39 +0000

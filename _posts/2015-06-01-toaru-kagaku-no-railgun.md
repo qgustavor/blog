@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Toaru Kagaku no Railgun
 date: 2015-06-02 00:00:35 +0000

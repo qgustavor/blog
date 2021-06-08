@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Vídeos e cores"
 date: 2020-08-05 03:06:24 +0000
 excerpt: "Processar e distribuir vídeos não é algo fácil: existem dezenas de codecs, um monte de configurações..."
-image: https://i.imgur.com/4Lcd0Cb.jpg
+header:
+  image: https://i.imgur.com/4Lcd0Cb.jpg
 ---
 
 Processar e distribuir vídeos não é algo fácil: existem dezenas de codecs, um monte de configurações e problemas de compatibilidade. Hoje eu estava comparando umas screenshots e notei que os players da Crunchyroll tem vários problemas com cores. *Claro,* isso não significa que isso seja um problema exclusivo da CR, é extremamente comum.

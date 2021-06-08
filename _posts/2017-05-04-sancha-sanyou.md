@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Sancha Sanyou"
 date: 2017-05-04 03:51:38 +0000

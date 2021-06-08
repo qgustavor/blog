@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Mahou Shoujo Madoka★Magica
 date: 2015-04-22 00:00:36 +0000

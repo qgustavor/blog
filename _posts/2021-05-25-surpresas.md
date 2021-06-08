@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Surpresas"
 date: 2021-05-25 03:14:07 +0000
 excerpt: "Na postagem da semana passada disse que o pessoal precisaria falar quando uma tradução é boa, mesmo..."
-image: https://i.imgur.com/WtYRNVG.png
+header:
+  image: https://i.imgur.com/WtYRNVG.png
 ---
 
 Na postagem da semana passada disse que o pessoal precisaria falar quando uma tradução é boa, mesmo se quem fez não tem uma reputação boa, então vou escrever sobre alguns animes que sei que há várias pessoas querendo ver em fansubs mas estão disponíveis legalmente com uma tradução boa.

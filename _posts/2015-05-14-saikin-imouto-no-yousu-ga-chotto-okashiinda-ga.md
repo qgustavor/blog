@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Saikin, Imouto no Yousu ga Chotto Okashiinda ga."
 date: 2015-05-15 00:00:39 +0000

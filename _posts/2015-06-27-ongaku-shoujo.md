@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Ongaku Shoujo
 date: 2015-06-28 00:00:44 +0000

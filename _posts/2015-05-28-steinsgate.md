@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Steins;Gate
 date: 2015-05-29 00:01:04 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Joukamachi no Dandelion"
 date: 2016-06-23 03:18:45 +0000

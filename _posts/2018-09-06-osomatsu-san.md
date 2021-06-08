@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Osomatsu-san"
 date: 2018-09-06 03:51:39 +0000

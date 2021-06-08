@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Soul Eater NOT!"
 date: 2015-05-27 00:00:44 +0000

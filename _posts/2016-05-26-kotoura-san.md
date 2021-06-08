@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kotoura-san"
 date: 2016-05-26 03:18:44 +0000

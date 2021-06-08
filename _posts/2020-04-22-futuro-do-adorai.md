@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Futuro do adorai"
 date: 2020-04-22 03:51:37 +0000

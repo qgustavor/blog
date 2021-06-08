@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Um olhar para o passado"
 date: 2020-06-10 03:51:42 +0000

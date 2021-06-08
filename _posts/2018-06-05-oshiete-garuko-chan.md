@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Oshiete! Garuko-chan"
 date: 2018-06-05 03:51:37 +0000

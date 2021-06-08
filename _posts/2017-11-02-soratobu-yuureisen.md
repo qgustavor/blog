@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Soratobu Yuureisen"
 date: 2017-11-02 02:51:37 +0000

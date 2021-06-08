@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tsukuyomi: Moon Phase"
 date: 2018-10-18 03:51:37 +0000

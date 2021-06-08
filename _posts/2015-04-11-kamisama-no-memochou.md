@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Kamisama no Memochou
 date: 2015-04-12 00:00:46 +0000

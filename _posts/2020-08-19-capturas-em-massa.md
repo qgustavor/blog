@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Capturas em massa"
 date: 2020-08-19 03:06:14 +0000
 excerpt: "Vamos supor que, por algum motivo, você precisa tirar milhares de capturas de vídeos em tempos..."
-image: https://i.imgur.com/VNw4X7h.png
+header:
+  image: https://i.imgur.com/VNw4X7h.png
 ---
 
 Vamos supor que, por algum motivo, você precisa tirar milhares de capturas de vídeos em tempos específicos, como você faria isso? Pesquisar no StackOverflow e pegar a primeira resposta que sair parece tentador, mas podemos fazer melhor!

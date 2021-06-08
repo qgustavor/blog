@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Lista de erros da Crunchyroll"
 date: 2020-01-02 10:55:35 +0000

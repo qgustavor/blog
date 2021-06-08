@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Charlotte"
 date: 2015-11-12 12:00:00 -0300

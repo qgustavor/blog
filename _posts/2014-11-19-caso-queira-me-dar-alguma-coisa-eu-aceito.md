@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Há várias coisas que aceito como presente"
 date: 2014-11-19 11:34:00 +0000

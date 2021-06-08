@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Projetos sem fim"
 date: 2016-06-14 03:19:02 +0000

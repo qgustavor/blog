@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Tonari no Seki-kun"
 date: 2015-06-04 00:00:49 +0000

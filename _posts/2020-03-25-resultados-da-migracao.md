@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Resultados da migração"
 date: 2020-03-25 03:51:39 +0000

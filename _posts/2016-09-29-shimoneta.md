@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai"
 date: 2016-09-29 03:14:29 +0000

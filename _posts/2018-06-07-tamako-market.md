@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tamako Market"
 date: 2018-06-07 03:51:37 +0000

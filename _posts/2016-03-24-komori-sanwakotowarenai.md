@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Komori-san wa Kotowarenai!"
 date: 2016-03-24 12:00:00 -0300

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 link: https://codepen.io/qgustavor/details/ZGROoe/
 excerpt: Public-key based authentication

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Kill Me Baby"
 date: 2019-01-31 02:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Uchuu Kyoudai"
 date: 2017-02-16 02:51:37 +0000

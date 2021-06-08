@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Meu e-mail tem quatro arrobas"
 date: 2014-11-10 20:09:00 +0000

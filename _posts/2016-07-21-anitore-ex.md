@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Anitore! EX"
 date: 2016-07-21 03:18:43 +0000

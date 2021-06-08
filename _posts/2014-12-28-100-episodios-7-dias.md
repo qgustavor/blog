@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "100 episódios: 7 dias"
 date: 2014-12-29 00:24:26 +0000

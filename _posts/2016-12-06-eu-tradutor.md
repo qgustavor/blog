@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Eu, tradutor"
 date: 2016-12-06 02:51:38 +0000

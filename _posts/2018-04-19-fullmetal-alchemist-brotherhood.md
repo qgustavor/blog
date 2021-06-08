@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Fullmetal Alchemist: Brotherhood"
 date: 2018-04-19 03:51:37 +0000

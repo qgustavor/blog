@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Nagi no Asukara"
 date: 2018-02-01 03:14:51 +0000

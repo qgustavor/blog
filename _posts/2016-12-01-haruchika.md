@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Haruchika: Haruta to Chika wa Seishun Suru"
 date: 2016-12-01 02:51:38 +0000

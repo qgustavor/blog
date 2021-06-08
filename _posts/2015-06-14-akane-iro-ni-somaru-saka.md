@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Akane-iro ni Somaru Saka"
 date: 2015-06-15 00:00:43 +0000

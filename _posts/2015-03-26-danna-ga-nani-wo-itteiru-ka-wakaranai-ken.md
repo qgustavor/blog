@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Danna ga Nani wo Itteiru ka Wakaranai Ken
 date: 2015-03-27 00:00:54 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Uma mensagem aberta para a equipe da Crunchyroll"
 date: 2021-03-27 16:40:34 +0000

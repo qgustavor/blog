@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Gingitsune
 date: 2015-03-31 00:00:55 +0000

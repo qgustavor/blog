@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Fate/kaleid liner Prisma☆Illya"
 date: 2018-05-01 03:51:39 +0000

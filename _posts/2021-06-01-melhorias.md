@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Melhorias"
 date: 2021-06-01 03:14:12 +0000
 excerpt: "Nas postagens anteriores escrevi que coloco traduções das músicas nos animes que eu vejo na..."
-image: https://i.imgur.com/PextPcl.png
+header:
+  image: https://i.imgur.com/PextPcl.png
 ---
 
 Nas postagens anteriores escrevi que coloco traduções das músicas nos animes que eu vejo na Crunchyroll. Faço isso desde quando comecei a ver animes lá, então talvez seja por isso que por muito tempo não reclamei delas não serem traduzidas. São várias melhorias que faço nos animes que vejo, aqui estão algumas delas:

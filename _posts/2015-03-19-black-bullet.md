@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Black Bullet
 date: 2015-03-20 00:00:41 +0000

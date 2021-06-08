@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Orenchi no Furo Jijou
 date: 2015-05-09 00:00:51 +0000

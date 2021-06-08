@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Mahouka Koukou no Rettousei
 date: 2015-04-23 00:00:35 +0000

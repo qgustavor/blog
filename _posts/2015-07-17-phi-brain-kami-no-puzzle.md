@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Phi Brain: Kami no Puzzle"
 date: 2015-07-18 00:00:25 +0000

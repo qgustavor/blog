@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shuumatsu no Izetta"
 date: 2018-06-21 03:51:37 +0000

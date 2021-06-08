@@ -1,10 +1,10 @@
 ---
-layout: post
 tags: []
 title: "Um outro olhar para o passado"
 date: 2020-06-17 03:51:38 +0000
 excerpt: "Não posso esquecer que o AniList também tem uma página de estatísticas. Ela não vai parar de..."
-image: https://i.imgur.com/R3f7UmM.jpg
+header:
+  image: https://i.imgur.com/R3f7UmM.jpg
 ---
 
 Não posso esquecer que o AniList também tem uma página de estatísticas. Ela não vai parar de funcionar (acho), mas quero falar um pouco dela também.

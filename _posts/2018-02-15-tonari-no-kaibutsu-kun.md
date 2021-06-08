@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Tonari no Kaibutsu-kun"
 date: 2018-02-15 02:51:37 +0000

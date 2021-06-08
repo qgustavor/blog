@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: Animes e mangás de 2014
 date: 2014-02-04 19:58:00 +0000

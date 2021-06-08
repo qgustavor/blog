@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Google Translate"
 date: 2019-05-15 03:51:41 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Fairy Tail"
 date: 2016-02-25 12:00:00 -0300

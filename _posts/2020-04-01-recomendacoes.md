@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Recomendações de animes"
 date: 2020-04-01 03:51:38 +0000

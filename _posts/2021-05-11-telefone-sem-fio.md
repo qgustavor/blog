@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "![](https://i.imgur.com/fyqZjlP.png)"
 date: 2021-05-11 14:51:39 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Astarotte no Omocha!"
 date: 2016-10-27 02:51:37 +0000

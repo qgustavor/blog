@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Jogos de celular"
 date: 2017-05-23 03:51:54 +0000

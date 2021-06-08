@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Eureka Seven"
 date: 2018-09-13 03:51:37 +0000

@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Morita-san wa Mukuchi."
 date: 2018-03-20 03:51:37 +0000

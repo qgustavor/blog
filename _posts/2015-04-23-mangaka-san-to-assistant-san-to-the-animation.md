@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Mangaka-san to Assistant-san to The Animation"
 date: 2015-04-24 00:00:40 +0000

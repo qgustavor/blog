@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Barakamon
 date: 2015-03-19 00:00:39 +0000

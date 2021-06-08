@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 excerpt: "O objetivo é criar um algoritmo capaz de determinar onde está as legendas em uma imagem. O material escolhido para testes são animes legendados."
 title: Extração de legendas de animes

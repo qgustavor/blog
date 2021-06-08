@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Gugure! Kokkuri-san"
 date: 2015-06-23 00:00:38 +0000

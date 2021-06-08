@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Melhorias no planejamento"
 date: 2019-10-23 03:51:39 +0000

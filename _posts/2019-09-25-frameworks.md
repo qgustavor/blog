@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Frameworks"
 date: 2019-09-25 03:51:37 +0000

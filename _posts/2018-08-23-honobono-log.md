@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Honobono Log"
 date: 2018-08-23 03:51:37 +0000

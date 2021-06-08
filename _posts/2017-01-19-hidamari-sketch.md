@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Hidamari Sketch"
 date: 2017-01-19 02:51:38 +0000

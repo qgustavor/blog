@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: "Koe de Oshigoto!"
 date: 2015-04-18 00:00:44 +0000

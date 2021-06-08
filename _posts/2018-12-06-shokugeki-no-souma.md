@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: []
 title: "Shokugeki no Souma"
 date: 2018-12-06 02:51:37 +0000

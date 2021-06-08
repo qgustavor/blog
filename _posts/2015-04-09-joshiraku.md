@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [1animepordia]
 title: Joshiraku
 date: 2015-04-10 00:00:29 +0000
