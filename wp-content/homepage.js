@@ -64,7 +64,7 @@
     // Rooms
     ctx.lineJoin = 'bevel'
     ctx.textAlign = 'center'
-    ctx.font = '15px Arial'
+    ctx.font = '15px "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif'
     const doorSize = 0.6
     const doorMargin = (1 - doorSize) / 2
     for (const room of rooms) {
