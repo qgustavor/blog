@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-206" class="post-206 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/amagi-brilliant-park/">Amagi Brilliant Park</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Um parque de diversões está próximo de ser fechado por não atingir a sua meta de visitantes. Todos desse parque estão desesperados pois&#8230;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-09-20T03:51:37-03:00">20/09/2018</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-207" class="post-207 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-08-09T03:51:37-03:00">09/08/2018</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-216" class="post-216 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/ookami-kodomo-no-ame-to-yuki/">Ookami Kodomo no Ame to Yuki</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Essa história, como pelo nome já dá para notar, fala de crianças lobo. Mas como assim? Tudo começa com uma história de amor entre uma&#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-08-07T03:51:37-03:00">07/08/2018</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/12/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

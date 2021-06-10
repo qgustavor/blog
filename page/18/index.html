@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-256" class="post-256 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/um-commit-por-dia/">Um commit por dia</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Ano passado tentei todos os dias contribuir pelo menos uma vez no GitHub, geralmente com um commit. Um ano se passou e &#8220;consegui&#8221; atingir a&#8230;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-01-30T02:51:41-03:00">30/01/2018</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-257" class="post-257 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-12-21T02:51:37-03:00">21/12/2017</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-265" class="post-265 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/new-game/">New Game!</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Uma garota termina o ensino médio e resolve já ir trabalhar com o que ela mais gosta: jogos. Em seu novo emprego ela encontra a grande&#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-12-14T02:51:37-03:00">14/12/2017</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/17/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

@@ -170,13 +170,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

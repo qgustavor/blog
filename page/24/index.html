@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-315" class="post-315 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/etica-criticas-e-fansubs/">Ética, Críticas e Fansubs</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Uma coisa que me dá raiva é ver traduções sendo criticadas. Não é por ética. Nem por estarem certos ou errados. É que, na maioria dos&#8230;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-06-13T03:17:57-03:00">13/06/2017</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-316" class="post-316 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-05-11T03:51:38-03:00">11/05/2017</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-325" class="post-325 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/holo/">Holo</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Ela, para quem não sabe, é uma garota linda, maravilhosa, sábia, imortal (se algumas condições forem cumpridas) e extremamente sexy. É a&#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-05-09T03:51:38-03:00">09/05/2017</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/23/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

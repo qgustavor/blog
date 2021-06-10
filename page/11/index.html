@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-186" class="post-186 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/inugami-san-to-nekoyama-san/">Inugami-san to Nekoyama-san</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Uma garota tem um espírito de cachorro, a outra tem espírito de gato, o que será que vai dar quando essas duas se encontrarem?  … o ano&#8230;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-12-27T02:51:37-03:00">27/12/2018</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-187" class="post-187 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-11-15T02:51:37-03:00">15/11/2018</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-196" class="post-196 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/udon-no-kuni-no-kiniro-kemari/">Udon no Kuni no Kiniro Kemari</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Um cara vai passar um tempo na casa onde ele morava quando criança no interior &#8211; uma loja de Udon &#8211; e se depara com algo impressionante. &#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2018-11-08T02:51:37-03:00">08/11/2018</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/10/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

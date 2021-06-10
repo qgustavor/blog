@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-355" class="post-355 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/boku-dake-ga-inai-machi/">Boku dake ga Inai Machi</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Um jovem as vezes passa por um fenômeno estranho: presencia algo ruim e pouco depois, do nada, volta no tempo, supostamente para evitar o&#8230;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2017-01-26T02:51:37-03:00">26/01/2017</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-356" class="post-356 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2016-12-27T02:51:37-03:00">27/12/2016</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-367" class="post-367 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/shirobako/">Shirobako</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Como um anime é produzido? Parece ser fácil, tem programa que faz de tudo, 3D com shaders que parecem os desenhos tradicionais&#8230; só que&#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2016-12-22T02:51:37-03:00">22/12/2016</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/27/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

@@ -99,6 +99,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-655" class="post-655 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/nessa-imagem-aparecem-duas-lentes-uma-normal-e/">Estudo de lentes</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Eu não me contentei com esse modelo 2D e busquei criar eu mesmo um modelo 3D dessas lentes, achei que a lente fresnel apresentou um resultado melhor do que a comum, não entendi muito o porque mas gostei do resultado.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2011-07-10T03:08:43-03:00">10/07/2011</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-657" class="post-657 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -175,13 +190,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

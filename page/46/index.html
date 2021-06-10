@@ -100,6 +100,21 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-536" class="post-536 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/toaru-kagaku-no-railgun/">Toaru Kagaku no Railgun</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Em uma cidade a maioria dos que nela habitam são estudantes, assim ela é considerada uma cidade escola. Isso é possível porque sendo bastante modernizada vários dos serviços são robotizados e alguns, como patrulhamento e segurança, é realizado pelos próprios estudantes, ainda que em parte e supervisionados.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2015-06-02T00:00:35-03:00">02/06/2015</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-537" class="post-537 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -235,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2015-05-24T00:00:32-03:00">24/05/2015</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-546" class="post-546 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/seitokai-yakuindomo/">Seitokai Yakuindomo</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Um colégio feminino abriu as portas para garotos, dessa forma no primeiro ano há garotos e garotas mas nos segundo e terceiro anos só há garotas. Para melhorar esse relacionamento das turmas um garoto foi convocado a participar do conselho estudantil, que no momento era composto de duas garotas com crises sexuais e uma com crise de altura. Com esse cenário é possível imaginar qualquer tipo de piadinha sexual, constrangimento e qualquer outra coisa engraçada.</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2015-05-23T00:00:36-03:00">23/05/2015</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://qgustavor.tk/page/45/"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 13v-2H8l4-4-1-2-7 7 7 7 1-2-4-4z" fill="currentColor"/></svg> <span class="nav-prev-text"><span class="nav-short">Posts</span> mais recentes</span></a>
@@ -300,13 +300,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }

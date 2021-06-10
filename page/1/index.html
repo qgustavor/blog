@@ -99,6 +99,22 @@ body.custom-background { background-color: #f2f2ff; }
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main" role="main">
 
+<article id="post-673" class="post-673 post type-post status-publish format-standard hentry category-postagens entry">
+
+	
+<header class="entry-header">
+	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/traduzindo-o-que-falta/">Traduzindo o que falta</a></h2>
+				</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Todo serviço de streaming já deixou de traduzir alguma coisa alguma vez: a HIDIVE deixou metade de um episódio de Himouto em inglês (já corrigiram), a Amazon deixou uma fala de Kemurikusa em inglês (o suporte me ignorou), a Funimation esqueceu o primeiro episódio de Senko (falaram que iriam arrumar, não sei em qual ano)&hellip; </p>
+<div class="more-link-container"><a class="more-link" href="https://qgustavor.tk/traduzindo-o-que-falta/">Continuar lendo <span class="screen-reader-text">Traduzindo o que falta</span></a></div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer default-max-width">
+		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2021-06-10T04:00:00-03:00">10/06/2021</time></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
 <article id="post-86" class="post-86 post type-post status-publish format-standard hentry category-postagens entry">
 
 	
@@ -234,21 +250,6 @@ body.custom-background { background-color: #f2f2ff; }
 		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2021-05-11T14:51:39-03:00">11/05/2021</time></span>	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
 
-<article id="post-95" class="post-95 post type-post status-publish format-standard hentry category-postagens entry">
-
-	
-<header class="entry-header">
-	<h2 class="entry-title default-max-width"><a href="https://qgustavor.tk/educacao-sexual-aos-30/">Educação Sexual para Virgens de 30 anos</a></h2>
-				</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>30-sai no Hoken Taiiku é mais um dos animes que resolvi rever depois de anos. É um bom anime. O nome&#8230;</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer default-max-width">
-		<span class="posted-on">Publicado em <time class="entry-date published updated" datetime="2021-05-06T14:51:40-03:00">06/05/2021</time></span>	</footer><!-- .entry-footer -->
-</article><!-- #post-${ID} -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Navegação por posts</h2>
 		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
@@ -294,13 +295,7 @@ body.custom-background { background-color: #f2f2ff; }
 	<script>
     document.querySelectorAll('form').forEach((form, index) => {
         const formAction = form.getAttribute('action');
-
-        // TODO: check after stripping Site URL that result is '/' or '', to not affect
-        // forms targeting /wp-admin.php etc
         const replacedFormAction = formAction.replace('https://qgustavor.tk', '' );
-
-        console.log('replaced form action: ' + replacedFormAction);
-
         if ( replacedFormAction === '' || replacedFormAction === '/' ) {
             form.setAttribute( 'action', '/search/' );
         }
