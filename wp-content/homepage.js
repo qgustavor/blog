@@ -1,4 +1,4 @@
-;requestAnimationFrame(function () {
+requestAnimationFrame(function () {
   const body = document.body
   const canvas = document.createElement('canvas')
   const headerHeight = Math.floor(
@@ -34,7 +34,10 @@
     x: Math.round(rows * 3 / 5) - 1,
     y: Math.round(lines / 2) - 1,
     w: 2,
-    h: 2
+    h: 2,
+    animated: false,
+    targetY: 2,
+    targetH: 2
   }]
   const widths = [1, 1, 2, 2, 2, 2, 3, 3, 3, 4]
   const heights = [1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4]
@@ -96,7 +99,7 @@
         )
         ctx.textBaseline = 'top'
         ctx.fillText(
-          (w * h) + ' m²',
+          (w * h).toFixed(2) + ' m²',
           (x - cX) * csize + csize * w * 0.5,
           (y - cY) * csize + csize * h * 0.5
         )
@@ -121,10 +124,42 @@
       const needsNewTarget = (room.doorSpeed > 0 && room.doorAngle > room.doorTarget) ||
         (room.doorSpeed < 0 && room.doorAngle < room.doorTarget)
       if (needsNewTarget) {
+        // TODO: check if open can be opened > 90°
         room.doorAngle = room.doorTarget
-        room.doorTarget = (Math.random() * 0.4 + 0.1) * Math.PI 
+        room.doorTarget = (Math.random() * 0.55) * Math.PI 
         room.doorSpeed = (Math.pow(Math.random(), 4) + 0.01) *
           (room.doorTarget - room.doorAngle)
+      }
+    
+      // Room animation
+      if (room.animated) {
+        if (room.targetY !== room.y) {
+          const speedY = room.targetY > room.y ? 1 : -1
+          room.y += speedY * 1e-3
+          if (Math.abs(room.targetY - room.y) < 0.01) {
+            room.y = room.targetY
+            room.animated = false
+          }
+        } else {
+          const speedH = room.targetH > room.h ? 1 : -1
+          room.h += speedH * 1e-3
+          if (Math.abs(room.targetH - room.h) < 0.01) {
+            room.h = room.targetH
+            room.animated = false
+          }
+        }
+      } else if (room.w !== room.h && room.w > 1 && room.h > 1 && Math.random() < 0.1) {
+        room.animated = true
+        // TODO: VERIFY DOOR
+        if (Math.random() > 0.5) {
+          room.targetY = Math.max(2, Math.min(lines - 3 - h,
+            room.y + Math.floor(Math.random() * 3) - 1
+          ))
+        } else {
+          room.targetH = room.h + Math.max(1, Math.min(4,
+            Math.floor(Math.random() * 3) - 1
+          ))
+        }
       }
     }
     
@@ -156,7 +191,10 @@
         doorAngle: 0,
         doorSpeed: Math.random() * 0.1 + 0.01,
         doorTarget: Math.PI / 2,
-        name: roomNames[Math.floor(Math.random() * roomNames.length)],
+        name: roomNames[Math.floor(Math.random() * roomNames.length)],        
+        animated: false,
+        targetY: y,
+        targetH: h,
         y, w, h
       }
       rooms.unshift(lastRoom)
