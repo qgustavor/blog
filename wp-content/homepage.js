@@ -20,8 +20,7 @@ window.requestAnimationFrame(function () {
   const getColor = isDarkMode
     ? () => `hsl(${Math.floor(Math.random() * 180 + 80)},15%,50%)`
     : () => `hsl(${Math.floor(Math.random() * 180 + 80)},25%,80%)`
-  const randomize = arr => {
-    let lastValue = null
+  const randomize = (arr, lastValue) => {
     return () => {
       let value
       do {
@@ -36,22 +35,28 @@ window.requestAnimationFrame(function () {
     'HIGUSHI', 'JOUGASAKI',
     'AIJIMA', 'RYOUKO', 'JOHNNY', 'KAORI'
   ])
+  const getDoorSpeed = () => (1 + Math.random()) * 0.01
+  const getDimensions = randomize(
+    [1, 1, 2, 2, 2, 2, 3, 3, 3, 4].map(w => 
+      [1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4].map(h => [w, h])
+    ).flat().filter(e => e[0] !== 1 || e[1] !== 1)
+  )
+  const initialDimensions = getDimensions()
   let rooms = [{
     color: getColor(),
     doorY: 0,
     doorAngle: 0,
-    doorSpeed: 0.01,
+    doorSpeed: getDoorSpeed(),
     doorTarget: Math.PI / 2,
+    name: getRoomName(),
     x: Math.round(rows * 3 / 5) - 1,
     y: Math.round(lines / 2) - 1,
-    w: 2,
-    h: 2,
+    w: initialDimensions[0],
+    h: initialDimensions[1],
     animated: false,
-    targetY: 2,
-    targetH: 2
+    targetY: initialDimensions[0],
+    targetH: initialDimensions[1]
   }]
-  const getWidth = randomize([1, 1, 2, 2, 2, 2, 3, 3, 3, 4])
-  const getHeight = randomize([1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4])
   const minRow = Math.floor(rows - 4 - rows / 4)
   let lastRoom = rooms[0]
 
@@ -138,8 +143,7 @@ window.requestAnimationFrame(function () {
         // TODO: check if open can be opened > 90°
         room.doorAngle = room.doorTarget
         room.doorTarget = (Math.random() * 0.55) * Math.PI
-        room.doorSpeed = (Math.pow(Math.random(), 4) + 0.01) *
-          (room.doorTarget - room.doorAngle)
+        room.doorSpeed = getDoorSpeed() * Math.sign(room.doorTarget - room.doorAngle)
       }
 
       // Room animation
@@ -188,8 +192,7 @@ window.requestAnimationFrame(function () {
       }
     }
     if (lastRoom.x < minRow && frame % 120 === 0) {
-      const w = getWidth()
-      const h = getHeight()
+      const [w, h] = getDimensions()
       const y = Math.max(2, Math.min(lines - 3 - h,
         lastRoom.y + lastRoom.doorY +
         Math.floor(Math.random() * h - h + 1)
@@ -199,7 +202,7 @@ window.requestAnimationFrame(function () {
         x: lastRoom.x + lastRoom.w,
         doorY: Math.floor(Math.random() * h),
         doorAngle: 0,
-        doorSpeed: Math.random() * 0.1 + 0.01,
+        doorSpeed: getDoorSpeed(),
         doorTarget: Math.PI / 2,
         name: getRoomName(),
         animated: false,
