@@ -35,7 +35,7 @@ window.requestAnimationFrame(function () {
     'HIGUSHI', 'JOUGASAKI',
     'AIJIMA', 'RYOUKO', 'JOHNNY', 'KAORI'
   ])
-  const getDoorSpeed = () => (1 + Math.random()) * 0.01
+  const getDoorSpeed = () => (1 + Math.random()) * 0.005
   const getDimensions = randomize(
     [1, 1, 2, 2, 2, 2, 3, 3, 3, 4].map(w => 
       [1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4].map(h => [w, h])
@@ -45,9 +45,9 @@ window.requestAnimationFrame(function () {
   let rooms = [{
     color: getColor(),
     doorY: 0,
-    doorAngle: 0,
+    doorAngle: Math.PI / 2,
     doorSpeed: getDoorSpeed(),
-    doorTarget: Math.PI / 2,
+    doorTarget: Math.PI / 3,
     name: getRoomName(),
     x: Math.round(rows * 3 / 5) - 1,
     y: Math.round(lines / 2) - 1,
@@ -165,15 +165,20 @@ window.requestAnimationFrame(function () {
         }
       } else if (room.w !== room.h && room.w > 1 && room.h > 1 && Math.random() < 0.1) {
         room.animated = true
-        // TODO: VERIFY DOOR
         if (Math.random() > 0.5) {
-          room.targetY = Math.max(2, Math.min(lines - 3 - h,
-            room.y + Math.floor(Math.random() * 3) - 1
-          ))
+          for (let i = 0; i < 5; i++) {
+            room.targetY = Math.max(2, Math.min(lines - 3 - h,
+              room.y + Math.floor(Math.random() * 3) - 1
+            ))
+            if (room.targetY !== room.targetH) break
+          }
         } else {
-          room.targetH = room.h + Math.max(1, Math.min(4,
-            Math.floor(Math.random() * 3) - 1
-          ))
+          for (let i = 0; i < 5; i++) {
+            room.targetH = room.h + Math.max(1, Math.min(4,
+              Math.floor(Math.random() * 3) - 1
+            ))
+            if (room.targetY !== room.targetH) break
+          }
         }
       }
     }
@@ -208,6 +213,7 @@ window.requestAnimationFrame(function () {
         animated: false,
         targetY: y,
         targetH: h,
+        last: lastRoom,
         y,
         w,
         h
