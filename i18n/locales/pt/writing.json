@@ -1,0 +1,16 @@
+{
+  "title": "Artigos",
+  "description": "Alguns escritos sobre temas que me são caros",
+  "empty": "Nenhum artigo por enquanto, mas não deve demorar!",
+  "not_found": "Nenhum artigo corresponde à sua pesquisa",
+  "not_found_description": "Não encontramos nenhum artigo correspondente à sua pesquisa. Tente pesquisar com outras palavras-chave.",
+  "back_link": "Voltar à lista de artigos",
+  "readingTime": "min de leitura",
+  "share": "Compartilhar o artigo",
+  "copy_link": "Copiar o link",
+  "search_article": "Pesquisar um artigo",
+  "blog": "Blog",
+  "unknown_author": "Autor desconhecido",
+  "show_search": "Pesquisar",
+  "hide_search": "Ocultar pesquisa"
+}

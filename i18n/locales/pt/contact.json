@@ -1,0 +1,19 @@
+{
+  "title": "Entre em contato comigo",
+  "description": "Vamos conversar sobre sua ideia, projeto ou qualquer outra coisa!",
+  "fullname": "Nome completo",
+  "email": "Email",
+  "phone": "Telefone",
+  "subject": "Assunto da sua mensagem",
+  "message": "Mensagem",
+  "submit": "Enviar",
+  "success": "Sua mensagem foi enviada com sucesso",
+  "error": "Ops, ocorreu um erro ao enviar sua mensagem :(",
+  "budget": "Orçamento",
+  "subject_types": {
+    "project": "Falar sobre um projeto",
+    "bug": "Reportar um bug",
+    "question": "Fazer uma pergunta",
+    "other": "Outro"
+  }
+}
