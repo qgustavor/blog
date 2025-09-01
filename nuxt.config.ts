@@ -111,5 +111,11 @@ export default defineNuxtConfig({
 
   ogImage: {
     zeroRuntime: true
+  },
+
+  content: {
+    preview: {
+      api: 'https://api.nuxt.studio'
+    }
   }
 })
