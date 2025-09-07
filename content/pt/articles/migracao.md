@@ -1,0 +1,24 @@
+---
+title: Migração
+date: '2019-11-06'
+excerpt: Tenho menos de três meses para migrar o meu computador para o Windows 10.  Obviamente
+  eu queria migrar para alguma distro Linux, mas aposto...
+---
+
+
+
+Tenho menos de três meses para migrar o meu computador para o Windows 10.
+
+Obviamente eu queria migrar para alguma distro Linux, mas aposto que nenhuma suporta os programas que uso no trabalho, então tenho que escolher o pior dos males: não migrar e deixar o computador vulnerável, ou migrar para o 10 e aprender a domá-lo.
+
+Não gosto do 10 e não porque eu não conheço ele, mas porque já tenho experiência com ele nos outros computadores daqui: o meu é o último que ainda está no 7. No geral a maioria dos problemas que eu tenho com o 10 são porque estou acostumado com detalhes do 7, como ter um maior controle do menu iniciar e dos favoritos no Explorer.
+
+Por exemplo, o meu menu iniciar tem uns 30 aplicativos e como eu uso todos eles a nova interface desperdiça muito espaço, acho ela pior. Eu poderia usar a pesquisa, porém a nova pesquisa do 10 me dá raiva: Microsoft, todo mundo sabe que o Bing é ótimo para pesquisar coisas educativas － ( ͡° ͜ʖ ͡°) － mas não precisa forçá-lo nos outros.
+
+Estou com os dois sistemas instalados, já configurei um monte de coisas no 10 (como desativar o Bing e a Cortana) mas ainda falta muito para terminar a migração. O principal problema é o próximo passo: como vou migrar os meus scripts? Não é surpresa para ninguém: eu não fiz os meus scripts pensando em um dia migrá-los.
+
+Vou ter que migrar bancos de dados, arrumar os caminhos nos scripts (um monte deles *hardcoded* ), testar para ver se nada quebrou…
+
+Vou mudar o meu cliente de torrent: no momento eu uso o Deluge, mas o suporte para Windows dele está ruim. Pesquisei outros clientes e, considerando vários fatores, mas principalmente a API, vou mudar para o qBitTorrent. Já deve fazer um ano que eu não preciso ficar adicionando e configurando torrents manualmente e não quero perder essa conveniência. Acho que eu preferiria parar de assistir anime do que isso.
+
+Espero que dê tudo certo.

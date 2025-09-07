@@ -1,0 +1,26 @@
+---
+title: Eizouken
+date: '2020-07-22'
+excerpt: Já que eu tinha dito que iria escrever sobre...
+header:
+  image: https://res.cloudinary.com/qgustavor/image/upload/v1595389899/nesxderx888hgevhlbky.png
+---
+
+
+
+Já que eu tinha dito que iria escrever sobre algum anime resolvi fazer o seguinte: vou escrever sobre os que eu mais gostei, começando pelos deste ano. A primeira postagem será de Eizouken ni wa Te wo Dasu na!.
+
+Se você não conhece esse anime é melhor ver ele primeiro, mas só para me situar irei resumir aqui: o nome do anime significa algo como "Não mexa com o clube de áudio-visual" e, esse nome já explica bem o anime, que envolve, inicialmente três garotas, que formam um clube de “áudio-visual” mas que na verdade é só um clube para fazer animes.
+
+Colocando em outras palavras, Eizouken está para Shirobako assim como Stella no Mahou está para New Game. Entende?
+
+Gostei desse anime porque, assim como essas garotas, também gosto de anime e é bem interessante ver todo o empenho delas. Na maior parte do tempo elas fazem anime justamente porque gostam muito de animes e querem que várias pessoas vejam o trabalho delas.
+
+Em um momento elas também querem ganhar dinheiro, mas até isso foi bem interessante: em Stella no Mahou as garotas passaram por muito estresse, mas não se preocuparam tanto se o jogo que elas fizeram iria vender, já em Eizouken a questão monetária se tornou uma catapulta para evitar que elas gastassem muito tempo sonhando e sonhando e no fim acabassem não entregando nada. Claro, mesmo assim elas também passaram por apuros, mas é impressionante o tamanho do público que elas conseguiram atingir com isso.
+
+Algo que notei não só com o anime em si mas também pela forma que ele foi traduzido foi ver que a ideia de que “se alguém faz algo porque é fã ele faz algo melhor do que alguém que faz por dinheiro” não é bem válida: se alguém é fã e ainda ganha por isso o resultado é melhor ainda, pois enquanto um trabalha para fazer algo bem feito apenas para si mesmo e o segundo trabalha tentando agradar os outros, o terceiro tenta agradar os dois, o que gera um resultado melhor.
+
+No caso de Eizouken é fácil de notar que quem traduziu realmente gosta muito desse anime pelo tamanho do esforço que teve: não há erros de digitação, revisão ou tradução e a estilização é extremamente bem feita. Foi tão bem feita que quase travou o meu computador!
+
+É só isso por hoje, até semana que vem!
+

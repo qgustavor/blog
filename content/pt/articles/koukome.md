@@ -1,0 +1,36 @@
+---
+title: KouKome
+date: '2015-07-26'
+excerpt: 'Acho que essa história merece o prêmio de criatividade em escolher um nome
+  grande: “Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru”.
+  O que significa é o que veremos agora:<br>'
+---
+
+
+
+Acho que essa história merece o prêmio de criatividade em escolher um
+nome grande: “Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo
+Zenryoku de Jama Shiteiru”. O que significa é o que veremos agora:
+
+Um garoto foi pego por uma maldição onde do nada são mostradas para ele
+algumas escolhas e ele tem que fazer o que é especificado em uma delas,
+sem poder fugir disso. Geralmente a maioria dessas escolhas são muito
+idiotas elas acabam atrapalhando o “a comédia romântica escolar” dele.
+
+Um dia ele acabou escolhendo que cairia uma garota do nada sobre ele, o
+que devia ser impossível, mas realmente caiu. Ela chegou sem saber de
+nada, com amnésia, só sabia que ela tinha que ajudá-lo a resolver os
+problemas dele. Para piorar ela não é o tipo de pessoa que você quer em
+sua casa: não ajuda e só sabe ficar comendo suas coisas.
+
+Mas, como em toda situação do tipo, ela acabou se matriculando e foi
+estudar junto dele. Então a situação que já não estava boa deveria
+piorar, mas até que não: todo mundo gostou dela, começou a dar doces
+para ela, além de entender a situação ao invés de ficar criticando o
+fato de uma garota morar sozinha com um garoto. Já quanto a ele piorou,
+claro.
+
+Por que ele tem maldição e como ele se livrará dela é o assunto dessa
+tão divertida história. Bem, é isso.
+
+

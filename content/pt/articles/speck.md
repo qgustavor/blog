@@ -1,0 +1,36 @@
+---
+title: Speck
+date: '2020-05-06'
+excerpt: Continuando no assunto de criptografia hoje o assunto é o Speck. Gosto muito
+  dela… para qualquer que não precisa de segurança.  O Speck é...
+---
+
+
+
+Continuando no assunto de criptografia hoje o assunto é o Speck. Gosto muito dela… para qualquer que não precisa de segurança.
+
+O Speck é uma cifra de bloco, ou seja, é uma função que toma uma chave e uma entrada e ela retorna uma versão criptografada desta entrada. Esse processo também pode ser invertido. O resultado é tal que, mantendo a chave, uma pequena diferença na entrada resulta em uma grande diferença no bloco, em oposição uma cifra de *stream* onde isso não ocorre.
+
+Em geral os dois tipos de cifras usam vetores de inicialização para evitar problemas relativos a descobrir a entrada com base em comparações das saídas, porém em situações onde as entradas são menores que o tamanho dos blocos e a entradas nunca se repetem, as cifras de bloco permitem dispensar o uso desses vetores, o que permite uma redução na quantidade de dados transmitida.
+
+Ele não é só uma cifra, mas uma família. Se for implementada corretamente ela suporta blocos de 32, 48, 64, 96 e 128 bit, com chaves variando entre 64 bits e 256 bits. Além disso é simples de implementar: a minha implementação dele tem apenas 81 linhas (incluindo linhas em branco, comentários e funções auxiliares) e suporta todas as variações dessa família de cifras. Uma implementação mais simplificada, implementando apenas uma cifra da família, pode ser implementada em 24 linhas de JavaScript.
+
+Agora, qual é o problema do Speck? Por que eu não uso ele em situações que precisam de segurança? São vários problemas! O primeiro problema é desde que ela foi criada pela NSA e publicada em 2013, ainda que ninguém tenha publicado um ataque completo à cifra, a reputação da cifra é péssima! Ela não conseguiu ser padronizada pela ISO, foi removida do kernel do Linux e foi alvo de várias críticas.
+
+O outro problema é fácil de ser notado: o tamanho dos blocos é pequeno demais. Isso facilita vários tipos de ataques. Um bloco de 32 bits, por exemplo, só permite 4.2 bilhões de entradas diferentes, o que parece muito, mas não é. Um bloco de 128 bit, que é tão comum que estou usando ele exatamente agora para acessar o meu editor, é 10^28 vezes mais seguro.
+
+**Mesmo assim eu gosto do Speck!** A forma que ele trabalha permite que os blocos sejam de qualquer tamanho múltiplo de 2 bits, então posso usar um bloco de 12 bits se eu quiser. Além disso o tamanho da chave é limitado apenas pelo número de ciclos da operação, então posso usar chaves de 512 bits se eu quiser. Duvido que seja seguro, mas é uma melhoria enorme.
+
+Se não estão entendendo, eis um exemplo prático:
+
+* A lista de erros da Crunchyroll tem milhares de imagens cadastradas, cada uma é representada internamente por um número;
+* Alguns erros não são publicados seja porque não era realmente um erro ou porque cadastrei antes do episódio estar disponível para não-assinantes[^1];
+* Se eu publicasse o número interno das imagens seria possível descobrir facilmente quantos erros eu já cadastrei no total, incluindo os que não foram publicados;
+* Usando o Speck posso manter estes erros ocultos transformando o número da imagem - algo como "123" - em um código como “RD5JM2”;
+* Esse código é o número representado como um bloco de 30 bits, processado pelo Speck e codificado em Base32. Como cada caractere nesse formato representa 5 bits o código usa 6 caracteres. Como o tamanho máximo do bloco é 30 bits, posso cadastrar até um pouco mais de um bilhão de erros.
+
+Imagino que não seja muito difícil inverter a operação e descobrir os números originais das imagens: tentar as 10^18 chaves possíveis, considerando que o Speck é absurdamente rápido, não deve demorar muito. Se fizermos um benchmark simples a minha implementação processa 7 milhões de chaves por segundo, uma mais otimizada deve processar cem vezes isso, alguém atacando a chave provavelmente usaria umas cinquenta máquinas em paralelo, assim a chave poderá ser quebrada em menos de um ano.
+
+É isso o que tenho para hoje, até semana que vem!
+
+[^1]:  É um exercício adicional para o leitor entender o motivo real deste problema.

@@ -1,0 +1,20 @@
+---
+title: Scripts
+date: '2016-11-01'
+excerpt: Eu gosto de automatizar várias coisas, aliás, qualquer coisa que comece a
+  ficar repetitiva. Coisas simples, como downloads, automatizo só...
+---
+
+
+
+Eu gosto de automatizar várias coisas, aliás, qualquer coisa que comece a ficar repetitiva. Coisas simples, como downloads, automatizo só usando comandos simples de linha de comando, mas algumas tarefas deixo scripts prontos para usar. Falarei deles:
+
+Os três deles são para configurar a rede. Meu computador geralmente fica ligado com torrents e o Apache para que eu possa acessar os arquivos. Se por algum motivo eu tenha que ligar ele em outra rede esses scripts já configuram tudo, isso é, configurações de IP, wireless, etc.
+
+Outro organiza meus papéis de parede, como já falei em outra postagem. Outro liga uma função do Lumine que foi escondida, por algum motivo. Outro automaticamente salva imagens na área de transferência (criei por que o Prezi não tem uma opção de colar imagens na apresentação, só adicionar pelo arquivo). Outro deles baixa músicas de sites de vídeos e envia para meu celular. Ele é relativamente simples: é só youtube-dl e o adb em seguida.
+
+Agora os mais complexos são, claro, os de animes: um deles pega os animes que estou assistindo e envia para o celular e o outro cria uma playlist no player de vídeo. Organizo duas listas de animes que o script envia: a das que eu não preciso ficar esperando sair os episódios, e a que preciso.
+
+A primeira eu configuro a ordem que quero assistir em um aplicativo web, só arrastar e soltar. O outro organizo com um arquivo JSON (ainda não fiz uma interface mais bonita para ele). Quando conecto meu celular ele automaticamente sincroniza e envia os arquivos na ordem.
+
+Bem, resumi um pouco como funciona tudo isso. Ainda tem outros scripts, depois falo deles.

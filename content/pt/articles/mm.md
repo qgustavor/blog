@@ -1,0 +1,38 @@
+---
+title: MM!
+date: '2015-04-25'
+excerpt: 'Uma garota, se considerando uma deusa, decidiu que deve atender as súplicas
+  dos que precisarem de ajuda. Chegou a um ponto de até fazer um clube para isso.
+  Então ela conhece um garoto com um caso grave de masoquismo e então tenta curá-lo.
+  Porém como curar um masoquista, eles pensam? Fazendo ele sofrer até ele não aguentar
+  mais e virar uma pessoa normal, claro. Ainda, no mesmo clube que ela fez, tem outra
+  menina com problema: androfobia.'
+---
+
+
+
+Uma garota, se considerando uma deusa, decidiu que deve atender as
+súplicas dos que precisarem de ajuda. Chegou a um ponto de até fazer um
+clube para isso. Então ela conhece um garoto com um caso grave de
+masoquismo e então tenta curá-lo. Porém como curar um masoquista, eles
+pensam? Fazendo ele sofrer até ele não aguentar mais e virar uma pessoa
+normal, claro. Ainda, no mesmo clube que ela fez, tem outra menina com
+problema: androfobia.
+
+Por fim, com três pessoas problemáticas no mesmo clube nada mais poderia
+dar errado, certo? Claro que pode! Estavam achando que esse garoto vai
+apaixonar por essa menina e vão curar a androfobia dela com o poder do
+amor e tudo mais? Muito cliche, acontece mesmo que esse garoto já é
+apaixonado por uma garota. Ele encontrou com essa menina uma vez no
+trabalho dele e foi paixão a primeira vista, toda vez que ela ia fazer
+compras na loja ele estava lá, caidinho por ela. Acontece que essa
+garota é o melhor amigo dele.
+
+Isso tudo é o primeiro episódio, não se preocupem, se o nível já é esse
+pode piorar, ou melhorar, dependendo de como você olhe. Por esse anime
+posso dizer que gostei dele (assisti uma vez e outra pelas metades),
+pois é bem divertido e curioso as diversas tentativas ( uma até deu
+certo ) para curá-lo do masoquismo e ela da androfobia ( mas ninguém
+quis curar a Mio da crise de deusa dela, nem o cross-dresser ). Pela
+realidade fico triste pois ele não terá continuação.
+

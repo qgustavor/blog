@@ -1,0 +1,23 @@
+---
+title: Hen Zemi
+date: '2015-04-04'
+excerpt: Enganado pelo estilo de desenho simples - o que me fez achar que era um desenho
+  infantil - esse anime não tem nada disso. Conheça um seminário dedicado a estudar
+  somente coisas estranhas e não ache que você encontrará algo normal aí no meio.
+---
+
+
+
+Enganado pelo estilo de desenho simples - o que me fez achar que era um
+desenho infantil - esse anime não tem nada disso. Conheça um seminário
+dedicado a estudar somente coisas estranhas e não ache que você
+encontrará algo normal aí no meio.
+
+Com professores de aparência e gostos duvidosos, alunos com gostos não
+tão agraváveis e outras coisas estranhas esse anime vai desde os mais
+simples fetiches como ficar nu por baixo das roupas (depende de quais,
+claro) até aqueles das diversas culturas mostradas (nem digo).
+
+É um anime relativamente curto e estranho, como essa postagem.
+
+

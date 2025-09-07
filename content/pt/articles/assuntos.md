@@ -1,0 +1,22 @@
+---
+title: Assuntos
+date: '2017-11-14'
+excerpt: 'Dia 31 estive pensando: justamente no dia das bruxas e no dia dos 500 anos
+  da divisão protestante eu fui postar sobre ecchi?! Sou péssimo...'
+---
+
+
+
+Dia 31 estive pensando: justamente no dia das bruxas e no dia dos 500 anos da divisão protestante eu fui postar sobre ecchi?! Sou péssimo para encontrar assuntos, mas isso não se aplica apenas aqui no blog, porém em qualquer situação.
+
+É certo que eu não tenho praticamente nada a dizer sobre esses dois assuntos, no máximo eu poderia fazer uma seleção de animes para assistir nesse dia - e eu não poderia de deixar de incluir Soul Eater nessa lista - e comentar o que aconteceu na igreja no último domingo.
+
+Mas o que eu acho mais importante para essa postagem por que eu não sou bom para achar assuntos? Será que eu não faço nada interessante? Ficar escrevendo um monte de código que não ganha uma estrela no GitHub com certeza não é nada interessante.
+
+E se isso estiver certo por que eu continuo fazendo isso? Por causa das estatísticas? Francamente sei que isso está errado, mas não quero parar assim do nada, quero pelo menos completar um ano fazendo um commit todo dia e poder dizer "é isso, agora acabou" e voltar as minhas postagens uma ou duas vezes por semana.
+
+Isso mesmo, até estou querendo acabar até com essas postagens de terça. Não é que elas estejam me ajudando muito: ninguém comenta mesmo, mesmo depois que coloquei o Disqus no blog. Do que adianta eu escrever algo e ninguém responder? Isso é apenas um monólogo.
+
+Aliás, isso me lembra de algo: tenho um monte de jogos na minha conta da Steam e até agora não joguei eles. Bem, exceto Portal, que me lembro de ter zerado enquanto estava passando um jogo da seleção, e TF2, que embora eu não tenha jogado muito já foi o suficiente para saber que o meu computador não consegue renderizar o Pyro sem ficar lento.
+
+E sobre o que vou falar na próxima postagem? Sei lá. Até mais.

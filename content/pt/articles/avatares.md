@@ -1,0 +1,33 @@
+---
+title: Avatares
+date: '2020-04-15'
+excerpt: Ao longo dos anos usei vários avatares. Na minha conta do Gravatar há 22
+  avatares cadastrados usados por um pouco mais de dez endereços de...
+---
+
+
+
+Ao longo dos anos usei vários avatares. Na minha conta do Gravatar há 22 avatares cadastrados usados por um pouco mais de dez endereços de e-mail.
+
+No início os meus avatares eram similares ao de muita gente: imagens prontas. O primeiro avatar que eu coloquei, por volta de 2010, era do Genma, de Ranma ½, e os dois seguintes eram do Gon de Hunter x Hunter:
+
+![](https://i.imgur.com/CwEPucc.png)
+
+O avatar seguinte foi um que gerei no (atualmente fechado) EightBit.me. Os seguintes foram variações dele com base em personagens de anime. Da esquerda para a direita: o avatar original, [Ako Tamaki](https://myanimelist.net/character/131005/Ako_Tamaki), [Chitanda Eru](https://myanimelist.net/character/55133/Eru_Chitanda), [Rintarou Okabe](https://myanimelist.net/character/35252/Rintarou_Okabe), [Nine](https://myanimelist.net/character/103651/Nine) e [Rakka](https://myanimelist.net/character/1995/Rakka).
+
+![](https://i.imgur.com/kDKn9eZ.png)
+
+O próximo avatar que usei eu peguei praticamente pronto. É a Shiina de Stella no Mahou. Ela é programadora, então achei um avatar muito adequado para mim, por outro lado não usei ele por muito tempo:
+
+![](https://i.imgur.com/laJgOm0.png)
+
+Os próximos avatares foram baseados em Ai-Mai-Mii. Os avatares delas eu peguei prontos (no anime) e fiz várias variações (e não gostei da maioria delas). Aqui está alguns deles. Na mesma ordem: Mii, Mai, Ai, Kizuna Ai, Holo e a Nero versão Padoru.
+
+![](https://i.imgur.com/sfEfuvk.png)
+
+Não gostei muito do avatar da Holo porque o sombreamento ficou muito estranho. Tentei fazer um avatar da Ika Musume, da Watashi (de Jinrui) e da Tsumiki mas não gostei muito deles.
+
+Desses avatares hoje em dia só uso o original do EightBit e a Kizuna. O avatar da Nero eu uso perto do Natal. Os avatares da Ai, Mai e Mii só uso quando estou cansado desses.
+
+Até semana que vem!
+

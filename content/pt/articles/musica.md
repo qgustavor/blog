@@ -1,0 +1,20 @@
+---
+title: Música
+date: '2017-09-27'
+excerpt: Desde pequeno eu queria ser bom com música, quando ainda nessa época ganhei
+  um teclado e resolvi tentar aprender a tocar alguma coisa. No...
+---
+
+
+
+Desde pequeno eu queria ser bom com música, quando ainda nessa época ganhei um teclado e resolvi tentar aprender a tocar alguma coisa. No final acabou não dando muito certo.
+
+Bem, naquela época tudo o que eu conseguir tocar era as músicas que a minha prima tinha me ensinado - isso é, pelo o que eu me lembro agora foi "parabéns para você" e mais alguma - e algumas músicas que vieram para aprender no teclado… embora só aprendi “Ode to Joy” e “Jingle Bells”.
+
+O tempo passou, o teclado estragou e mais e mais fui ficando sem tocar. Até tentei dar um jeito, acabei arrumando outro teclado, mesmo assim não melhorou. Peguei o Synthesia para ver se ajudava: é como o pessoal fala, esse programa não ajuda em nada.
+
+Aliás, tanto esse programa quanto um bem parecido para celular só me ajudaram a decorar como se toca “Bad Romance” e partes de algumas músicas de anime. No resto eu sou bem ruim com música.
+
+Arriscar mexer com DJ obviamente não foi uma boa ideia: já peguei vários programas, dos mais simples aos mais complicados para ir tentando. No fim das contas o resultado foi sempre a mesma coisa: uma bagunça desafinada.
+
+Quem sabe no futuro eu pelo menos dê uma melhorada nisso, não é?
