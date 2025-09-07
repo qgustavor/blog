@@ -1,0 +1,16 @@
+---
+title: 2D ou 3D
+date: '2017-02-07'
+excerpt: 'Um dia eu fui abrir um arquivo na minha área de trabalho, que sempre está
+  com um papel de parede de anime, e parei para pensar: tenho...'
+---
+
+
+
+Um dia eu fui abrir um arquivo na minha área de trabalho, que sempre está com um papel de parede de anime, e parei para pensar: tenho dificuldade para me lembrar o nome de pessoas, mas não de personagens de animes.
+
+Então resolvi fazer um jogo onde o objetivo é tentar lembrar o maior número de nomes, só que com um detalhe: de pessoas reais e de personagens de anime. Eu poderia fazer um jogo que pega fotos dos amigos de alguma rede social para deixar o jogo mais complicado, mas resolvi pegar uma lista de pessoas famosas mesmo.
+
+O resultado é: consigo me lembrar o nome de muita gente que não é do mundo bi-dimensional. Infelizmente parece que esse resultado só vale no jogo mesmo, pois continuo com problemas para me lembrar o nome de pessoas.
+
+Caso alguém queira jogar o endereço é esse: [https://2d-ou-3d.neocities.org/](http://2d-ou-3d.neocities.org/)

@@ -1,0 +1,14 @@
+---
+title: Wasurerareta Ningyou e Juu-nin no Chiisa na Indian
+date: '2017-12-28'
+excerpt: '**_Wasurerareta Ningyou_** * (A Boneca Esquecida)* ** ** fala de uma boneca
+  que fora esquecida em uma noite congelante. Ao ver a situação...'
+---
+
+
+
+**_Wasurerareta Ningyou_** * (A Boneca Esquecida)* ** ** fala de uma boneca que fora esquecida em uma noite congelante. Ao ver a situação dela seus amigos, gizes de cera, resolvem ajudá-la: eles vão em uma folha de papel e começam a desenhar um lugar melhor para ela, onde ela pudesse se esquentar. Ela então entra nesse mundo bidimensional e nele brinca e se diverte. É uma história que mistura live action, stop motion e animação com giz de cera, muito criativa.
+
+**_Juu-nin no Chiisa na Indian_** * (Os dez indiozinhos)* é uma animação em stop motion da antiga música infantil dos dez indiozinhos. Curiosamente embora a música seja em inglês ainda é anime.
+
+Com essas duas animações acabam as postagens sobre a coleção de filmes que assisti do diretor Okamoto Tadanari.

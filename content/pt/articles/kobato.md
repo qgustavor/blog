@@ -1,0 +1,27 @@
+---
+title: Kobato
+date: '2015-04-16'
+excerpt: 'Uma garota recebe uma missão: curar corações. Se ela o fizer ela poderá
+  ver o lugar que ela tanto queria ver.'
+---
+
+
+
+Uma garota recebe uma missão: curar corações. Se ela o fizer ela poderá
+ver o lugar que ela tanto queria ver. Para ajudá-la foi encarregado um
+cachorrinho de pelúcia ( na verdade essa é só uma forma dele, na verdade
+ele não é nada *bonitinho* ).
+
+Só que a menina não sabe muita coisa sobre como o mundo funciona e tenta
+resolver tudo do seu jeitinho. Muitas vezes ela cura corações só sendo
+uma menina boa: um bebê está chorando, ela canta e lá se vai o choro;
+uma pessoa está triste, ela faz de tudo para ela melhorar.
+
+A *lição do dia* é como ser uma pessoa melhor. É bem educativo, deveria
+passar na TV Cultura¹.
+
+<!-- more -->
+
+¹ Entendeu a referência, né? Acho que não.
+
+

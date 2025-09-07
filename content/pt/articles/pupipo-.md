@@ -1,0 +1,23 @@
+---
+title: Pupipo!
+date: '2016-04-07'
+excerpt: Uma menina consegue ver e falar com espíritos, por isso é mal vista pelos
+  seus colegas. Nessa triste situação ela encontra um espírito rosa muito bonitinho,
+  e um passa a cuidar do outro.
+---
+
+
+
+Uma menina consegue ver e falar com espíritos, por isso é mal vista pelos
+seus colegas. Nessa triste situação ela encontra um espírito rosa muito
+bonitinho, e um passa a cuidar do outro. O nome desse espírito ficou sendo
+Pupipo.
+
+Mesmo assombrada e com o boato de que quem ficar perto dela acabará
+amaldiçoado aparecem mais amigos que irão acompanhar ela nessa jornada.
+Eles não vêem com maus olhos o poder dela e ajudam ela e Pupipo a resolver
+seus problemas com os espíritos.
+
+É uma historinha curta porém bem divertida. Me lembrou Re-Kan! já que as
+duas tem o mesmo poder e passam por situações parecidas. Pupipo diferencia
+por mostrar um ponto de vista infantil porém mais triste.

@@ -1,0 +1,45 @@
+---
+title: Love Hina
+date: '2015-04-20'
+excerpt: E chegou o momento que vou falar do primeiro anime que assisti via internet
+  e também o primeiro que assisti do início ao fim. Conheça a história dos moradores
+  da Hinata Sou (pensão ou algo assim), um lugar onde moram estudantes mulheres. Só
+  que um dia chega a esse lugar um morador novo e vai morar com elas.
+---
+
+
+
+E chegou o momento que vou falar do primeiro anime que assisti via
+internet e também o primeiro que assisti do início ao fim. Conheça a
+história dos moradores da Hinata Sou (pensão ou algo assim), um lugar
+onde moram estudantes mulheres. Só que um dia chega a esse lugar um
+morador novo e vai morar com elas.
+
+Quem é ele? Nada demais, um cara que foi reprovado nas provas para a
+faculdade e está nos cursinhos. O motivo dele ir lá? Deve ser família
+(não lembro, mas geralmente sempre é algo assim). Como que ele acaba lá?
+Ele se torna o gerente do lugar, após uma longa conversa com as
+moradoras, que permitiram.
+
+E o que acontece nessa história? Claro que aparece as meninas tomando
+banho, socando o cara por vê-las sem roupa (mas também com tanta mulher
+junta para um homem só) e mandando ele para os ares.
+
+E antes que eu esqueça, o ponto mais importante da história: esse garoto
+quando ainda era menino fez uma promessa com uma garota dizendo que ele
+casaria/namoraria/etc com ela. Agora ele está atrás dela e quer saber
+quem é essa garota, pois ele não lembra muito bem dela.
+
+Por esse motivo também ele evita se apaixonar por outras garotas, embora
+uma acabe conquistando o coração dele: uma garota que de um lado é uma
+nerd que quando coloca um óculos fica aquela coisa mais “só sei estudar
+nessa vida” e quando tira e arruma o cabelo fica a coisa mais linda do
+mundo (ao menos é a coisa mais linda do anime, coitadas das outras).
+
+Por fim a história acaba sendo o relacionamento desse casal, a possível
+garota da promessa, as outras meninas da pensão (não esquecendo daquela
+que consegue fazer uma bomba só com uma canela estereográfica), o
+cursinho e a luta para entrar na faculdade. E simplificado: é bem
+divertido e tem um romance interessante.
+
+

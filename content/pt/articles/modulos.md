@@ -1,0 +1,48 @@
+---
+title: Experimentando com módulos
+date: '2020-06-24'
+excerpt: No momento estou trabalhando para remover qualquer parte dos scripts que
+  organizam os meus animes que...
+header:
+  image: https://i.imgur.com/0exSI47.png
+---
+
+
+
+No momento estou trabalhando para remover qualquer parte dos scripts que organizam os meus animes que dependam do MyAnimeList. Resolvi, aproveitando o clima que está já que a versão 1 do Deno foi recentemente publicada, fazer alguns testes com módulos ES.
+
+Como no momento o Deno ainda está muito novo estou evitando ele para esse projeto e usando o Node, mas como boa parte desse clima de sair experimentando com esses módulos sem depender de Webpack, Parcel ou Rollup começou no Deno eu acabei levando uns sustos quando fui testar no Node.
+
+Para começar eu não sabia que o import.meta.main era algo exclusivo do Deno. Achei que fosse algo "padrão", já que o Deno se valoriza tanto por isso. Acabei fazendo isso um desafio: escrever uma função que retorna se um módulo é o principal ou não:
+
+```javascript
+export default function isMain (meta) {
+  if (meta.main) return true
+  if (typeof Deno !== 'undefined') return false
+  if (typeof document !== 'undefined') {
+	return Array.from(document.scripts).some(e => e.src === meta.url)
+  }
+
+  if (typeof process !== 'undefined') {
+	const calledScript = process.argv[1]
+	const normalize = e => e.split(/[/\\]/).pop().toLowerCase().replace(/\..*$/, '')
+	return normalize(calledScript) === normalize(meta.url)
+  }
+
+  if (typeof WorkerGlobalScope !== 'undefined') {
+	return self.location.href === meta.url
+  }
+
+  throw Error('could not find if module is main')
+}
+```
+
+No Deno e em navegadores funciona bem mas no Node é uma gambiarra. Há um módulo no NPM que faz isso e, claro, deve fazer melhor. Espero que no futuro isso seja padronizado.
+
+Um outro experimento que resolvi fazer foi pegar o [MKV Extract](https://qgustavor.github.io/mkv-extract/) e migrar ele de JavaScript para TypeScript, de CommonJS para ESM, e de Browserify para Parcel. Além disso agora ele usa GitHub Actions o que significa que não preciso ficar compilando no meu computador o site se alguém enviar um pull request corrigindo alguma coisa, é bem mais prático.
+
+Quero terminar de arrumar esses scripts logo: as partes que dependem do MAL já estão dando problemas (mesmo com a API não oficial) e, como eu disse antes, em setembro a API que eu estava usando para gerar as estatísticas vai parar de funcionar. Na prática estou só organizando as coisas: ao invés de ter um monte de informação espalhada em uma planilha e um monte de arquivos JSON e TXT o meu plano é juntar tudo em um único ponto.
+
+Assim que eu terminar vai ficar mais fácil gerar as estatísticas e ainda quero fazer um aplicativo para celular para poder votar nos animes sem precisar de internet. Claro, estamos na época onde todo mundo tem internet a qualquer momento, mas pelo menos nisso eu não sou todo mundo: minha internet é tão ruim que a conexão cai até dentro de casa!
+
+Eu quero fazer um gráfico da nota de cada anime por episódio. É uma pena que só vou implementar isso depois de mais de cinco anos que comecei a coletar esses dados, mas antes tarde do que nunca. Enfim, isso é tudo por hoje, até semana que vem.

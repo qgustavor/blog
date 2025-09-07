@@ -1,0 +1,36 @@
+---
+title: Another
+date: '2015-06-16'
+excerpt: '26 anos no passado ocorreu em uma escola a morte de uma estudante da sala
+  três e por causa disso algo como uma maldição ficou nela: as vezes um estudante
+  morto voltava a estudar sem que ninguém percebesse e assim sempre que há um desequilíbrio
+  no número de estudantes eles começam a morrer de formas estranhas e trágicas, até
+  restaurar o equilíbrio.'
+---
+
+
+
+26 anos no passado ocorreu em uma escola a morte de uma estudante da
+sala três e por causa disso algo como uma maldição ficou nela: as vezes
+um estudante morto voltava a estudar sem que ninguém percebesse e assim
+sempre que há um desequilíbrio no número de estudantes eles começam a
+morrer de formas estranhas e trágicas, até restaurar o equilíbrio.
+
+No presente um garoto é transferido para essa sala e do nada a maldição
+volta a se manifestar: morre a representante, então outro e assim
+diversos vão morrendo. Uma tragédia atrás da outra ( que ainda não quero
+lembrar ).
+
+Na verdade os estudantes já sabendo da história pensaram em como evitar
+o problema: deram um dos estudantes como o morto não falaram com ele,
+uma garota de aparência estranha por não ter um olho, usar um tapa-olho,
+além de ser de poucas palavras. Só que esse garoto novo não sabia disso,
+o que possivelmente fez que ela voltasse a funcionar.
+
+A história continua com mais gente morrendo e morrendo e no final tudo
+se resolve de uma forma bem inesperada, o que eu gostei, mesmo que não
+seja o tipo de história que eu goste de assistir. Aliás, assisti por
+três motivos: tenho que perder o medo; por que não?; já tinha baixado e
+não podia baixar outro por que está acabando espaço no HD.
+
+

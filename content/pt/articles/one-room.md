@@ -1,0 +1,14 @@
+---
+title: One Room
+date: '2018-08-02'
+excerpt: Esse são curtas que mostram o relacionamento de um garoto com algumas garotas,
+  na maioria das vezes no quarto dele, sempre em primeira...
+---
+
+
+
+Esse são curtas que mostram o relacionamento de um garoto com algumas garotas, na maioria das vezes no quarto dele, sempre em primeira pessoa como se quem estivesse assistindo fosse esse garoto.
+
+São três garotas: uma vizinha, a irmã e uma amiga dele. As três passam o episódio todo conversando com ele e, como se ele fosse o protagonista de Half Life, ele não fala nada. Por outro lado dá para entender que ele é uma pessoa boa, já que elas se dão muito bem com ele.
+
+Como são 12 episódios cada uma delas tem quatro episódios, o que dá tempo para ele ajudar a vizinha a estudar, a irmã a resolver os problemas dela e a amiga a decidir o que vai fazer da vida. Como são episódios curtos não há muito além do que se falar. De certa forma é interessante a forma que ele foi apresentado.

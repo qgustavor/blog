@@ -1,0 +1,14 @@
+---
+title: Mangirl
+date: '2019-01-17'
+excerpt: 'Organizar uma revista de mangá não é fácil: encontrar artistas, organizar
+  o pessoal, atender demandas e prazos, conseguir conteúdos extras...'
+---
+
+
+
+Organizar uma revista de mangá não é fácil: encontrar artistas, organizar o pessoal, atender demandas e prazos, conseguir conteúdos extras como fotos e ainda vender isso tudo! É bem complicado!
+
+Mesmo assim essas garotas resolvem aceitar o desafio e criam juntas uma nova revista. Apesar de complicado todas elas gostam muito do que fazem e no fim isso se torna bem divertido. Claro, algumas vezes elas precisaram de passar os dias em claro, passaram por apertos, mas no fim tudo dá certo.
+
+São só alguns episódios, todos curtos. É divertido.

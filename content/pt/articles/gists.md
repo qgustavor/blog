@@ -1,0 +1,52 @@
+---
+title: Gists
+date: '2020-07-08'
+excerpt: Como na postagem anterior eu tive que sair procurando gists antigos quero
+  hoje comentar sobre alguns...
+header:
+  image: https://i.imgur.com/5GWN5S1.png
+---
+
+
+
+Como na postagem anterior eu tive que sair procurando gists antigos quero hoje comentar sobre alguns dos gists que encontrei.
+
+Os primeiros gists que tenho na minha conta, [como esse](https://gist.github.com/qgustavor/6151754), são de Minecraft. Já faz anos que não jogo ele… bem, nunca comprei o jogo.
+
+O primeiro gist que tem alguma coisa a ver com anime [foi esse](https://gist.github.com/qgustavor/7309f3a628cc1c2688c0): basicamente é um script que procurava uma imagem em um tracker de anime. Eles tinham feito um jogo onde você tinha que achar a imagem no site.
+
+Um dos registros mais antigos de quando comecei a trabalhar com o MEGA foi [esse código](https://gist.github.com/qgustavor/9b9af6c8baa8693720a8): ele serve apenas para decriptografar nomes de links compartilhados no site. O suporte para pastas compartilhadas era novo na época, então esse script não suportava isso. É interessante que na época o io.js ainda tinha alguma importância, será que o Deno vai seguir o mesmo rumo?
+
+Na mesma época fiz [esse gist](https://gist.github.com/qgustavor/fc66dc1aa54c2c3a9970), que foi o primeiro passo para eu entrar na equipe da UO. Até hoje o código do shoutbox está bagunçado desse jeito. Quero que esse povo largue de ser enjoado e vá para o Discord de uma vez por todas.
+
+Antigamente o HummingBird, atual Kitsu, não tinha uma função para sincronizar com o MyAnimeList automaticamente. Eu fiz [esse script](https://gist.github.com/qgustavor/ae436c476c981dfdac55) para resolver esse problema. Hoje essa é uma função disponível para qualquer um (e o meu script parou de funcionar porque o MAL desativou essa API).
+
+[Esse gist](https://gist.github.com/qgustavor/c5698a5b349686f8711c) é interessante, na época eu não tinha entendido como ele funciona, mas hoje acho que arrisco uma explicação: eles tinham um bug no código que gerava URLs como %252525 e tinham que corrigir isso para %. Provavelmente page.replace(/%(25)+/g, '%') já resolveria o problema sem tanta complicação. Isso me lembra [desse problema](https://www.youtube.com/watch?v=0fw5Cyh21TE) do Chrome.
+
+[Esse gist](https://gist.github.com/qgustavor/40d06ce73e8c852b2bb72d64808000c2) me lembra que até hoje não terminei todas as rotas de Katawa Shoujo.
+
+Já falei várias vezes que odeio erros de tradução, [essa aqui](https://gist.github.com/qgustavor/5759e43a30527bb15d75cba4777efc43) foi a primeira vez que eu fiz uma sugestão de correção para uma fansub. O que me dá mais raiva: esse anime está disponível na Crunchyroll e não tem **nenhum**  erro. Nem um errinho de digitação ou uma vírgula no lugar errado! Para me dar mais raiva ainda esse povo acha que é melhor e fica falando mal da CR!
+
+Nessa época eu estava com mania de fazer essas sugestões, [esse gist](https://gist.github.com/qgustavor/d4b2b096f49aaf5769953c48ddd4aa33) é uma avaliação com algumas sugestões. O meu voto era positivo, mas se eu fosse avaliar eles hoje… né, é óbvio qual seria o meu voto.
+
+[Esse gist](https://gist.github.com/qgustavor/3f1d8f30ba0ff796b887788e6207552d) foi um que fiz testando um bug no choo. Conhece o choo? Se não conhece é normal: [esse projeto está bem morto](https://github.com/choojs/choo/graphs/contributors) já faz alguns anos. Para a minha profunda tristeza eu usei ele em um projeto que tem um risco de acabar me assombrando no futuro. Vou tentar converter ele para Vue 3 no futuro… se eu me lembrar, claro.
+
+Faz anos que estou lutando para o pessoal usar softsub e até hoje tem gente que acha que "mas funciona em qualquer coisa" é desculpa para fazer a besteira de usar hardsub. Quer algo que funciona em tudo? Sabe aquela piada de PHP e sexo? É a mesma coisa, é um argumento idiota. [Esse gist](https://gist.github.com/qgustavor/3f6344d1cad50952288c999707181874) é um dos primeiros que fiz para promover a ideia de softsub, mas parou de funcionar depois que o GitHub melhorou a segurança do site. ¯\_(ツ)_/¯
+
+Já tentei várias vezes dar uma de tradutor e revisor, [nesse gist](https://gist.github.com/qgustavor/f8684a9df47e9c0693d6f2070ba96822) eu revisei e traduzi “Você Sabe” de Kassin. Nem vou ler isso de novo, sei que ficou ruim!
+
+Um dia no reddit uma pessoa postou um link para o imgur colocando um texto visível e outro no link, aí eu escrevi [esse código](https://gist.github.com/qgustavor/dc6aad9cdca470a73bef8d29cb4e3374) que procura imagens no imgur com base em uma palavra. Procurei várias palavras que poderiam se encaixar em uma resposta até que achei uma: “you [https://i.imgur.com/GoTMe.png](https://i.imgur.com/GoTMe.png)”.
+
+Foi assim consegui postar uma imagem que tinha realmente uma palavra (bem… duas) no nome, não era apenas um truque de formatação. O pessoal do reddit, inocente, inventou uma história que a administração do imgur estava envolvida nesse caso.
+
+Já tentei implementar uma forma de fazer prints de animes softsub, ou seja, de modo que a legenda nunca borra por mais zoom que você dê na imagem. Se me lembro bem gastei semanas trabalhando nisso e, como dá para ver [nesse gist](https://gist.github.com/qgustavor/3655e3d40e0ea6db7dca1d95b92719ad), o resultado não ficou tão bom. Mas o bom é que aprendi a mexer no libjass e no libass.
+
+Uma ideia que *ainda * quero implementar é arrumar uma forma de representar a Bíblia e a harpa em markdown. [Nesse gist](https://gist.github.com/qgustavor/c9b153055bf6506fd6b6b86666c08ff3) há um teste de como seria isso, tanto da formatação como do design. Acho interessante que nessa época eu já usava Vue. Esse teste resolve dois problemas que (ainda) ocorrem no adorai: a formatação é bem limitada (não suporta parágrafos por exemplo) e editar o conteúdo é difícil (mesmo com uma interface gráfica).
+
+Ainda há outros gists que não comentei: são muitos! Para terminar quero deixar mais uma imagem da velha guerra anti-hardsub:
+
+![](https://gist.github.com/qgustavor/021bef9865ef45cc66b43704c4ec8bde/raw/ef5039f27080c2cc165c930b5a5d891334e117bf/softsub-masterrace.svg)
+
+Não me lembro porque coloquei Arial, talvez era a fonte usada na imagem original. Eu poderia ter colocado Helvetica como padrão…
+
+Até semana que vem pessoal!

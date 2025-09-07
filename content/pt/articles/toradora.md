@@ -1,0 +1,50 @@
+---
+title: Toradora!
+date: '2015-06-05'
+excerpt: Já vou me adiantando que não me lembro bem dessa história, só aqueles pontos
+  marcantes como “um ótimo exemplo de tsundere” e “um casal ideal” ( esse último culpa
+  de Durarara! ). Mesmo assim vou ver se eu consigo me lembrar de algo e dar minha
+  opinião sobre a história.
+---
+
+
+
+Já vou me adiantando que não me lembro bem dessa história, só aqueles
+pontos marcantes como “um ótimo exemplo de tsundere” e “um casal ideal”
+( esse último culpa de Durarara! ). Mesmo assim vou ver se eu consigo me
+lembrar de algo e dar minha opinião sobre a história.
+
+Tudo começa com um grupo de estudantes de ensino médio que vivendo as
+suas animadas juventudes se envolvem em casos de amor, problemas
+familiares e com os colegas. Nesse grupo se destacam dois personagens
+que são geralmente evitados, um garoto e uma garota que não é bom mexer
+com eles. Isso é, nem seria bom um mexer com o outro: ela é brava e tem
+até o apelido de tigresa, já ele é mais relacionado com um dragão.
+
+Só que eles não fazem uma gangue ou algo assim, na verdade eles dois já
+dão problemas um para o outro. Para começar os dois acabam se
+relacionando por que são vizinhos, tanto que um abre a janela do quarto
+e acorda o outro. Ela mora sozinha e só come comidas prontas. Já ele
+mora com a mãe e faz a comida. Dessa forma com o tempo acabam ficando
+todos juntos já que ele passou a fazer a comida dela também e ela vivia
+visitando ele.
+
+Só que ainda havia mais coisas para um ajudar ao outro: o caso é que ela
+gosta de um amigo dele, e ele gosta de uma garota também, todos esses
+são do mesmo grupo de amigos, mas sabe como é difícil essas coisas. Daí
+chegaram a ideia de fazer planos de aproximação, para ver se rolava
+algum clima e desse certo, como o “um assusta e o outro banca o herói",
+por exemplo.
+
+Com o tempo dá no que era esperado e as coisas não ocorrem como eles
+esperavam, mas talvez até seja um final melhor ainda, isso é, os dois já
+se relacionam tão bem, por que toda essa ideia de um ajudar o outro a
+arrumar outra pessoa? E deu no que deu.
+
+Repito novamente que não me lembro da história, e como deu para perceber
+não me lembro do trama dela! Isso é ruim, muito ruim. Tanto que nem sei
+o que comentar. Claro que é uma história divertida, um romance juvenil,
+tudo isso e tal, mas, sei lá, não tem nada marcante a não ser os pontos
+que disse lá em cima? Não lembro.
+
+

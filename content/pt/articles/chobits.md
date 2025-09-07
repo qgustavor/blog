@@ -1,0 +1,50 @@
+---
+title: Chobits
+date: '2015-03-25'
+excerpt: 'Em um mundo futurístico os computadores evoluíram para formas mais versáteis:
+  humanoides. Nada de celular ou notebook, se quiser conversar com alguém só falar
+  para a sua pasokon portátil ligar para seu amigo e ela obedecerá.'
+---
+
+
+
+Em um mundo futurístico os computadores evoluíram para formas mais
+versáteis: humanoides. Nada de celular ou notebook, se quiser conversar
+com alguém só falar para a sua pasokon portátil ligar para seu amigo e
+ela obedecerá.
+
+Um garoto do interior - um que inclusive fez o anime iniciar com uma
+vaca e toda vez que eu vejo uma em um anime me lembro dele - Hideki, vai
+para a capital Tóquio estudar. Não tendo muito dinheiro só sonhava com
+essas tecnologias, que ele na roça não tinha. Porém, chegando lá ele
+acaba por achar uma pasokon dando sopa, jogada no lixo.
+
+Ah, há pasokons especializados em todo tipo de trabalho, como limpar,
+cuidar da segurança e tudo mais. Há porém uma lenda urbana que tipo de
+pasokon não precisa de sistema operacional e pode aprender tudo como um
+humano, não sendo limitado somente a função que foi criado, os chobits.
+
+A garota pasokon estragada gera um grande mistério e a primeira ideia
+que vem a mente é que ela seja parte dessa lenda urbana, porém não
+conseguem confirmar pois mesmo que estivesse estragada e não conseguisse
+fazer nada além de falar Chiiiii não conseguiam saber nada sobre ela.
+
+Como que a história continua, onde que o Hideki dedou ela para acordar a
+bichinha, por que não consigo apagar Raison D´re das minhas músicas e
+outras perguntas serão solucionadas nesse tão interessante anime que ao
+contrário de outros devo ter assistido seis vezes mais rápido do que o
+normal.
+
+<!-- more -->
+
+Nota: acho que já fiz um resumo de Chobits ano passado, se ficar igual
+me desculpem, ao menos eu tentei variar, e muito:
+
+Que eu me lembre eu estava achando que o anime era sobre NEETs,
+hikikomoris e assimilados que passam a amar garotas virtuais, porém
+parece que no final ele se tornou um “não imponha limites no amor, você
+pode amar a qualquer um, seja homem, mulher, máquina ou o que for”.
+Alguém faça uma
+[Maid-chan](https://myanimelist.net/character/84923/Maid-chan) para mim?
+
+

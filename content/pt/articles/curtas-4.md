@@ -1,0 +1,26 @@
+---
+title: Hana wa Saku, Yodaka no Hoshi e Toki wa Meguru
+date: '2017-10-26'
+excerpt: '# Hana wa Saku: Touhoku ni Saku  Um espírito, Zashiki-Warashi, conhecido
+  na cultura japonesa por proteger as casas¹ fugiu de casa e agora...'
+---
+
+
+
+# Hana wa Saku: Touhoku ni Saku
+
+Um espírito, Zashiki-Warashi, conhecido na cultura japonesa por proteger as casas¹ fugiu de casa e agora não sabe como voltar. Ela procura ajuda, forma amigos e fazem uma linda e bela jornada juntos.
+
+Esse é um curta animado pela NHK para ajudar os esforços de reconstrução depois do terremoto que ocorreu em 2011, logo alguns personagens famosos da NHK aparecem, como o simpático Domo-kun, mascote da empresa, que acaba virando o amigo dela. É bem bonito.
+
+¹ nota: isso de acordo com o que ouvi em Sayonara Zetsubou Sensei
+
+# Yodaka no Hoshi
+
+Cada pássaro tem o seu jeito: um se alimenta do néctar das flores, outro de peixes, um tem um detalhe bonito, mas um come insetos e não se vê tão bonito como os outros. Ele até tinha amigos, porém um dia começou a ser maltratado por outros pássaros, principalmente um falcão. Como o agressor era mais forte e maior que ele, não houveram muitas opções, mesmo assim houve um final feliz e bem estrelado. A animação dele parece aquarela, muito bonita.
+
+Nota: até onde eu pesquisei *yodaka* é um pássaro da Ásia, mas sem nome em português. O parente brasileiro mais próximo dele aqui seria o bacural (mesma família, espécie diferente), mas me recuso a chamar ele por esse nome.
+
+# Toki wa Meguru: Tokyo Station
+
+Uma garota vai à estação de Tóquio procurar uma forma de consertar o relógio do pai, que trabalhava lá e zelava muito por esse relógio, que o ajudava no seu trabalho, que exige muita precisão com o tempo. Lá ela reflete sobre a estação, que naquele momento estava completando 100 anos, sobre como é a vida lá, sobre como é trabalhar lá, sobre o seu pai. Embora seja um curta dedicado ao aniversário da estação a história sobre a garota, o pai dela e como o relógio ainda une os dois é bem bonita.

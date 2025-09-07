@@ -1,0 +1,38 @@
+---
+title: Arte
+date: '2019-08-21'
+excerpt: Eu não sou bom com arte. Isso em geral, pintura, música, até mesmo escrita.  Como
+  falei anteriormente eu geralmente fico com a vista...
+---
+
+
+
+Eu não sou bom com arte. Isso em geral, pintura, música, até mesmo escrita.
+
+Como falei anteriormente eu geralmente fico com a vista cansada, que geralmente é acompanhada de dor de cabeça. Por outro lado não gosto de ficar parado fazendo nada então tem horas que eu tento pintar alguma coisa.
+
+Ironicamente eu pinto no celular, usando o SketchBook, o que não é bom para a minha visão, mas de qualquer forma não envolve letras pequenas, então não é tão ruim.
+
+(Claro, uma opção melhor seria conversar com alguém, o que geralmente não dá certo já que, como podem ver, ninguém se interessa por nenhum dos assuntos que eu falo, seja animes, arte, música, programação, eletrônica, português de portugal, etc.)
+
+Alguns exemplos. Primeiro algo que deveria ser um átomo, ou uma bomba, ou sei lá o que. Eu só estava testando as funções de régua que tinham sido recentemente lançadas no aplicativo:
+
+![inline image](https://i.imgur.com/ry2drNX.png)
+
+Dessa vez eu estava testando as funções de simetria. Por algum motivo isso parece alguma comida italiana ou algo do tipo.
+
+![inline image](https://i.imgur.com/lgbg4kZ.png)
+
+Fui testar as funções de… como eu diria… "blending modes". Consegui fazer alguma coisa parecida com [aquele anime esquisito](https://anilist.co/anime/1981/Twilight-Q/)… acho.
+
+![inline image](https://i.imgur.com/c6WOP3l.png)
+
+Tentei desenhar alguma coisa normal, para variar. Por outro lado não sei o que é isso. Ao visto ter lido Kakukaku Shikajika não ajudou muito.
+
+![inline image](https://i.imgur.com/BDsy7u4.png)
+
+Tentei colorir uma das ilustrações de Ookami to Koushinryou (embora só colori a Holo e depois desisti porque não sinto a menor vontade de pintar homens, principalmente o Lawrence):
+
+![inline image](https://i.imgur.com/JzvPwqn.png)
+
+Outras coisas que desenhei foram aquele gráfico na postagem sobre honoríficos, uma possível logotipo para um de meus sites, uma montagem de dois apresentadores de um programa de culinária que despertam a minha fujoshi interior quando os dois começam a se elogiar muito parecendo que no fundo no fundo tem algo a mais rolando entre eles e a tradução escrita à mão de uma cena de um mangá que eu li já que o aplicativo não tem nenhuma fonte apropriada para mangás.
