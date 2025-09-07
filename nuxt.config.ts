@@ -30,6 +30,7 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://qgustavor.tk',
+    name: "qgustavor's website",
     defaultLocale: 'en',
     indexable: true
   },

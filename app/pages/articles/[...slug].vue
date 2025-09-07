@@ -32,9 +32,11 @@ defineShortcuts({
   }
 })
 
-defineOgImage({
-  url: page.value.image
-})
+if (page.value.image) {
+  defineOgImage({
+    url: page.value.image
+  })
+}
 </script>
 
 <template>
