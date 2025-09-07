@@ -34,11 +34,6 @@ const stack = await queryCollection('stack').first()
       </div>
     </div>
     <Divider class="my-8" />
-    <slot
-      name="experiences"
-      mdc-unwrap="p"
-    />
-    <Divider class="my-8" />
     <div class="flex flex-col gap-3">
       <div class="mb-6 flex flex-col gap-1">
         <h3 class="text-white-shadow font-newsreader italic text-3xl">

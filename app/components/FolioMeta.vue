@@ -17,6 +17,7 @@ const pageSEO = computed(() => ({
 const getTitleTemplate = (title: string | undefined) => {
   if (route.path === '/') return title || `${seo.title}`
   if (isWriting) return title
+  if (title === seo.title) return title
   return `${title} | ${seo.title}`
 }
 
