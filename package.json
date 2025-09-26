@@ -28,7 +28,7 @@
     "@vueuse/core": "^13.9.0",
     "@vueuse/nuxt": "^13.9.0",
     "better-sqlite3": "^12.2.0",
-    "nuxt": "4.0.3",
+    "nuxt": "4.1.2",
     "pix-utils": "^2.8.2",
     "qrcode": "^1.5.4",
     "resend": "6.0.2",
