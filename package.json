@@ -29,6 +29,8 @@
     "@vueuse/nuxt": "^13.9.0",
     "better-sqlite3": "^12.2.0",
     "nuxt": "4.0.3",
+    "pix-utils": "^2.8.2",
+    "qrcode": "^1.5.4",
     "resend": "6.0.2",
     "sitemap": "8.0.0",
     "ufo": "^1.6.1",
