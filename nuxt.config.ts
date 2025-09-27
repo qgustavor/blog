@@ -66,7 +66,8 @@ export default defineNuxtConfig({
   },
 
   experimental: {
-    viewTransition: true
+    viewTransition: true,
+    componentIslands: true
   },
 
   compatibilityDate: '2025-01-05',
