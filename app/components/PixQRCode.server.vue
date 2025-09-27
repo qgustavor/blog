@@ -57,7 +57,7 @@ const generatePixQR = async () => {
           width="11"
           height="11"
           fill="black"
-          style="animation-duration: ${(Math.random() * 3 + 0.5).toFixed(2)}s;animation-delay: -${(Math.random() + 0.5).toFixed(2)}s"
+          style="animation-duration: ${(Math.random() + 0.5).toFixed(2)}s;animation-delay: -${(Math.random() + 0.5).toFixed(2)}s"
         />`
       }
     }
@@ -69,26 +69,3 @@ const generatePixQR = async () => {
 
 const qrCodeSvg = await generatePixQR()
 </script>
-
-<style>
-@keyframes qr-build {
-  0%, 90% {
-    opacity: 0;
-    transform: scale(2);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
-.qrcode {
-  width: 192px;
-  height: 192px;
-}
-
-.qr-module {
-  animation: qr-build 0.1s ease-out forwards 2;
-  transform-origin: center;
-}
-</style>

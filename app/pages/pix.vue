@@ -69,7 +69,7 @@ const props = withDefaults(defineProps<Props>(), {
   transactionAmount: 0
 })
 
-const copyButtonText = ref('Copiar código Pix')
+const copyButtonText = ref('Copiar Pix Copia e Cola')
 const pixKeyStatus = ref('Chave Pix')
 const isPixKeyCopied = ref(false)
 const isBrCodeCopied = ref(false)
@@ -126,7 +126,7 @@ const copyToClipboard = async (text: string) => {
     
     setTimeout(() => {
       isBrCodeCopied.value = false
-      copyButtonText.value = 'Copiar código Pix'
+      copyButtonText.value = 'Copiar Pix Copia e Cola'
     }, 2000)
   } catch (error) {
     console.error('Error copying to clipboard:', error)
@@ -136,7 +136,7 @@ const copyToClipboard = async (text: string) => {
     
     setTimeout(() => {
       isBrCodeCopied.value = false
-      copyButtonText.value = 'Copiar código Pix'
+      copyButtonText.value = 'Copiar Pix Copia e Cola'
     }, 2000)
   }
 }
@@ -155,3 +155,26 @@ useHead({
   ]
 })
 </script>
+
+<style>
+@keyframes qr-build {
+  0%, 90% {
+    opacity: 0;
+    transform: scale(2);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.qrcode {
+  width: 192px;
+  height: 192px;
+}
+
+.qr-module {
+  animation: qr-build 0.1s ease-out forwards 2;
+  transform-origin: center;
+}
+</style>
