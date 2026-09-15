@@ -29,7 +29,7 @@ export default defineNuxtConfig({
   css: ['~/assets/style/main.css'],
 
   site: {
-    url: 'https://qgustavor.tk',
+    url: 'https://qgustavor.github.io/blog',
     name: "qgustavor's website",
     defaultLocale: 'en',
     indexable: true
