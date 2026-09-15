@@ -1,4 +1,8 @@
 export default defineNuxtConfig({
+  app: {
+    baseURL: 'https://qgustavor.github.io/blog/',
+  },
+
   modules: [
     '@vueuse/nuxt',
     '@nuxt/ui',
