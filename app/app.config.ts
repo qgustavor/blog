@@ -11,7 +11,7 @@ export default defineAppConfig({
   seo: {
     title: "qgustavor's website",
     description: 'This is the website from qgustavor, with some posts and other assorted things.',
-    url: 'https://qgustavor.tk'
+    url: 'https://qgustavor.github.io/blog/'
   },
   ui: {
     colors: {
